@@ -1,0 +1,2813 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Halo 2.0"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "主题"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theme-earth",
+          "description": "Halo 2.0 的默认主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-27T13:41:35Z",
+            "owner": "halo-dev",
+            "repo": "theme-earth",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-anatole",
+          "description": "适用于 Halo 2.0 的 Anatole 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-27T02:44:12Z",
+            "owner": "halo-dev",
+            "repo": "halo-theme-anatole",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-modern-starter",
+          "description": "集成了现代前端技术栈的 Halo 2.0 的主题开发模板。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-04-03T08:18:22Z",
+            "owner": "halo-dev",
+            "repo": "theme-modern-starter",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-astro-starter",
+          "description": "与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-04-09T06:42:14Z",
+            "owner": "halo-sigs",
+            "repo": "theme-astro-starter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-vite-starter",
+          "description": "与 Vite 集成的主题模板，由 Vite 负责资源构建。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-27T08:00:04Z",
+            "owner": "halo-dev",
+            "repo": "theme-vite-starter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-starter",
+          "description": "最基础的主题模板，包含了主题的基本目录结构。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-14T10:04:47Z",
+            "owner": "halo-dev",
+            "repo": "theme-starter",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "官方"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theme-sakura",
+          "description": "适用于 Halo 2.0 的 Sakura 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-29T08:02:49Z",
+            "owner": "LIlGG",
+            "repo": "halo-theme-sakura",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-hao",
+          "description": "移植于 Heo，Heo 是在 Hexo 社区 Hexo-Theme-Butterfly 的魔改",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-16T09:10:00Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-hao",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-xue",
+          "description": "适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T11:25:01Z",
+            "owner": "xzhuz",
+            "repo": "halo-theme-xue",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-butterfly",
+          "description": "移植于 Hexo 社区 Hexo-Theme-Butterfly - 适用于 Halo 2.0 的 Butterfly 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-30T11:03:12Z",
+            "owner": "dhjddcn",
+            "repo": "halo-theme-butterfly",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-joe3.0",
+          "description": "一款 Halo 2.0 的博客主题，由 halo-theme-joe2.0 适配而来",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-06T15:19:14Z",
+            "owner": "jiewenhuang",
+            "repo": "halo-theme-joe3.0",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-higan",
+          "description": "适用于 Halo 2.0 的 Higan 主题，移植于 hexo-theme-cactus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-17T04:36:38Z",
+            "owner": "guqing",
+            "repo": "halo-theme-higan",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-chirpy",
+          "description": "一个简约且功能丰富的技术博客主题，移植于jekyll-theme-chirpy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-17T13:51:54Z",
+            "owner": "AirboZH",
+            "repo": "halo-theme-chirpy",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-stack",
+          "description": "移植于 hugo-theme-stack 的个人博客主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-07T16:07:58Z",
+            "owner": "jiewenhuang",
+            "repo": "halo-theme-stack",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-heolink",
+          "description": "适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-13T06:48:12Z",
+            "owner": "zhheo",
+            "repo": "halo-theme-heolink",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-vapor",
+          "description": "一款简约风格的博客主题, 移植于 CaliCastle 的 Cali.so",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-03T02:04:40Z",
+            "owner": "iscottt",
+            "repo": "halo-theme-vapor",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-aurora",
+          "description": "移植自 hexo-theme-aurora 适配 Halo2.x 的 Aurora 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-23T08:39:51Z",
+            "owner": "Roozenlz",
+            "repo": "halo-theme-aurora",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-dream2.0-plus",
+          "description": "适配 Halo 2 的 Dream2 主题，由 halo-theme-dream2.0 修改而来。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T08:47:02Z",
+            "owner": "hcjike",
+            "repo": "halo-theme-dream2.0-plus",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-Ideaflow",
+          "description": "一个精致美观的主题,现代化的UI设计,多种主题自由搭配",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-11T13:18:11Z",
+            "owner": "YunyuVv",
+            "repo": "theme-Ideaflow",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-sora",
+          "description": "Sora「穹」，一个简约的主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-07-09T14:58:38Z",
+            "owner": "Liksium",
+            "repo": "halo-theme-sora",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-higan-hz",
+          "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T20:42:55Z",
+            "owner": "HowieHz",
+            "repo": "halo-theme-higan-hz",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-fluid",
+          "description": "🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 hexo-theme-fluid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-26T12:24:29Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-fluid",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-moderna",
+          "description": "基于 bootstrapmade Moderna 的 Halo 2.0 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-22T07:53:56Z",
+            "owner": "Arch4AI",
+            "repo": "theme-moderna",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-Serenity-Grace",
+          "description": "简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-06T15:00:55Z",
+            "owner": "atangccc",
+            "repo": "Serenity-Grace",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-clarity",
+          "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-23T07:16:14Z",
+            "owner": "acanyo",
+            "repo": "theme-clarity",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-terminal",
+          "description": "一款 Terminal 风格的 Halo 2.0 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-30T09:41:45Z",
+            "owner": "wan92hen",
+            "repo": "theme-terminal",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-ocean",
+          "description": "适用于 Halo 2.0 的 知识库类型主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-13T10:18:46Z",
+            "owner": "lxware-dev",
+            "repo": "theme-ocean",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-sky-blog-1",
+          "description": "一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-01T10:56:26Z",
+            "owner": "sky121666",
+            "repo": "halo-theme-sky-blog-1",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-fuwari",
+          "description": "一款个人博客主题，移植自 同名静态博客模板Fuwari。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-31T15:16:44Z",
+            "owner": "jiewenhuang",
+            "repo": "halo-theme-fuwari",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-oranges",
+          "description": "适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 hexo-theme-oranges",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-13T01:35:55Z",
+            "owner": "allendevx",
+            "repo": "halo-theme-oranges",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-vcard4",
+          "description": "适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 codewithsadee/vcard-personal-portfolio。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-14T01:55:50Z",
+            "owner": "Anyexyz",
+            "repo": "theme-vcard4",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-Ying",
+          "description": "Ying 一款简约而不简单的Halo主题，该主题是由Typecho的Ying主题 二次修改开发的 Halo 主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-05-22T02:01:52Z",
+            "owner": "MagicBreeze",
+            "repo": "halo-theme-Ying",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-iemo",
+          "description": "iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 iEmo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-26T12:44:58Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-iemo",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-Mego",
+          "description": "一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-25T06:14:39Z",
+            "owner": "w-flac",
+            "repo": "theme-mego",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-next",
+          "description": "一个简洁的 Halo 博客主题 Next，技术栈 Next.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-04T09:56:57Z",
+            "owner": "AeroWang",
+            "repo": "theme-next",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-stellar",
+          "description": "Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 Stellar。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-26T13:05:27Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-stellar",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-next",
+          "description": "适用于 Halo 2.0 的 Next 主题，该主题移植于 Hexo-Theme-Next。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-24T10:27:25Z",
+            "owner": "bit15k",
+            "repo": "halo-theme-next",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-terminal-ez",
+          "description": "一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 Terminal 修改",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-13T17:41:09Z",
+            "owner": "Erzbir",
+            "repo": "halo-theme-terminal",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-halo-theme",
+          "description": "一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-27T02:29:45Z",
+            "owner": "dengxiwang",
+            "repo": "go-halo-theme",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-material",
+          "description": "一个简洁的 Halo 2.0 博客主题， 移植于 hexo-theme-material",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-26T12:49:22Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-material",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-aircloud",
+          "description": "一个简洁轻量的 Halo 2.0 博客主题，旨在将中心放在博文本身, 移植于 Hexo-Theme-AirCloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T15:13:59Z",
+            "owner": "bit15k",
+            "repo": "halo-theme-aircloud",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-mainroad",
+          "description": "移植于 Hugo 主题 Vimux Mainroad，适用于 Halo 2.0 的 Mainroad 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-19T03:41:58Z",
+            "owner": "Arch4AI",
+            "repo": "theme-mainroad",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-farallon",
+          "description": "Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 Farallon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-08-29T14:19:16Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-farallon",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-hellopage",
+          "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-23T02:22:47Z",
+            "owner": "Anyexyz",
+            "repo": "theme-hellopage",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-lapis",
+          "description": "一款简洁、以蓝色为主色调的 Halo 主题，基于 typora-theme-lapis 二次开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-21T05:48:52Z",
+            "owner": "Aziteee",
+            "repo": "halo-theme-lapis",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-Jyf",
+          "description": "Halo 极简纯文字博客主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-22T09:50:52Z",
+            "owner": "PpKoK",
+            "repo": "theme-jyf",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-sky-blog-3(macos)",
+          "description": "Apple-like macOS 桌面壳层博客主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T05:46:45Z",
+            "owner": "sky121666",
+            "repo": "theme-sky-blog-3",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-geek",
+          "description": "基于 Octopress 移植的一款简约极客的 Halo 2.0 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-02-14T14:47:20Z",
+            "owner": "mytianya",
+            "repo": "halo-theme-geek",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-mcnav",
+          "description": "Mcnav 一个基于导航管理插件的主题，导航站。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-26T12:55:31Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-mcnav",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-word",
+          "description": "一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-08T06:14:17Z",
+            "owner": "cklx0719",
+            "repo": "halo-theme-word",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-archer",
+          "description": "源于hexo-theme-archer,使用 halo 特性实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-29T07:58:49Z",
+            "owner": "Azincc",
+            "repo": "halo-theme-archer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-meaword",
+          "description": "适用于 Halo 2.0 的 MeaWord 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-01-22T06:39:45Z",
+            "owner": "Meayair",
+            "repo": "Halo-Theme-MeaWord",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-hingle2.0",
+          "description": "适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 Hexo Themes Hingle 主题的 Halo 移植版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-31T16:05:17Z",
+            "owner": "Pedro-null",
+            "repo": "halo-theme-hingle2.0",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-sky blog 2",
+          "description": "复古终端风格主题，支持全键盘操作与 Vim 快捷键",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T04:28:44Z",
+            "owner": "sky121666",
+            "repo": "theme-sky-blog-2",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-halorum",
+          "description": "Halorum 是一款面向 Halo 的轻论坛风格主题，基于 mulingyuer/Typecho_Theme_JJ 的视觉语言移植并重构。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-12T15:26:46Z",
+            "owner": "xzyone",
+            "repo": "halo-theme-halorum",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-twentytwelve",
+          "description": "TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 2012-huhexian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-26T09:00:25Z",
+            "owner": "chengzhongxue",
+            "repo": "halo-theme-twentytwelve",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-kui-niu",
+          "description": "夔牛，一款暖色调 Halo 主题。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-04-08T17:01:51Z",
+            "owner": "lyujp",
+            "repo": "halo-theme-kui-niu",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-sky-weather",
+          "description": "Huohuo Weather Glass，基于 Sky Blog Theme 二次开发的动态天气玻璃风 Halo 主题，支持白天动态云层、黄昏火烧云、夜间雨景视频背景与全站玻璃卡片。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-01T16:49:26Z",
+            "owner": "huohuo-huo",
+            "repo": "-theme-sky-weather",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-retypeset",
+          "description": "一款专注排版的博客主题，移植自 astro-theme-retypeset，适配 Halo 博客平台。以纸质书般的阅读体验，重新唤醒排版之美。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T07:18:01Z",
+            "owner": "picsky",
+            "repo": "halo-theme-retypeset",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-daisym",
+          "description": "支持首页自由拖动的极简博客主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-17T14:36:30Z",
+            "owner": "ting1e",
+            "repo": "halo-theme-daisym",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wing",
+          "description": "一款简洁流畅、数据驱动的响应式主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-13T05:59:04Z",
+            "owner": "waistu",
+            "repo": "halo-theme-Wing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-gui",
+          "description": "传统水墨风格的 Halo 博客主题，以宣纸底色、书法题字与朱红点缀营造疏朗安静的主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-17T09:23:48Z",
+            "owner": "CirillaQL",
+            "repo": "halo-theme-gui",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-s1mp1e",
+          "description": "一款简洁的 Halo 主题。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2024-12-13T15:01:38Z",
+            "owner": "lyujp",
+            "repo": "theme-s1mp1e",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-vahlok",
+          "description": "一款暗金色调、古典风格的博客主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-30T16:26:26Z",
+            "owner": "Aziteee",
+            "repo": "halo-theme-vahlok",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-crux-4zero4",
+          "description": "适用于 Halo 2.0 ，基于 theme-crux进行二次修改开发的 Halo 主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-12-08T14:06:41Z",
+            "owner": "haoanlan",
+            "repo": "halo-theme-crux-4zero4",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-zero",
+          "description": "适用于 Halo 2.0 的 Zero 主题",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-fresh",
+          "description": "一款清新的 Halo 2.0 主题",
+          "children": []
+        }
+      ],
+      "title": "社区"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "插件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plugin-moments",
+          "description": "Halo 2.0 的瞬间管理插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T15:07:11Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-moments",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-starter",
+          "description": "Halo 2.0 的插件快速开始脚手架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-11T07:05:48Z",
+            "owner": "halo-dev",
+            "repo": "plugin-starter",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-s3",
+          "description": "为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T11:11:28Z",
+            "owner": "halo-dev",
+            "repo": "plugin-s3",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-links",
+          "description": "Halo 2.0 的链接管理插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:37:23Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-links",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-oauth2",
+          "description": "Halo 2.0 的 OAuth2 第三方登录插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-20T03:47:05Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-oauth2",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-comment-widget",
+          "description": "Halo 2.0 的前台评论组件插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T02:50:42Z",
+            "owner": "halo-dev",
+            "repo": "plugin-comment-widget",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-editor-hyperlink-card",
+          "description": "Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-10T07:56:10Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-editor-hyperlink-card",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-bytemd",
+          "description": "为 Halo 2.0 集成 ByteMD 编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T14:43:43Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-bytemd",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-hybrid-edit-block",
+          "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:44:57Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-hybrid-edit-block",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-photos",
+          "description": "Halo 2.0 的图库管理插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:45:14Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-photos",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-katex",
+          "description": "为默认编辑器和文章渲染提供 KaTeX 支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T15:11:21Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-katex",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-app-store",
+          "description": "集成 Halo 官方应用市场到 Console",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-24T02:36:12Z",
+            "owner": "halo-dev",
+            "repo": "plugin-app-store",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-search-widget",
+          "description": "为 Halo 2.0 提供统一的搜索组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-20T03:27:29Z",
+            "owner": "halo-dev",
+            "repo": "plugin-search-widget",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-highlightjs",
+          "description": "提供对 highlight.js 的集成，支持在内容页高亮显示代码块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-08T15:11:05Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-highlightjs",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-umami",
+          "description": "Halo 2.0 对 Umami 的集成",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-02T08:16:03Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-umami",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-feed",
+          "description": "Halo 2.0 的 RSS 订阅链接生成插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-13T11:48:26Z",
+            "owner": "halo-dev",
+            "repo": "plugin-feed",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-alioss",
+          "description": "Halo 2.0 的阿里云 OSS 存储策略插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-07-07T04:09:52Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-alioss",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-migrate",
+          "description": "支持从 Halo 1.5/1.6 迁移数据",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T07:48:51Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-migrate",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-sitemap",
+          "description": "Sitemap 链接生成插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-27T14:57:34Z",
+            "owner": "halo-dev",
+            "repo": "plugin-sitemap",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-wordpress",
+          "description": "WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-23T03:31:16Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-wordpress",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-meilisearch",
+          "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-20T10:54:00Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-meilisearch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-shiki",
+          "description": "适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T02:29:01Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-shiki",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-lightgallery",
+          "description": "提供对 lightgallery.js 的集成，支持在内容页放大显示图片",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-03T04:21:17Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-lightgallery",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-stackedit",
+          "description": "为 Halo 2.0 集成 StackEdit 编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-06-10T09:59:30Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-stackedit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-unsplash",
+          "description": "Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2024-11-06T10:04:27Z",
+            "owner": "halo-sigs",
+            "repo": "plugin-unsplash",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "官方"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plugin-live2d",
+          "description": "Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T04:17:13Z",
+            "owner": "LIlGG",
+            "repo": "plugin-live2d",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-Sakana-widget-Halo",
+          "description": "「Sakana!」摇摇乐组件 | Halo 版的莉可丽丝摇摇乐小组件，为您的 Halo 网站增加一个有趣的摇摇乐摆件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-06-27T07:40:51Z",
+            "owner": "Lentinel",
+            "repo": "plugin-Sakana-widget-Halo",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-bilibili-bangumi",
+          "description": "Halo 2.0 的追番插件，可以为主题提供追番数据及 页面路由",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T08:58:50Z",
+            "owner": "Roozenlz",
+            "repo": "plugin-bilibili-bangumi",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-vditor",
+          "description": "为 Halo 2.0 提供 vditor 编辑器支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T01:41:12Z",
+            "owner": "justice2001",
+            "repo": "halo-plugin-vditor",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-sitepush",
+          "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-14T08:33:34Z",
+            "owner": "Stonewuu",
+            "repo": "halo-plugin-sitepush",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-summaraidGPT",
+          "description": "智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-09T03:14:17Z",
+            "owner": "acanyo",
+            "repo": "halo-plugin-summaraidGPT",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-export-md",
+          "description": "导出文章为 Markdown、HTML 文件并打包下载",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-15T02:26:04Z",
+            "owner": "Lyn4ever29",
+            "repo": "halo-plugin-export-md",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-douban",
+          "description": "Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 页面路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T07:40:29Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-douban",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-picture-bed",
+          "description": "对接多种图床服务，实现图片上传、删除等功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T09:11:31Z",
+            "owner": "liuyiwuqing",
+            "repo": "halo-plugin-picture-bed",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-storage-toolkit",
+          "description": "存储增强插件：支持图片处理、格式转换、水印添加等功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T15:28:45Z",
+            "owner": "Tim0x0",
+            "repo": "halo-plugin-storage-toolkit",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-astrahub",
+          "description": "一款面向独立博客生态的星链协作系统插件，把博客之间的友链关系、节点身份和公开动态组织成可联动、可检索、可探索的关系网络，支持一键申请友链、可视化关系图谱、圈层归属与迁移恢复。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T15:46:45Z",
+            "owner": "atangccc",
+            "repo": "Astrahub",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-link-security-detect",
+          "description": "Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-16T09:43:13Z",
+            "owner": "wenjing-xin",
+            "repo": "plugins-links-security-detect",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-lsky-pro",
+          "description": "集成 Lsky Pro 兰空图床作为 Halo 2.0 的存储后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-16T23:17:26Z",
+            "owner": "ichenhe",
+            "repo": "halo-lsky-pro",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-githuboss",
+          "description": "Halo 2.x 的 GitHub OSS 存储插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-16T17:30:46Z",
+            "owner": "guicaiyue",
+            "repo": "plugin-githuboss",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-blog-hao",
+          "description": "让你的博客变得更好！功能相见仓库README文档。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-02T10:58:49Z",
+            "owner": "wenjing-xin",
+            "repo": "plugin-blog-hao",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-afdian",
+          "description": "Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T02:52:03Z",
+            "owner": "carolcoral",
+            "repo": "plugin-afdian",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-content-tools",
+          "description": "为 Halo 添加内容格式转换、文章导入导出等功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-04-22T07:30:49Z",
+            "owner": "ruibaby",
+            "repo": "plugin-content-tools",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-notify-me",
+          "description": "适用于 Halo 2.x 的通知插件，当有新评论、待审核评论、发布文章、投稿时将通知推送到微信、企业微信、钉钉、飞书、微信测试号等应用上。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-11T15:10:24Z",
+            "owner": "monyuan",
+            "repo": "notify-me",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-meilisearch",
+          "description": "集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。（已停止维护，可以使用 plugin-meilisearch 代替）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-02T10:05:01Z",
+            "owner": "Rainsheep",
+            "repo": "halo-plugin-meilisearch",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-footprint",
+          "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-09-23T08:29:04Z",
+            "owner": "acanyo",
+            "repo": "halo-plugin-footprint",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-mail-template",
+          "description": "邮件模板管理，查看、编辑邮件模板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-10-10T14:12:28Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-mail-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-issues",
+          "description": "言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T12:56:22Z",
+            "owner": "wenjing-xin",
+            "repo": "plugin-issues",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-steam",
+          "description": "Halo Steam展示插件: 展示 Steam 用户资料、游戏库和最近游玩记录",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-27T18:29:43Z",
+            "owner": "Tim0x0",
+            "repo": "halo-plugin-steam",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-prismjs",
+          "description": "Halo 2.0 的代码高亮 Prism.js 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-12T16:12:04Z",
+            "owner": "liuzhihang",
+            "repo": "plugin-prismjs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-colorless",
+          "description": "支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-31T08:39:24Z",
+            "owner": "guqing",
+            "repo": "halo-plugin-colorless",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-coverImage",
+          "description": "封面图 可以帮您自动生成一个文章封面图!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-25T03:08:27Z",
+            "owner": "acanyo",
+            "repo": "plugin-coverImage",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auth-passkey",
+          "description": "为 Halo 提供 Passkey (WebAuthn) 无密码认证支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-27T05:24:23Z",
+            "owner": "iLay1678",
+            "repo": "halo-plugin-auth-passkey",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-webhook",
+          "description": "为 Halo 2.0 提供 Webhook 支持，该插件允许用户在特定事件发生时（如文章发布、新评论、回复评论等事件）发送通知到指定的 Webhook URL。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-25T07:57:56Z",
+            "owner": "wxyShine",
+            "repo": "plugin-webhook",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-artalk",
+          "description": "集成artalk 评论系统至 halo2.0 站点。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-24T01:41:51Z",
+            "owner": "wenjing-xin",
+            "repo": "plugin-artalk",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-auto-backup",
+          "description": "Halo自动备份插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-16T15:00:06Z",
+            "owner": "yuxuefenfei",
+            "repo": "halo-plugin-auto-backup",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-zenNavigator",
+          "description": "化繁为简，专注所需 - halo网址导航插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-08-26T12:25:53Z",
+            "owner": "acanyo",
+            "repo": "halo-plugin-zenNavigator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-openlist",
+          "description": "将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-18T17:32:38Z",
+            "owner": "pandyzhou",
+            "repo": "plugin-openlist",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-wangEditor",
+          "description": "Halo 2.0 对 wangEditor 的集成，可以像使用 Word 文档那样编辑文章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-05-10T07:52:58Z",
+            "owner": "HandsomeNPC",
+            "repo": "halo-wangEditor-plugin",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-giteeoss",
+          "description": "适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-14T03:02:48Z",
+            "owner": "MartyAlien",
+            "repo": "plugin-giteeoss",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-webp-cloud",
+          "description": "接入 webp.se 平台，实现无入侵的 WebP 图片格式转换",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-20T06:57:59Z",
+            "owner": "webp-sh",
+            "repo": "halo-plugin-webp-cloud",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-typecho",
+          "description": "为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-02-21T02:07:33Z",
+            "owner": "ShiinaKin",
+            "repo": "halo-plugin-typecho",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-post",
+          "description": "文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T18:14:26Z",
+            "owner": "chengzhongxue",
+            "repo": "flow-post",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-time-factor",
+          "description": "时间因子SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-27T01:40:38Z",
+            "owner": "acanyo",
+            "repo": "plugin-time-factor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-editor-sticker",
+          "description": "为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-16T02:40:43Z",
+            "owner": "SwaggyMacro",
+            "repo": "plugin-editor-sticker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-schedule-calendar",
+          "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T14:32:20Z",
+            "owner": "sunnyhmz7010",
+            "repo": "halo-plugin-schedule-calendar",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-wechat-share",
+          "description": "基于Halo自定义微信分享卡片的标题、描述、封面、、链接，优化微信内分享展示效果。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-24T23:15:44Z",
+            "owner": "Avrinbai",
+            "repo": "halo-plugin-wechat-share",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-weread-plugin",
+          "description": "为 Halo 提供 微信读书记录展示",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-09T05:18:22Z",
+            "owner": "yeora26",
+            "repo": "halo-weread-plugin",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-waline",
+          "description": "集成 waline 评论系统至 halo 站点",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-06T14:42:29Z",
+            "owner": "wenjing-xin",
+            "repo": "plugin-waline",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-aplayer",
+          "description": "集成 APlayer 音乐播放器与 MetingJS 到 Halo 2.0。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T03:37:19Z",
+            "owner": "Aziteee",
+            "repo": "halo-plugin-aplayer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "link-submit",
+          "description": "友链自助提交插件 访问者可以自助提交友链，并在后台管理页面进行审核。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T07:19:24Z",
+            "owner": "chengzhongxue",
+            "repo": "link-submit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-announcement",
+          "description": "公告插件 一个功能强大的 Halo 博客系统公告通知插件，支持自定义弹窗内容、按钮行为、动画效果和智能弹出控制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T07:02:37Z",
+            "owner": "acanyo",
+            "repo": "plugin-announcement",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-bangumi-data",
+          "description": "这是一个用于获取和展示 Bangumi 数据的插件，支持在独立页面中展示个人的 Bangumi 数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-07-28T12:50:07Z",
+            "owner": "ShiinaKin",
+            "repo": "halo-plugin-bangumi-data",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-live2D",
+          "description": "为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-19T05:26:34Z",
+            "owner": "alsdhkauuhw",
+            "repo": "halo-plugin-live2D",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-ui-beautify",
+          "description": "为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-18T15:56:12Z",
+            "owner": "pandyzhou",
+            "repo": "plugin-ui-beautify",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-online",
+          "description": "让用户看到有多少人在与他看同一个页面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-26T05:55:15Z",
+            "owner": "Zyx-2012",
+            "repo": "plugin-online",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-hitokoto-hub",
+          "description": "为你的网站注入\"一句话\"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:44:03Z",
+            "owner": "imorisun",
+            "repo": "plugin-hitokoto-hub",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-navidrome-player",
+          "description": "一款为 Halo 博客集成 Navidrome（Subsonic API）前台音乐播放器的插件，支持歌单播放、悬浮控制与多歌单切换。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-08T06:48:54Z",
+            "owner": "queenyn",
+            "repo": "halo-plugin-navidrome-player",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-twikoo",
+          "description": "将 Twikoo 评论系统集成到 Halo 2.0。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-10T22:32:49Z",
+            "owner": "ichenhe",
+            "repo": "halo-twikoo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-image-url-handler",
+          "description": "Halo 2.0 插件-图片链接处理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-19T08:42:53Z",
+            "owner": "kecikeci",
+            "repo": "halo-plugin-image-url-handler",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-comment-migrate",
+          "description": "评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T08:32:28Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-comment-migrate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-pangu",
+          "description": "自动对文章内容执行 Pangu 格式化，在中英文之间加入空格。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-17T06:04:39Z",
+            "owner": "Aziteee",
+            "repo": "halo-plugin-pangu",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-IndexNow",
+          "description": "IndexNow 能让你的 URL 更快被收录.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-16T09:16:55Z",
+            "owner": "acanyo",
+            "repo": "plugin-IndexNow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-vote",
+          "description": "投票插件, 创建管理投票",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T17:28:17Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-vote",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-data-statistics",
+          "description": "为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T06:19:05Z",
+            "owner": "acanyo",
+            "repo": "plugin-data-statistics",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-timeline",
+          "description": "为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-02-11T02:25:19Z",
+            "owner": "acanyo",
+            "repo": "plugin-timeline",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-cdn-cache",
+          "description": "一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-08T07:26:39Z",
+            "owner": "SwaggyMacro",
+            "repo": "plugin-cdn-cache",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halo-Plugin-Dicebear-Avatar",
+          "description": "利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-28T03:05:39Z",
+            "owner": "YunJian101",
+            "repo": "Halo-Plugin-Dicebear-Avatar",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-private-posts",
+          "description": "为 Halo 提供加密正文、浏览器本地解密和自动重锁的私密文章插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-21T17:37:07Z",
+            "owner": "BairongLuo",
+            "repo": "halo-private-posts",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-pixabay",
+          "description": "Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-13T03:53:14Z",
+            "owner": "microhalo",
+            "repo": "plugin-pixabay",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-friends",
+          "description": "为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T10:11:21Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-friends",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-bingeWatching",
+          "description": "影视墙，提供一个影视追踪、展示的路由。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-19T01:20:05Z",
+            "owner": "acanyo",
+            "repo": "halo-plugin-bingeWatching",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-extra-api",
+          "description": "一个为 Halo CMS 提供额外 API 的轻量级插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:20:59Z",
+            "owner": "HowieHz",
+            "repo": "halo-plugin-extra-api",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-dplayer",
+          "description": "这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T14:04:50Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-dplayer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-typst",
+          "description": "为默认编辑器和文章渲染提供 Typst 支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T11:13:13Z",
+            "owner": "sqwfly",
+            "repo": "halo-plugin-typst",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-aimodel-hub",
+          "description": "为 Halo 插件生态提供统一的 AI 模型调用能力。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-20T09:31:39Z",
+            "owner": "acanyo",
+            "repo": "plugin-aimodel-hub",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-steamview",
+          "description": "为 Halo 提供 steam 游戏的前台及编辑器展示",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T14:55:58Z",
+            "owner": "sailtrack410",
+            "repo": "plugin-steamview",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-dishes",
+          "description": "一个家庭点菜插件，支持菜品管理、分类管理、点餐记录等功能，适用于家庭或小型场景。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-05-02T16:24:05Z",
+            "owner": "Avrinbai",
+            "repo": "halo-plugin-dishes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsl-management",
+          "description": "业余无线电系列插件(1)：业余无线电QSL卡片管理系统，用于QSO记录、QSL收发卡、线上EYEBALL收发卡、线下EYEBALL收发卡等场景",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T16:15:33Z",
+            "owner": "bi1kbu",
+            "repo": "qsl-management",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-postchat",
+          "description": "集成 PostChat AI增强工具至 Halo 2.0 站点。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-30T03:07:28Z",
+            "owner": "zhheo",
+            "repo": "halo-plugin-postchat",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-thyuu-embed",
+          "description": "区块插件，支持 嵌入视频，嵌入音乐。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-21T09:47:04Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-thyuu-embed",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-postSpeech",
+          "description": "文章朗读 为您的文章添加语音播放功能，提升用户体验。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-24T15:05:18Z",
+            "owner": "acanyo",
+            "repo": "plugin-postSpeech",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-equipment",
+          "description": "装备管理 展示你自己的装备",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-09T07:34:54Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-equipment",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-editor-theme-page",
+          "description": "主题编辑器, 可编辑主题文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-15T11:07:58Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-editor-theme-page",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-jyfac",
+          "description": "一个非侵入式的胶囊公告栏，适配大部分主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-24T06:50:36Z",
+            "owner": "PpKoK",
+            "repo": "halo-plugin-jyfac",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-comment-interact",
+          "description": "为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-24T11:17:25Z",
+            "owner": "acanyo",
+            "repo": "plugin-comment-interact",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-excalidraw",
+          "description": "在 Halo 文章编辑器中集成 Excalidraw 手绘风格白板，支持创建、编辑和保存绘图，可将 文件上传到附件库备份管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-24T03:07:51Z",
+            "owner": "acanyo",
+            "repo": "plugin-excalidraw",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-maintenance",
+          "description": "开启维护模式进入站点维护页面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-18T15:23:15Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-maintenance",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-safe-redirect",
+          "description": "为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-29T05:39:00Z",
+            "owner": "nieshilin",
+            "repo": "plugin-safe-redirect",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-bark",
+          "description": "为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-15T06:18:19Z",
+            "owner": "pig-gua",
+            "repo": "halo-plugin-bark",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "global-private",
+          "description": "Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-28T11:31:29Z",
+            "owner": "Frost-leafleaf",
+            "repo": "global-private",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-import-hw-doc",
+          "description": "为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-12T06:40:40Z",
+            "owner": "yss930819",
+            "repo": "halo-plugin-import-hw-doc",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-pwa",
+          "description": "PWA 可以帮助您立即将 Halo 网站转换为渐进式 Web 应用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-23T16:35:56Z",
+            "owner": "chengzhongxue",
+            "repo": "plugin-pwa",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-injector",
+          "description": "HTML 代码注入插件, 用于将 HTML 代码注入到指定页面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T11:15:20Z",
+            "owner": "Erzbir",
+            "repo": "halo-plugin-injector",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-immich-picture-bed",
+          "description": "集成 immich 作为 Halo 2.x 的图片、视频存储后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-12T08:19:20Z",
+            "owner": "kyo-tom",
+            "repo": "plugin-immich-picture-bed",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-download-links",
+          "description": "为 Halo 提供云盘链接下载卡片。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-17T03:45:16Z",
+            "owner": "liuyiwuqing",
+            "repo": "halo-plugin-download-links",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-lottery",
+          "description": "一款简单易用的抽奖插件，支持大转盘、抽签、定时开奖等多种玩法，轻松为站点增添互动乐趣。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T04:59:21Z",
+            "owner": "acanyo",
+            "repo": "plugin-lottery",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-tikz",
+          "description": "为默认编辑器和文章渲染提供 TikZ 支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-30T14:22:04Z",
+            "owner": "sqwfly",
+            "repo": "halo-plugin-tikz",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-redis-connector",
+          "description": "为其他插件提供统一的 Redis 操作能力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-30T09:29:18Z",
+            "owner": "acanyo",
+            "repo": "plugin-redis-connector",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-redirects",
+          "description": "管理 SEO 和页面 URL变动时的重定向能力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-05T11:28:56Z",
+            "owner": "Leezj9671",
+            "repo": "halo-redirects",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-register",
+          "description": "Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-02T07:46:21Z",
+            "owner": "iszkq",
+            "repo": "halo-plugin-register",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-plugin-transformer",
+          "description": "适用于 Halo 的页面转换器插件，按规则改写指定页面内容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:35:29Z",
+            "owner": "HowieHz",
+            "repo": "halo-plugin-transformer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-kmath",
+          "description": "为默认编辑器和文章渲染提供 KaTeX/MathJax 支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T13:26:48Z",
+            "owner": "Akvicor",
+            "repo": "plugin-kmath",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-shortcode",
+          "description": "为 Halo 编辑器提供特殊功能标签支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T15:40:05Z",
+            "owner": "Akvicor",
+            "repo": "plugin-shortcode",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "社区"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elog",
+          "description": "开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T06:59:38Z",
+            "owner": "LetTTGACO",
+            "repo": "elog",
+            "stars": 1877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "siyuan-plugin-publisher",
+          "description": "支持将思源笔记的文章发布到 Halo。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T03:26:31Z",
+            "owner": "terwer",
+            "repo": "siyuan-plugin-publisher",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-halo",
+          "description": "Obsidian 发布插件，支持发布、更新文档到 Halo。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T07:10:01Z",
+            "owner": "halo-sigs",
+            "repo": "obsidian-halo",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-extension-halo",
+          "description": "VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-23T10:31:22Z",
+            "owner": "halo-sigs",
+            "repo": "vscode-extension-halo",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halo Image Plugin",
+          "description": "浏览器插件，一键上传图片到 Halo 附件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-07T06:51:21Z",
+            "owner": "hilaliu",
+            "repo": "Halo-Image-Plugin",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telegram-channel-publisher",
+          "description": "支持以 telegram bot 的形式将发送到频道中的消息自动同步到 Halo 的瞬间中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-13T15:25:38Z",
+            "owner": "Mystery00",
+            "repo": "telegram-channel-publisher",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-uni-halo",
+          "description": "为 uni-halo v2.0 小程序提供单独的配置功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-24T14:49:54Z",
+            "owner": "ialley-workshop-open",
+            "repo": "plugin-uni-halo",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attachment-upload-cli",
+          "description": "支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-19T07:22:21Z",
+            "owner": "halo-sigs",
+            "repo": "attachment-upload-cli",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "其他"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:43:48.713Z",
+    "original_repository": "halo-sigs/awesome-halo",
+    "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
+    "enhanced_repository": "enhansome/enhansome-halo",
+    "enhanced_repository_description": null,
+    "title": "Awesome halo with stars"
+  }
+}
