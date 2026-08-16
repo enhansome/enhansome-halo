@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-27T13:41:35Z",
+            "last_commit": "2026-08-15T14:23:34Z",
             "owner": "halo-dev",
             "repo": "theme-earth",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-06T15:00:55Z",
             "owner": "atangccc",
             "repo": "Serenity-Grace",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -385,20 +385,6 @@
         },
         {
           "node_type": "item",
-          "title": "theme-ocean",
-          "description": "适用于 Halo 2.0 的 知识库类型主题",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-13T10:18:46Z",
-            "owner": "lxware-dev",
-            "repo": "theme-ocean",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
           "title": "halo-theme-sky-blog-1",
           "description": "一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题",
           "children": [],
@@ -408,6 +394,20 @@
             "last_commit": "2026-08-01T10:56:26Z",
             "owner": "sky121666",
             "repo": "halo-theme-sky-blog-1",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-ocean",
+          "description": "适用于 Halo 2.0 的 知识库类型主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-13T10:18:46Z",
+            "owner": "lxware-dev",
+            "repo": "theme-ocean",
             "stars": 40
           }
         },
@@ -960,7 +960,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-17T15:07:11Z",
+            "last_commit": "2026-08-15T12:27:43Z",
             "owner": "halo-sigs",
             "repo": "plugin-moments",
             "stars": 55
@@ -1002,7 +1002,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T10:26:29Z",
+            "last_commit": "2026-08-15T12:27:47Z",
             "owner": "halo-sigs",
             "repo": "plugin-links",
             "stars": 37
@@ -1058,7 +1058,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-30T14:43:43Z",
+            "last_commit": "2026-08-15T11:33:45Z",
             "owner": "halo-sigs",
             "repo": "plugin-bytemd",
             "stars": 16
@@ -1086,7 +1086,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:15:25Z",
+            "last_commit": "2026-08-15T12:27:48Z",
             "owner": "halo-sigs",
             "repo": "plugin-photos",
             "stars": 14
@@ -1254,7 +1254,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:54:45Z",
+            "last_commit": "2026-08-15T12:26:41Z",
             "owner": "halo-sigs",
             "repo": "plugin-shiki",
             "stars": 6
@@ -2016,7 +2016,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T09:44:03Z",
+            "last_commit": "2026-08-16T01:18:42Z",
             "owner": "imorisun",
             "repo": "plugin-hitokoto-hub",
             "stars": 4
@@ -2184,7 +2184,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-21T17:37:07Z",
+            "last_commit": "2026-08-15T05:47:33Z",
             "owner": "BairongLuo",
             "repo": "halo-private-posts",
             "stars": 3
@@ -2803,7 +2803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:44:05.259Z",
+    "last_updated": "2026-08-16T04:47:28.057Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
     "enhanced_repository": "enhansome/enhansome-halo",
