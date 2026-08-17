@@ -307,7 +307,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T16:53:39Z",
+            "last_commit": "2026-08-17T00:19:08Z",
             "owner": "HowieHz",
             "repo": "halo-theme-higan-hz",
             "stars": 61
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-06T15:00:55Z",
             "owner": "atangccc",
             "repo": "Serenity-Grace",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -1072,7 +1072,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:37:19Z",
+            "last_commit": "2026-08-17T04:42:37Z",
             "owner": "halo-sigs",
             "repo": "plugin-hybrid-edit-block",
             "stars": 16
@@ -1254,7 +1254,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:26:41Z",
+            "last_commit": "2026-08-17T03:48:24Z",
             "owner": "halo-sigs",
             "repo": "plugin-shiki",
             "stars": 6
@@ -2240,7 +2240,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T21:20:59Z",
+            "last_commit": "2026-08-16T20:33:43Z",
             "owner": "HowieHz",
             "repo": "halo-plugin-extra-api",
             "stars": 2
@@ -2646,7 +2646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T20:35:29Z",
+            "last_commit": "2026-08-16T21:07:09Z",
             "owner": "HowieHz",
             "repo": "halo-plugin-transformer",
             "stars": 0
@@ -2697,7 +2697,7 @@
             "last_commit": "2026-07-10T06:59:38Z",
             "owner": "LetTTGACO",
             "repo": "elog",
-            "stars": 1877
+            "stars": 1878
           }
         },
         {
@@ -2708,7 +2708,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:09:14Z",
+            "last_commit": "2026-08-16T16:52:48Z",
             "owner": "terwer",
             "repo": "siyuan-plugin-publisher",
             "stars": 206
@@ -2803,7 +2803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:47:28.057Z",
+    "last_updated": "2026-08-17T04:55:30.002Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
     "enhanced_repository": "enhansome/enhansome-halo",
