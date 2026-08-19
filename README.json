@@ -307,7 +307,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T23:30:21Z",
+            "last_commit": "2026-08-18T20:34:27Z",
             "owner": "HowieHz",
             "repo": "halo-theme-higan-hz",
             "stars": 61
@@ -805,20 +805,6 @@
         },
         {
           "node_type": "item",
-          "title": "halo-theme-kui-niu",
-          "description": "夔牛，一款暖色调 Halo 主题。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2025-04-08T17:01:51Z",
-            "owner": "lyujp",
-            "repo": "halo-theme-kui-niu",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "theme-sky-weather",
           "description": "Huohuo Weather Glass，基于 Sky Blog Theme 二次开发的动态天气玻璃风 Halo 主题，支持白天动态云层、黄昏火烧云、夜间雨景视频背景与全站玻璃卡片。",
           "children": [],
@@ -828,6 +814,20 @@
             "last_commit": "2026-06-01T16:49:26Z",
             "owner": "huohuo-huo",
             "repo": "-theme-sky-weather",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-theme-kui-niu",
+          "description": "夔牛，一款暖色调 Halo 主题。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-04-08T17:01:51Z",
+            "owner": "lyujp",
+            "repo": "halo-theme-kui-niu",
             "stars": 2
           }
         },
@@ -960,7 +960,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:27:43Z",
+            "last_commit": "2026-08-18T15:35:19Z",
             "owner": "halo-sigs",
             "repo": "plugin-moments",
             "stars": 55
@@ -1072,7 +1072,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T04:42:37Z",
+            "last_commit": "2026-08-18T07:46:00Z",
             "owner": "halo-sigs",
             "repo": "plugin-hybrid-edit-block",
             "stars": 16
@@ -1442,7 +1442,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T15:28:45Z",
+            "last_commit": "2026-08-18T14:52:13Z",
             "owner": "Tim0x0",
             "repo": "halo-plugin-storage-toolkit",
             "stars": 13
@@ -2803,7 +2803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:48:56.084Z",
+    "last_updated": "2026-08-19T04:48:54.979Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
     "enhanced_repository": "enhansome/enhansome-halo",
