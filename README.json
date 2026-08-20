@@ -323,7 +323,7 @@
                     "archived": false,
                     "id": 778325296,
                     "language": "HTML",
-                    "last_commit": "2026-08-18T20:34:27Z",
+                    "last_commit": "2026-08-20T00:14:55Z",
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61
@@ -1087,7 +1087,7 @@
                     "archived": false,
                     "id": 522400070,
                     "language": "TypeScript",
-                    "last_commit": "2026-06-01T02:50:42Z",
+                    "last_commit": "2026-08-20T04:39:52Z",
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25
@@ -2384,7 +2384,7 @@
                     "archived": false,
                     "id": 1060646577,
                     "language": "Java",
-                    "last_commit": "2026-08-16T20:33:43Z",
+                    "last_commit": "2026-08-19T20:35:15Z",
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2
@@ -2819,7 +2819,7 @@
                     "archived": false,
                     "id": 1201769334,
                     "language": "Java",
-                    "last_commit": "2026-08-16T21:07:09Z",
+                    "last_commit": "2026-08-19T20:35:37Z",
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0
@@ -2997,7 +2997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:06.627Z",
+    "last_updated": "2026-08-20T04:49:57.780Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_id": 522516845,
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
