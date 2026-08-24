@@ -323,7 +323,7 @@
                     "archived": false,
                     "id": 778325296,
                     "language": "HTML",
-                    "last_commit": "2026-08-23T20:35:50Z",
+                    "last_commit": "2026-08-24T12:32:57Z",
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61
@@ -521,7 +521,7 @@
                     "last_commit": "2026-03-25T06:14:39Z",
                     "owner": "w-flac",
                     "repo": "theme-mego",
-                    "stars": 20
+                    "stars": 19
                   }
                 },
                 {
@@ -1732,21 +1732,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-colorless",
-                  "description": "支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 572594000,
-                    "language": "Java",
-                    "last_commit": "2024-07-31T08:39:24Z",
-                    "owner": "guqing",
-                    "repo": "halo-plugin-colorless",
-                    "stars": 7
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-meilisearch",
                   "description": "集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。（已停止维护，可以使用 plugin-meilisearch 代替）",
                   "children": [],
@@ -1788,6 +1773,21 @@
                     "owner": "iLay1678",
                     "repo": "halo-plugin-auth-passkey",
                     "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "plugin-colorless",
+                  "description": "支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 572594000,
+                    "language": "Java",
+                    "last_commit": "2024-07-31T08:39:24Z",
+                    "owner": "guqing",
+                    "repo": "halo-plugin-colorless",
+                    "stars": 6
                   }
                 },
                 {
@@ -2891,7 +2891,7 @@
                 "archived": false,
                 "id": 518482967,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T17:54:23Z",
+                "last_commit": "2026-08-24T13:21:03Z",
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 207
@@ -2997,7 +2997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:58:24.924Z",
+    "last_updated": "2026-08-24T14:21:57.816Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_id": 522516845,
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
