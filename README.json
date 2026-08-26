@@ -16,7 +16,7 @@
                     "archived": false,
                     "id": 515923608,
                     "language": "HTML",
-                    "last_commit": "2026-08-15T14:23:34Z",
+                    "last_commit": "2026-08-25T07:37:17Z",
                     "owner": "halo-dev",
                     "repo": "theme-earth",
                     "stars": 63
@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-21T04:36:23Z",
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 966
+                    "stars": 967
                   }
                 },
                 {
@@ -278,7 +278,7 @@
                     "archived": false,
                     "id": 776599631,
                     "language": "HTML",
-                    "last_commit": "2026-08-22T07:39:32Z",
+                    "last_commit": "2026-08-26T02:55:41Z",
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
                     "stars": 80
@@ -323,7 +323,7 @@
                     "archived": false,
                     "id": 778325296,
                     "language": "HTML",
-                    "last_commit": "2026-08-25T04:54:15Z",
+                    "last_commit": "2026-08-25T21:24:43Z",
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61
@@ -1412,7 +1412,7 @@
                     "last_commit": "2025-06-27T07:40:51Z",
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 50
+                    "stars": 51
                   }
                 },
                 {
@@ -2384,7 +2384,7 @@
                     "archived": false,
                     "id": 1060646577,
                     "language": "Java",
-                    "last_commit": "2026-08-25T04:54:55Z",
+                    "last_commit": "2026-08-25T21:17:24Z",
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2
@@ -2819,7 +2819,7 @@
                     "archived": false,
                     "id": 1201769334,
                     "language": "Java",
-                    "last_commit": "2026-08-25T04:55:20Z",
+                    "last_commit": "2026-08-25T21:14:10Z",
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0
@@ -2879,7 +2879,7 @@
                 "last_commit": "2026-07-10T06:59:38Z",
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1879
+                "stars": 1878
               }
             },
             {
@@ -2891,7 +2891,7 @@
                 "archived": false,
                 "id": 518482967,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:42:59Z",
+                "last_commit": "2026-08-25T18:30:21Z",
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 207
@@ -2997,7 +2997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:26.709Z",
+    "last_updated": "2026-08-26T04:52:58.826Z",
     "original_repository": "halo-sigs/awesome-halo",
     "original_repository_id": 522516845,
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
