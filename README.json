@@ -79,7 +79,7 @@
                     "last_commit": "2026-04-27T08:00:04Z",
                     "owner": "halo-dev",
                     "repo": "theme-vite-starter",
-                    "stars": 14
+                    "stars": 15
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-07-16T09:10:00Z",
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 834
+                    "stars": 833
                   }
                 },
                 {
@@ -161,7 +161,7 @@
                     "last_commit": "2025-03-30T11:03:12Z",
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 450
+                    "stars": 449
                   }
                 },
                 {
@@ -278,7 +278,7 @@
                     "archived": false,
                     "id": 776599631,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T02:55:41Z",
+                    "last_commit": "2026-08-27T09:36:43Z",
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
                     "stars": 80
@@ -323,7 +323,7 @@
                     "archived": false,
                     "id": 778325296,
                     "language": "HTML",
-                    "last_commit": "2026-08-25T21:24:43Z",
+                    "last_commit": "2026-08-27T02:14:00Z",
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61
@@ -593,7 +593,7 @@
                     "archived": false,
                     "id": 1013500429,
                     "language": "HTML",
-                    "last_commit": "2026-07-27T02:29:45Z",
+                    "last_commit": "2026-08-27T09:59:12Z",
                     "owner": "dengxiwang",
                     "repo": "go-halo-theme",
                     "stars": 15
@@ -1012,7 +1012,7 @@
                     "archived": false,
                     "id": 507791331,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T15:35:19Z",
+                    "last_commit": "2026-08-26T13:51:34Z",
                     "owner": "halo-sigs",
                     "repo": "plugin-moments",
                     "stars": 55
@@ -1979,7 +1979,7 @@
                     "archived": false,
                     "id": 1188432251,
                     "language": "Java",
-                    "last_commit": "2026-08-08T14:32:20Z",
+                    "last_commit": "2026-08-26T09:41:17Z",
                     "owner": "sunnyhmz7010",
                     "repo": "halo-plugin-schedule-calendar",
                     "stars": 5
@@ -2144,7 +2144,7 @@
                     "archived": false,
                     "id": 1220989686,
                     "language": "Java",
-                    "last_commit": "2026-08-16T01:18:42Z",
+                    "last_commit": "2026-08-26T11:09:11Z",
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
                     "stars": 4
@@ -2879,7 +2879,7 @@
                 "last_commit": "2026-07-10T06:59:38Z",
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1878
+                "stars": 1877
               }
             },
             {
@@ -2891,7 +2891,7 @@
                 "archived": false,
                 "id": 518482967,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T18:30:21Z",
+                "last_commit": "2026-08-26T10:58:44Z",
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 207
@@ -2997,9 +2997,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:52:58.826Z",
-    "original_repository": "halo-sigs/awesome-halo",
-    "original_repository_id": 522516845,
+    "last_updated": "2026-08-27T11:41:25.788Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 522516845,
+      "language": null,
+      "last_commit": "2026-07-06T06:44:39Z",
+      "owner": "halo-sigs",
+      "repo": "awesome-halo",
+      "stars": 630
+    },
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
     "enhanced_repository": "enhansome/enhansome-halo",
     "enhanced_repository_description": null,
