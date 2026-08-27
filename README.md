@@ -56,7 +56,7 @@
 * [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) ⭐ 21 | 🐛 11 | 🌐 HTML | 📅 2026-01-26 - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo) ⭐ 86 | 🐛 0 | 🌐 PHP | 📅 2023-08-23
 * [halo-theme-Mego](https://github.com/w-flac/theme-mego) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2026-03-25 - 一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。
 * [theme-next](https://github.com/AeroWang/theme-next) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-04 - 一个简洁的 Halo 博客主题 Next，技术栈 Next.js
-* [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) ⭐ 18 | 🐛 14 | 🌐 CSS | 📅 2026-01-26 - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) ⭐ 2,019 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-26。
+* [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) ⭐ 18 | 🐛 14 | 🌐 CSS | 📅 2026-01-26 - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) ⭐ 2,019 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-27。
 * [halo-theme-next](https://github.com/bit15k/halo-theme-next) ⭐ 17 | 🐛 5 | 🌐 CSS | 📅 2024-07-24 - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/) ⭐ 2,778 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-26。
 * [halo-theme-terminal-ez](https://github.com/Erzbir/halo-theme-terminal) ⭐ 16 | 🐛 0 | 🌐 SCSS | 📅 2026-08-22 - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) ⭐ 44 | 🐛 2 | 🌐 HTML | 📅 2025-06-30 修改
 * [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) ⭐ 15 | 🐛 1 | 🌐 HTML | 📅 2026-08-27 - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
@@ -106,7 +106,7 @@
 * [plugin-katex](https://github.com/halo-sigs/plugin-katex) ⭐ 14 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-02 - 为默认编辑器和文章渲染提供 KaTeX 支持
 * [plugin-app-store](https://github.com/halo-dev/plugin-app-store) ⭐ 13 | 🐛 3 | 🌐 Vue | 📅 2024-01-24 - 集成 Halo 官方应用市场到 Console
 * [plugin-search-widget](https://github.com/halo-dev/plugin-search-widget) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-20 - 为 Halo 2.0 提供统一的搜索组件
-* [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) ⭐ 11 | 🐛 6 | 🌐 CSS | 📅 2026-08-08 - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 24,984 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-27 的集成，支持在内容页高亮显示代码块
+* [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) ⭐ 11 | 🐛 6 | 🌐 CSS | 📅 2026-08-08 - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 24,983 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-27 的集成，支持在内容页高亮显示代码块
 * [plugin-umami](https://github.com/halo-sigs/plugin-umami) ⭐ 11 | 🐛 8 | 🌐 Java | 📅 2025-01-02 - Halo 2.0 对 Umami 的集成
 * [plugin-feed](https://github.com/halo-dev/plugin-feed) ⭐ 11 | 🐛 7 | 🌐 Java | 📅 2025-09-13 - Halo 2.0 的 RSS 订阅链接生成插件
 * [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) ⚠️ Archived - Halo 2.0 的阿里云 OSS 存储策略插件
