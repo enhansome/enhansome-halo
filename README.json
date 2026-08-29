@@ -14,12 +14,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的默认主题",
+                    "homepage": "https://demo.halo.run/?preview-theme=theme-earth",
                     "id": 515923608,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-25T07:37:17Z",
+                    "open_issues": 22,
                     "owner": "halo-dev",
                     "repo": "theme-earth",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "tailwindcss",
+                      "thymeleaf",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -30,12 +41,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 186230366,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2026-07-27T02:44:12Z",
+                    "open_issues": 2,
                     "owner": "halo-dev",
                     "repo": "halo-theme-anatole",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -46,12 +65,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "一个集成了现代前端技术栈的 Halo 2.0 的主题开发模板。",
+                    "homepage": null,
                     "id": 559259742,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-03T08:18:22Z",
+                    "open_issues": 2,
                     "owner": "halo-dev",
                     "repo": "theme-modern-starter",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "alpinejs",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-starter",
+                      "tailwindcss",
+                      "thymeleaf",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -62,12 +94,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 的主题脚手架，以 Astro 作为预渲染框架",
+                    "homepage": null,
                     "id": 518887788,
                     "language": "Astro",
+                    "license": null,
                     "last_commit": "2026-04-09T06:42:14Z",
+                    "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "theme-astro-starter",
-                    "stars": 18
+                    "stars": 19,
+                    "topics": [
+                      "astro",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-starter"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -78,12 +120,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个集成了 Vite 的主题快速开始模板。",
+                    "homepage": null,
                     "id": 555837900,
                     "language": "HTML",
-                    "last_commit": "2026-04-27T08:00:04Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T02:21:05Z",
+                    "open_issues": 0,
                     "owner": "halo-dev",
                     "repo": "theme-vite-starter",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-starter",
+                      "thymeleaf",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -94,12 +147,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的基础主题开发模板",
+                    "homepage": null,
                     "id": 522400930,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-14T10:04:47Z",
+                    "open_issues": 1,
                     "owner": "halo-dev",
                     "repo": "theme-starter",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-starter",
+                      "thymeleaf"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 }
@@ -117,12 +180,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 版本的樱花🌸主题",
+                    "homepage": "https://lixingyong.com",
                     "id": 268254752,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T04:36:23Z",
+                    "open_issues": 32,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 967
+                    "stars": 967,
+                    "topics": [
+                      "blog",
+                      "freemarker",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-sakura",
+                      "sakura"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -133,12 +208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 548408111,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-16T09:10:00Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 833
+                    "stars": 834,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -149,12 +229,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "追求个性与至简",
+                    "homepage": "https://baozi.fun",
                     "id": 277267974,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-05-02T11:25:01Z",
+                    "open_issues": 26,
                     "owner": "xzhuz",
                     "repo": "halo-theme-xue",
-                    "stars": 515
+                    "stars": 515,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-xue",
+                      "html"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -165,12 +255,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个Halo博客主题，Butterfly 🦋",
+                    "homepage": null,
                     "id": 451059394,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-30T11:03:12Z",
+                    "open_issues": 36,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 449
+                    "stars": 449,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -181,12 +276,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Theme of Halo2",
+                    "homepage": null,
                     "id": 653568871,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-06T15:19:14Z",
+                    "open_issues": 76,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 339
+                    "stars": 340,
+                    "topics": [
+                      "halo",
+                      "joe",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -197,12 +301,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。",
+                    "homepage": "https://guqing.io",
                     "id": 191742643,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-03-17T04:36:38Z",
+                    "open_issues": 7,
                     "owner": "guqing",
                     "repo": "halo-theme-higan",
-                    "stars": 146
+                    "stars": 146,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -213,12 +325,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing.",
+                    "homepage": "https://halo.run/store/apps/app-vGuQB",
                     "id": 665006090,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-06-17T13:51:54Z",
+                    "open_issues": 18,
                     "owner": "AirboZH",
                     "repo": "halo-theme-chirpy",
-                    "stars": 141
+                    "stars": 141,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-chirpy"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -229,12 +350,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款优秀的Halo2个人博客主题",
+                    "homepage": null,
                     "id": 580473045,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-07T16:07:58Z",
+                    "open_issues": 4,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-stack",
-                    "stars": 134
+                    "stars": 134,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -245,12 +371,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "简约的导航主题",
+                    "homepage": null,
                     "id": 801913997,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-13T06:48:12Z",
+                    "open_issues": 3,
                     "owner": "zhheo",
                     "repo": "halo-theme-heolink",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -261,12 +392,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个简约的博客主题",
+                    "homepage": null,
                     "id": 1035349440,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-03T02:04:40Z",
+                    "open_issues": 1,
                     "owner": "iscottt",
                     "repo": "halo-theme-vapor",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -277,12 +413,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "移植自hexo-theme-aurora适配Halo2.x的Aurora主题",
+                    "homepage": "https://roozen.top/?preview-theme=theme-aurora",
                     "id": 676465724,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2024-10-23T08:39:51Z",
+                    "open_issues": 6,
                     "owner": "Roozenlz",
                     "repo": "halo-theme-aurora",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": [
+                      "blog",
+                      "halo",
+                      "halo-theme",
+                      "hexo",
+                      "roozen",
+                      "site"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -293,12 +441,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适配halo2.x的dream2主题，修复bug，增加新功能等。更多设置请查看文档。",
+                    "homepage": "https://www.halo.run/store/apps/app-HrMpM",
                     "id": 776599631,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T01:24:07Z",
+                    "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -309,12 +462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个精致美观的halo博客主题,现代化的UI设计,多种主题搭配",
+                    "homepage": "https://halo.ideaflow.top",
                     "id": 966508512,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-11T13:18:11Z",
+                    "open_issues": 11,
                     "owner": "YunyuVv",
                     "repo": "theme-Ideaflow",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -325,12 +483,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A blog theme for Halo",
+                    "homepage": null,
                     "id": 955957434,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-09T14:58:38Z",
+                    "open_issues": 4,
                     "owner": "Liksium",
                     "repo": "halo-theme-sora",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -341,12 +507,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a responsive, clean, and refreshing personal website theme designed for Halo CMS | 一款响应式、简洁清爽的个人网站 Halo CMS 主题",
+                    "homepage": "https://howiehz.top/halo-theme-higan-haozi",
                     "id": 778325296,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T00:48:07Z",
+                    "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": [
+                      "blog",
+                      "blog-engine",
+                      "cms",
+                      "content-management-system",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-higan-haozi",
+                      "halocms",
+                      "website-builder"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -357,12 +538,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌊 一款 Material Design 风格的 Halo 主题 / An elegant Material-Design theme for Halo ",
+                    "homepage": null,
                     "id": 786848759,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-08-17T12:53:18Z",
+                    "open_issues": 8,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-fluid",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -373,12 +559,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于bootstrapmade-Moderna 设计的Halo主题 ",
+                    "homepage": null,
                     "id": 587131163,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-01-22T07:53:56Z",
+                    "open_issues": 6,
                     "owner": "Arch4AI",
                     "repo": "theme-moderna",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -389,12 +580,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "「Serenity」，简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式自由切换。",
+                    "homepage": null,
                     "id": 1148684826,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-06T15:00:55Z",
+                    "open_issues": 1,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -405,12 +601,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
+                    "homepage": "https://www.xhhao.com",
                     "id": 1105181944,
                     "language": "SCSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-23T07:16:14Z",
+                    "open_issues": 8,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -421,12 +622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 561205067,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2025-06-30T09:41:45Z",
+                    "open_issues": 2,
                     "owner": "wan92hen",
                     "repo": "theme-terminal",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -437,12 +643,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于现代前端技术栈的 Halo 2.0 主题 - Sky Theme",
+                    "homepage": null,
                     "id": 1019186661,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-01T10:56:26Z",
+                    "open_issues": 3,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -453,12 +664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 知识库主题",
+                    "homepage": "https://kb.fit2cloud.com",
                     "id": 598001085,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-13T10:18:46Z",
+                    "open_issues": 6,
                     "owner": "lxware-dev",
                     "repo": "theme-ocean",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -469,12 +685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✨A Halo template",
+                    "homepage": null,
                     "id": 1022710029,
                     "language": "Astro",
+                    "license": "MIT",
                     "last_commit": "2026-07-31T15:16:44Z",
+                    "open_issues": 3,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-fuwari",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -485,12 +706,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🍊A simple halo theme of minimalism",
+                    "homepage": "https://wuwenl.com",
                     "id": 602453169,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2023-03-13T01:35:55Z",
+                    "open_issues": 2,
                     "owner": "allendevx",
                     "repo": "halo-theme-oranges",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "blog",
+                      "halo",
+                      "hexo-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -501,12 +732,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "vCard4 是一个响应式的个人作品集主题，可适配所有设备。",
+                    "homepage": null,
                     "id": 826703276,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T01:55:50Z",
+                    "open_issues": 7,
                     "owner": "Anyexyz",
                     "repo": "theme-vcard4",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -517,12 +753,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "移植于Typecho Ying主题魔改而来，一款简约而不简单的主题",
+                    "homepage": null,
                     "id": 911536538,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-05-22T02:01:52Z",
+                    "open_issues": 13,
                     "owner": "MagicBreeze",
                     "repo": "halo-theme-Ying",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -533,12 +774,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "简约感设计Halo主题",
+                    "homepage": null,
                     "id": 801557539,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-01-26T12:44:58Z",
+                    "open_issues": 11,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-iemo",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -549,12 +795,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享",
+                    "homepage": "https://www.halo.run/store/apps/app-meJsF",
                     "id": 1072262440,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-25T06:14:39Z",
+                    "open_issues": 2,
                     "owner": "w-flac",
                     "repo": "theme-mego",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "halo",
+                      "halo-theme",
+                      "mego"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -565,12 +820,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款简洁的 Halo 博客主题 Next，技术栈 Next.js。    ",
+                    "homepage": "https://theme-next.vercel.app",
                     "id": 651895184,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-04T09:56:57Z",
+                    "open_issues": 0,
                     "owner": "AeroWang",
                     "repo": "theme-next",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "blog",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-next",
+                      "nextjs",
+                      "react",
+                      "server-rendering",
+                      "ssg"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -581,12 +850,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "内置文档系统的简约商务风Halo主题，支持大量的标签组件和动态数据组件。",
+                    "homepage": null,
                     "id": 875119795,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2026-01-26T13:05:27Z",
+                    "open_issues": 14,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-stellar",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -597,12 +871,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于 Halo 2.0 的 Next 主题，该主题移植于 Hexo-Theme-Next",
+                    "homepage": "https://www.halo.run/store/apps/app-XNaQC",
                     "id": 824512435,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-24T10:27:25Z",
+                    "open_issues": 5,
                     "owner": "bit15k",
                     "repo": "halo-theme-next",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -613,12 +892,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple, retro theme for Halo",
+                    "homepage": "https://erzbir.com",
                     "id": 1029462456,
                     "language": "SCSS",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T14:40:26Z",
+                    "open_issues": 0,
                     "owner": "Erzbir",
                     "repo": "halo-theme-terminal",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "halo",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -629,12 +916,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款简约的个人技术博客主题，基于Halo构建！",
+                    "homepage": "https://blog.gotab.cn",
                     "id": 1013500429,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T09:59:12Z",
+                    "open_issues": 1,
                     "owner": "dengxiwang",
                     "repo": "go-halo-theme",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "blog",
+                      "blog-theme",
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -645,12 +942,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 771933307,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2026-01-26T12:49:22Z",
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-material",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -661,12 +963,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo-Theme-AirCloud是一个简洁轻量的Halo博客主题, 旨在将中心放在博文本身.",
+                    "homepage": "https://www.halo.run/store/apps/app-ZUaYf",
                     "id": 757421987,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-07-10T15:13:59Z",
+                    "open_issues": 4,
                     "owner": "bit15k",
                     "repo": "halo-theme-aircloud",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -677,12 +984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "hugo mainroad theme to halo",
+                    "homepage": null,
                     "id": 736175230,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-03-19T03:41:58Z",
+                    "open_issues": 2,
                     "owner": "Arch4AI",
                     "repo": "theme-mainroad",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -693,12 +1005,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Farallon是一个简单的单列halo主题，具有完美的性能和优雅的设计",
+                    "homepage": null,
                     "id": 800038324,
                     "language": "SCSS",
+                    "license": null,
                     "last_commit": "2025-08-29T14:19:16Z",
+                    "open_issues": 5,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-farallon",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -709,12 +1026,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。",
+                    "homepage": null,
                     "id": 808160434,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-23T02:22:47Z",
+                    "open_issues": 4,
                     "owner": "Anyexyz",
                     "repo": "theme-hellopage",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -725,12 +1047,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A clean Halo theme in blue tones",
+                    "homepage": null,
                     "id": 883595834,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-06-21T05:48:52Z",
+                    "open_issues": 4,
                     "owner": "Aziteee",
                     "repo": "halo-theme-lapis",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -741,12 +1068,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个极简的纯文字Halo博客现代主题",
+                    "homepage": null,
                     "id": 1130124039,
                     "language": "CSS",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-22T09:50:52Z",
+                    "open_issues": 0,
                     "owner": "PpKoK",
                     "repo": "theme-jyf",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -757,12 +1089,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "macOS 桌面风格 Halo 博客主题。",
+                    "homepage": null,
                     "id": 1192361711,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T05:46:45Z",
+                    "open_issues": 3,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-3",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -773,12 +1110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a geek theme for Halo2.0",
+                    "homepage": null,
                     "id": 600749032,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2023-02-14T14:47:20Z",
+                    "open_issues": 1,
                     "owner": "mytianya",
                     "repo": "halo-theme-geek",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -789,12 +1131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于 Halo 的导航主题",
+                    "homepage": null,
                     "id": 807988723,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-26T12:55:31Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-mcnav",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -805,12 +1152,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 942707697,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-08T06:14:17Z",
+                    "open_issues": 1,
                     "owner": "cklx0719",
                     "repo": "halo-theme-word",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -821,12 +1173,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎯 A smart and modern theme for Halo merged from hexo.",
+                    "homepage": "https://archer.azin.cc",
                     "id": 1083539763,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-29T07:58:49Z",
+                    "open_issues": 0,
                     "owner": "Azincc",
                     "repo": "halo-theme-archer",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -837,12 +1196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款体现文字美感的极简主题",
+                    "homepage": null,
                     "id": 744856268,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2024-01-22T06:39:45Z",
+                    "open_issues": 2,
                     "owner": "Meayair",
                     "repo": "Halo-Theme-MeaWord",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -853,12 +1217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 809068904,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-31T16:05:17Z",
+                    "open_issues": 0,
                     "owner": "Pedro-null",
                     "repo": "halo-theme-hingle2.0",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -869,12 +1238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "复古终端风格主题",
+                    "homepage": null,
                     "id": 1136735525,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-19T04:28:44Z",
+                    "open_issues": 0,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-2",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -885,12 +1259,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halorum 是一款面向 Halo 的轻论坛风格主题，基于 mulingyuer/Typecho_Theme_JJ 的视觉语言移植并重构。",
+                    "homepage": "https://halorum.kdgq.com",
                     "id": 1227014178,
                     "language": "CSS",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-05-12T15:26:46Z",
+                    "open_issues": 1,
                     "owner": "xzyone",
                     "repo": "halo-theme-halorum",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -901,12 +1283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 808178734,
                     "language": "JavaScript",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-12-26T09:00:25Z",
+                    "open_issues": 0,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-twentytwelve",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -917,12 +1304,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于 Sky Blog Theme 二开的动态天气玻璃风 Halo 主题，支持白天动态云层、黄昏火烧云、夜间雨景视频背景与全站玻璃卡片",
+                    "homepage": "https://huohuospace.cn/",
                     "id": 1254226305,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-21T15:10:05Z",
+                    "open_issues": 0,
                     "owner": "huohuo-huo",
                     "repo": "-theme-sky-weather",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "blog-theme",
+                      "blog-themes",
+                      "glassmorphism",
+                      "halo",
+                      "halo-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -933,12 +1332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 956265382,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-08T17:01:51Z",
+                    "open_issues": 0,
                     "owner": "lyujp",
                     "repo": "halo-theme-kui-niu",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -949,12 +1353,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Revive the beauty of typography.",
+                    "homepage": "https://retypeset.radishzz.cc/",
                     "id": 1154155219,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-13T07:18:01Z",
+                    "open_issues": 0,
                     "owner": "picsky",
                     "repo": "halo-theme-retypeset",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "blog-theme",
+                      "halo",
+                      "halo-theme",
+                      "typography"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -965,12 +1379,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo daisy 主题 个人修改适配halo2.0",
+                    "homepage": "https://elapse.cc",
                     "id": 615365538,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2026-03-17T14:36:30Z",
+                    "open_issues": 2,
                     "owner": "ting1e",
                     "repo": "halo-theme-daisym",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -981,12 +1402,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 一款简洁流畅、数据驱动，响应式halo主题，移植自WordPress主题Wring",
+                    "homepage": "https://blog.waistu.com",
                     "id": 1186185021,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-13T05:59:04Z",
+                    "open_issues": 1,
                     "owner": "waistu",
                     "repo": "halo-theme-Wing",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -997,12 +1423,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a halo theme",
+                    "homepage": null,
                     "id": 1221426307,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-17T09:23:48Z",
+                    "open_issues": 2,
                     "owner": "CirillaQL",
                     "repo": "halo-theme-gui",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1013,12 +1444,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A theme for halo",
+                    "homepage": null,
                     "id": 889710613,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-13T15:01:38Z",
+                    "open_issues": 0,
                     "owner": "lyujp",
                     "repo": "theme-s1mp1e",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1029,12 +1465,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1248063814,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-30T16:26:26Z",
+                    "open_issues": 0,
                     "owner": "Aziteee",
                     "repo": "halo-theme-vahlok",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1045,12 +1486,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于halo-theme-crux进行二次修改开发的halo主题",
+                    "homepage": "https://crux.4zero4.cn/",
                     "id": 800355859,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-12-08T14:06:41Z",
+                    "open_issues": 0,
                     "owner": "haoanlan",
                     "repo": "halo-theme-crux-4zero4",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 }
@@ -1075,12 +1524,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于 Halo 2.0 的瞬间插件",
+                    "homepage": "https://www.halo.run/store/apps/app-SnwWD",
                     "id": 507791331,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T13:51:34Z",
+                    "open_issues": 16,
                     "owner": "halo-sigs",
                     "repo": "plugin-moments",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1091,12 +1548,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 插件开发快速开始模板",
+                    "homepage": null,
                     "id": 501155847,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-11T07:05:48Z",
+                    "open_issues": 4,
                     "owner": "halo-dev",
                     "repo": "plugin-starter",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "halo-plugin-starter"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1107,12 +1573,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 提供 S3 对象存储协议的存储策略",
+                    "homepage": "https://halo.run/store/apps/app-Qxhpp",
                     "id": 581034927,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-29T11:11:28Z",
+                    "open_issues": 19,
                     "owner": "halo-dev",
                     "repo": "plugin-s3",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "s3"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1123,12 +1598,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的链接管理插件",
+                    "homepage": "https://www.halo.run/store/apps/app-hfbQg",
                     "id": 505368615,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T12:27:47Z",
+                    "open_issues": 13,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1139,12 +1622,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的 OAuth2 第三方登录插件。",
+                    "homepage": "https://halo.run/store/apps/app-ESVDK",
                     "id": 613189809,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-20T03:47:05Z",
+                    "open_issues": 13,
                     "owner": "halo-sigs",
                     "repo": "plugin-oauth2",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "oauth2"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1155,12 +1647,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "通用的 Halo 2.0 评论组件插件",
+                    "homepage": "https://www.halo.run/store/apps/app-YXyaD",
                     "id": 522400070,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T13:37:29Z",
+                    "open_issues": 37,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1171,12 +1671,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 的默认编辑器提供超链接卡片支持",
+                    "homepage": "https://www.halo.run/store/apps/app-UpUJA",
                     "id": 810236700,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-10T07:56:10Z",
+                    "open_issues": 2,
                     "owner": "halo-sigs",
                     "repo": "plugin-editor-hyperlink-card",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1187,12 +1695,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 2.0 集成 ByteMD 编辑器",
+                    "homepage": "https://halo.run/store/apps/app-HTyhC",
                     "id": 575740682,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T11:33:45Z",
+                    "open_issues": 8,
                     "owner": "halo-sigs",
                     "repo": "plugin-bytemd",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "bytemd",
+                      "halo",
+                      "halo-plugin",
+                      "markdown",
+                      "markdown-editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1203,12 +1722,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
+                    "homepage": "https://www.halo.run/store/apps/app-NgHnY",
                     "id": 708626395,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T07:46:00Z",
+                    "open_issues": 5,
                     "owner": "halo-sigs",
                     "repo": "plugin-hybrid-edit-block",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "plugin",
+                      "tiptap"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1219,12 +1748,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的相册管理插件",
+                    "homepage": "https://www.halo.run/store/apps/app-BmQJW",
                     "id": 568850014,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T12:27:48Z",
+                    "open_issues": 5,
                     "owner": "halo-sigs",
                     "repo": "plugin-photos",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1235,12 +1772,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为默认编辑器和文章渲染提供 KaTeX 支持。",
+                    "homepage": "https://halo.run/store/apps/app-ISCsX",
                     "id": 655999598,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-02T15:11:21Z",
+                    "open_issues": 6,
                     "owner": "halo-sigs",
                     "repo": "plugin-katex",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1251,12 +1796,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集成 Halo 官方应用市场到 Console",
+                    "homepage": "https://halo.run/store/apps/app-VYJbF",
                     "id": 681602757,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-01-24T02:36:12Z",
+                    "open_issues": 3,
                     "owner": "halo-dev",
                     "repo": "plugin-app-store",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1267,12 +1820,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 搜索组件的插件",
+                    "homepage": "https://halo.run/store/apps/app-DlacW",
                     "id": 558275000,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-20T03:27:29Z",
+                    "open_issues": 4,
                     "owner": "halo-dev",
                     "repo": "plugin-search-widget",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1283,12 +1844,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集成 highlight.js 为文章提供代码块高亮渲染",
+                    "homepage": "https://halo.run/store/apps/app-sqpgf",
                     "id": 556216832,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-08T15:11:05Z",
+                    "open_issues": 6,
                     "owner": "halo-sigs",
                     "repo": "plugin-highlightjs",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "highlightjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1299,12 +1869,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 对 Umami 的集成。",
+                    "homepage": "https://halo.run/store/apps/app-KfOps",
                     "id": 550766375,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-01-02T08:16:03Z",
+                    "open_issues": 8,
                     "owner": "halo-sigs",
                     "repo": "plugin-umami",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "umami"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1315,12 +1894,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的 RSS 订阅链接生成插件",
+                    "homepage": "https://halo.run/store/apps/app-KhIVw",
                     "id": 523921238,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-13T11:48:26Z",
+                    "open_issues": 7,
                     "owner": "halo-dev",
                     "repo": "plugin-feed",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1331,12 +1918,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "【过时】为 Halo 2.0 提供阿里云 OSS 的存储策略。请使用 S3 插件替代：https://github.com/halo-sigs/plugin-s3",
+                    "homepage": "https://halo.run/store/apps/app-Qxhpp",
                     "id": 530051298,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-07-07T04:09:52Z",
+                    "open_issues": 6,
                     "owner": "halo-sigs",
                     "repo": "plugin-alioss",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1347,12 +1939,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "支持多种平台的数据迁移插件",
+                    "homepage": "https://www.halo.run/docs/plugin-migrate/migrate",
                     "id": 552980133,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-14T07:48:51Z",
+                    "open_issues": 3,
                     "owner": "halo-sigs",
                     "repo": "plugin-migrate",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1363,12 +1963,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的站点 Sitemap 生成插件",
+                    "homepage": "https://halo.run/store/apps/app-QDFMI",
                     "id": 523921039,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-27T14:57:34Z",
+                    "open_issues": 3,
                     "owner": "halo-dev",
                     "repo": "plugin-sitemap",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1379,12 +1987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "（已归档，请移步至 https://github.com/halo-sigs/plugin-migrate） 将 WordPress XML 文件导入 Halo 2.0 版本的插件",
+                    "homepage": "https://halo.run/store/apps/app-TlUBt",
                     "id": 559894008,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-08-23T03:31:16Z",
+                    "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "plugin-wordpress",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1395,12 +2008,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
+                    "homepage": "https://www.halo.run/store/apps/app-7mb5szjt",
                     "id": 513444154,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-20T10:54:00Z",
+                    "open_issues": 1,
                     "owner": "halo-sigs",
                     "repo": "plugin-meilisearch",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1411,12 +2032,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。",
+                    "homepage": "https://www.halo.run/store/apps/app-kzloktzn",
                     "id": 835629777,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T10:03:26Z",
+                    "open_issues": 3,
                     "owner": "halo-sigs",
                     "repo": "plugin-shiki",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1427,12 +2056,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集成 lightgallery.js，支持在内容页面放大显示图片",
+                    "homepage": "https://halo.run/store/apps/app-OoggD",
                     "id": 555899095,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-03T04:21:17Z",
+                    "open_issues": 8,
                     "owner": "halo-sigs",
                     "repo": "plugin-lightgallery",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1443,12 +2080,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 2.0 集成 StackEdit 编辑器",
+                    "homepage": "https://halo.run/store/apps/app-hDXMG",
                     "id": 579836414,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-06-10T09:59:30Z",
+                    "open_issues": 4,
                     "owner": "halo-sigs",
                     "repo": "plugin-stackedit",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "editor",
+                      "halo",
+                      "halo-plugin",
+                      "markdown",
+                      "markdown-editor",
+                      "stackedit"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1459,12 +2108,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Unsplash plugin for Halo",
+                    "homepage": "https://www.halo.run/store/apps/app-NRcGw",
                     "id": 528346978,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-06T10:04:27Z",
+                    "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "plugin-unsplash",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "unsplash"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 }
@@ -1482,12 +2140,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你的网站领养一只可爱的看板娘吧！Live2d Plugin for Halo",
+                    "homepage": null,
                     "id": 571447073,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-28T04:17:13Z",
+                    "open_issues": 9,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
-                    "stars": 250
+                    "stars": 250,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "live2d",
+                      "live2d-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1498,12 +2166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web version of Sakana widget, designed for one-click deployment into Halo blogs. | Halo 版的「Sakana!」摇摇乐小组件。",
+                    "homepage": null,
                     "id": 1006445682,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-06-27T07:40:51Z",
+                    "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1514,12 +2187,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 追番插件",
+                    "homepage": "https://www.halo.run/store/apps/app-OTFPN",
                     "id": 669455515,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-07-08T08:58:50Z",
+                    "open_issues": 2,
                     "owner": "Roozenlz",
                     "repo": "plugin-bilibili-bangumi",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "bangumi",
+                      "bilibili",
+                      "halo",
+                      "plugin",
+                      "roozen"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1530,12 +2214,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于Halo2.0的Vditor编辑器",
+                    "homepage": null,
                     "id": 722184287,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T01:41:12Z",
+                    "open_issues": 0,
                     "owner": "justice2001",
                     "repo": "halo-plugin-vditor",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "vditor"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1546,12 +2239,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo站点推送插件",
+                    "homepage": null,
                     "id": 677203530,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-14T08:33:34Z",
+                    "open_issues": 16,
                     "owner": "Stonewuu",
                     "repo": "halo-plugin-sitepush",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1562,12 +2260,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "智阅点睛，一键洞见——基于AI大模型的Halo智能摘要解决方案",
+                    "homepage": "https://www.lik.cc",
                     "id": 938098054,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-09T03:14:17Z",
+                    "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "halo-plugin-summaraidGPT",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1578,12 +2281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "export blogs of halo to markdown",
+                    "homepage": null,
                     "id": 711550749,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-15T02:26:04Z",
+                    "open_issues": 20,
                     "owner": "Lyn4ever29",
                     "repo": "halo-plugin-export-md",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1594,12 +2302,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "豆瓣插件",
+                    "homepage": null,
                     "id": 750746673,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T14:48:18Z",
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "plugin-douban",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1610,12 +2323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "图床插件",
+                    "homepage": null,
                     "id": 786321957,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T02:29:14Z",
+                    "open_issues": 9,
                     "owner": "liuyiwuqing",
                     "repo": "halo-plugin-picture-bed",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1626,12 +2344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 存储增强插件 - 支持图片处理、格式转换、水印添加等功能",
+                    "homepage": null,
                     "id": 1122198535,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T14:52:13Z",
+                    "open_issues": 2,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-storage-toolkit",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1642,12 +2365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "博客星球是一个面向独立博客生态的星链协作系统。它不是单纯的友链展示页，而是把博客之间原本分散、孤立的友链关系、节点身份和公开动态组织成一个可联动、可检索、可探索的博客关系网络。",
+                    "homepage": null,
                     "id": 1251869388,
                     "language": "Java",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-07-08T15:46:45Z",
+                    "open_issues": 0,
                     "owner": "atangccc",
                     "repo": "Astrahub",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1658,12 +2386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你的halo博客添加一个链接跳转安全中台功能吧！",
+                    "homepage": "https://www.webjing.cn/docs/link-security-detect",
                     "id": 792083906,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-08-16T09:43:13Z",
+                    "open_issues": 1,
                     "owner": "wenjing-xin",
                     "repo": "plugins-links-security-detect",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1674,12 +2407,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集成 Lsky Pro 兰空图床作为 Halo 的存储后端。",
+                    "homepage": null,
                     "id": 791526454,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-16T23:17:26Z",
+                    "open_issues": 0,
                     "owner": "ichenhe",
                     "repo": "halo-lsky-pro",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "lsky-pro"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1690,12 +2432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 提供 GitHub 存储策略",
+                    "homepage": null,
                     "id": 619155416,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-16T17:30:46Z",
+                    "open_issues": 6,
                     "owner": "guicaiyue",
                     "repo": "plugin-githuboss",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1706,12 +2453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "让博客变得更好！目前计划功能如下：为halo站点的单页面和文章集成 swiper幻灯片、PDF等文件展示功能！",
+                    "homepage": "https://wenjing.xin",
                     "id": 811282730,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-02T10:58:49Z",
+                    "open_issues": 2,
                     "owner": "wenjing-xin",
                     "repo": "plugin-blog-hao",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1722,12 +2474,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 主题系统 【爱发电】插件",
+                    "homepage": "https://blog.xindu.site/zanzhu",
                     "id": 792177093,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T02:52:03Z",
+                    "open_issues": 1,
                     "owner": "carolcoral",
                     "repo": "plugin-afdian",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "afdian"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1738,12 +2497,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 添加内容格式转换、文章导入导出等功能。",
+                    "homepage": "https://www.halo.run/store/apps/app-SUvBR",
                     "id": 875063366,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T11:09:20Z",
+                    "open_issues": 11,
                     "owner": "ruibaby",
                     "repo": "plugin-content-tools",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1754,12 +2521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo plugin notify me",
+                    "homepage": null,
                     "id": 737190466,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-01-11T15:10:24Z",
+                    "open_issues": 5,
                     "owner": "monyuan",
                     "repo": "notify-me",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1770,12 +2542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+                    "homepage": "https://www.lik.cc",
                     "id": 952323590,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-23T08:29:04Z",
+                    "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1786,12 +2563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "编辑查看邮件模板",
+                    "homepage": null,
                     "id": 962628438,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-10T14:12:28Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-mail-template",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1802,12 +2584,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo2.0的issue插件，可以用于留言，反馈，QA",
+                    "homepage": "https://www.webjing.cn",
                     "id": 965150445,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-14T12:56:22Z",
+                    "open_issues": 7,
                     "owner": "wenjing-xin",
                     "repo": "plugin-issues",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1818,12 +2605,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo Steam展示插件 - 展示 Steam 用户资料、游戏库和最近游玩记录",
+                    "homepage": null,
                     "id": 1130948980,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-27T18:29:43Z",
+                    "open_issues": 0,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-steam",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1834,12 +2626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 556254138,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-12-12T16:12:04Z",
+                    "open_issues": 3,
                     "owner": "liuzhihang",
                     "repo": "plugin-prismjs",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1850,12 +2647,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo2 支持 meilisearch",
+                    "homepage": null,
                     "id": 740268702,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-02T10:05:01Z",
+                    "open_issues": 1,
                     "owner": "Rainsheep",
                     "repo": "halo-plugin-meilisearch",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1866,12 +2668,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你的halo2提供一个文章封面图功能",
+                    "homepage": "https://www.lik.cc",
                     "id": 985779780,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-25T03:08:27Z",
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "plugin-coverImage",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1882,12 +2689,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 提供 Passkey (WebAuthn) 无密码认证支持",
+                    "homepage": "https://www.halo.run/store/apps/app-g7tggrco",
                     "id": 1125739051,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-27T05:24:23Z",
+                    "open_issues": 0,
                     "owner": "iLay1678",
                     "repo": "halo-plugin-auth-passkey",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "passkey"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1898,12 +2714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Make the theme of halo colorless",
+                    "homepage": null,
                     "id": 572594000,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-31T08:39:24Z",
+                    "open_issues": 2,
                     "owner": "guqing",
                     "repo": "halo-plugin-colorless",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1914,12 +2735,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo插件，为Halo提供Webhook支持",
+                    "homepage": "https://www.wxy97.com/archives/2135a7d6-e40a-4bae-b4a6-06db588b97aa",
                     "id": 791294571,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-25T07:57:56Z",
+                    "open_issues": 5,
                     "owner": "wxyShine",
                     "repo": "plugin-webhook",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1930,12 +2756,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "将 artalk 评论系统集成到 Halo。",
+                    "homepage": "https://auth.webjing.com",
                     "id": 809664564,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-24T01:41:51Z",
+                    "open_issues": 3,
                     "owner": "wenjing-xin",
                     "repo": "plugin-artalk",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1946,12 +2777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 892567607,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-16T15:00:06Z",
+                    "open_issues": 0,
                     "owner": "yuxuefenfei",
                     "repo": "halo-plugin-auto-backup",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1962,12 +2798,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "化繁为简,专注所需一款halo的网页导航插件",
+                    "homepage": "https://www.lik.cc/",
                     "id": 943855970,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-26T12:25:53Z",
+                    "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "halo-plugin-zenNavigator",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1978,12 +2819,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1181494659,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-05-18T17:32:38Z",
+                    "open_issues": 1,
                     "owner": "pandyzhou",
                     "repo": "plugin-openlist",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1994,12 +2840,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 637016966,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-05-10T07:52:58Z",
+                    "open_issues": 1,
                     "owner": "HandsomeNPC",
                     "repo": "halo-wangEditor-plugin",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2010,12 +2861,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为Halo2.0提供的扩展插件：Gitee 仓库存储策略插件",
+                    "homepage": null,
                     "id": 641866195,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2025-08-14T03:02:48Z",
+                    "open_issues": 2,
                     "owner": "MartyAlien",
                     "repo": "plugin-giteeoss",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2026,12 +2882,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo plugin for WebP Cloud(WebP Cloud Services)",
+                    "homepage": "https://halo.run/store/apps/app-fVJSY",
                     "id": 659514734,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-20T06:57:59Z",
+                    "open_issues": 13,
                     "owner": "webp-sh",
                     "repo": "halo-plugin-webp-cloud",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2042,12 +2903,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 796277557,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-21T02:07:33Z",
+                    "open_issues": 0,
                     "owner": "ShiinaKin",
                     "repo": "halo-plugin-typecho",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2058,12 +2924,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "订阅文章",
+                    "homepage": null,
                     "id": 959094473,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-15T18:14:26Z",
+                    "open_issues": 5,
                     "owner": "chengzhongxue",
                     "repo": "flow-post",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2074,12 +2945,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "时间因子",
+                    "homepage": null,
                     "id": 1009409522,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-27T01:40:38Z",
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "plugin-time-factor",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2090,12 +2966,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 编辑器添加 OwO 表情包面板，让你的文章更加生动有趣！支持 默认编辑器、Vditor、ByteMD、Willow MDE",
+                    "homepage": null,
                     "id": 1118317768,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-16T02:40:43Z",
+                    "open_issues": 0,
                     "owner": "SwaggyMacro",
                     "repo": "plugin-editor-sticker",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2106,12 +2987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
                     "id": 1188432251,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T09:41:17Z",
+                    "open_issues": 0,
                     "owner": "sunnyhmz7010",
                     "repo": "halo-plugin-schedule-calendar",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2122,12 +3008,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于halo支持将网址、图片、音乐、视频、文件封装为卡片样式分享至微信，并提供数据看板功能。",
+                    "homepage": "https://avrinbai.cn/archives/QXuapZl4",
                     "id": 1229227835,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-24T23:15:44Z",
+                    "open_issues": 2,
                     "owner": "Avrinbai",
                     "repo": "halo-plugin-wechat-share",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2138,12 +3029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个Halo 博客插件，将您的微信读书（WeRead）数据同步展示到个人博客中。",
+                    "homepage": null,
                     "id": 1229381599,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T05:18:22Z",
+                    "open_issues": 1,
                     "owner": "yeora26",
                     "repo": "halo-weread-plugin",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2154,12 +3050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 halo 集成 waline 评论系统",
+                    "homepage": null,
                     "id": 825166715,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-06T14:42:29Z",
+                    "open_issues": 2,
                     "owner": "wenjing-xin",
                     "repo": "plugin-waline",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2170,12 +3071,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "集成 APlayer 音乐播放器与 MetingJS 到 Halo 2.0。",
+                    "homepage": null,
                     "id": 877952828,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-28T03:37:19Z",
+                    "open_issues": 4,
                     "owner": "Aziteee",
                     "repo": "halo-plugin-aplayer",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2186,12 +3092,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "链接提交插件",
+                    "homepage": null,
                     "id": 997459603,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-23T07:19:24Z",
+                    "open_issues": 9,
                     "owner": "chengzhongxue",
                     "repo": "link-submit",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2202,12 +3113,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1007741636,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-03T07:02:37Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-announcement",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2218,12 +3134,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1011526658,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-28T12:50:07Z",
+                    "open_issues": 0,
                     "owner": "ShiinaKin",
                     "repo": "halo-plugin-bangumi-data",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2234,12 +3155,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "live2D for halo-plugin",
+                    "homepage": null,
                     "id": 1111476927,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-19T05:26:34Z",
+                    "open_issues": 0,
                     "owner": "alsdhkauuhw",
                     "repo": "halo-plugin-live2D",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2250,12 +3178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo-plugin",
+                    "homepage": null,
                     "id": 1179070364,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2026-05-18T15:56:12Z",
+                    "open_issues": 0,
                     "owner": "pandyzhou",
                     "repo": "plugin-ui-beautify",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2266,12 +3199,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "让用户看到有多少人在与他看同一个页面",
+                    "homepage": "https://www.halo.run/store/apps/app-ion2qhko",
                     "id": 1201017683,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-26T05:55:15Z",
+                    "open_issues": 1,
                     "owner": "Zyx-2012",
                     "repo": "plugin-online",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2282,12 +3222,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "专为 Halo 2.x 打造的一言（Hitokoto）句子管理插件。支持分类归档、随机获取、搜索点赞，并提供丰富的公开 REST API 便于主题集成。",
+                    "homepage": "https://www.puresky.top",
                     "id": 1220989686,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-26T11:09:11Z",
+                    "open_issues": 1,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2298,12 +3243,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款为 Halo 博客集成 Navidrome（Subsonic API）前台音乐播放器的插件，支持歌单播放、悬浮控制与多歌单切换。",
+                    "homepage": null,
                     "id": 1218933938,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-08T06:48:54Z",
+                    "open_issues": 3,
                     "owner": "queenyn",
                     "repo": "halo-plugin-navidrome-player",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2314,12 +3264,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "将 Twikoo 评论系统集成到 Halo 2.x",
+                    "homepage": "https://www.halo.run/store/apps/app-FgtLY",
                     "id": 793792178,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-10T22:32:49Z",
+                    "open_issues": 2,
                     "owner": "ichenhe",
                     "repo": "halo-twikoo",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "twikoo"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2330,12 +3289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 插件-图片链接处理",
+                    "homepage": null,
                     "id": 806595673,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-19T08:42:53Z",
+                    "open_issues": 0,
                     "owner": "kecikeci",
                     "repo": "halo-plugin-image-url-handler",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2346,12 +3310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 834713617,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-21T08:32:28Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-comment-migrate",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2362,12 +3331,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "自动对文章内容执行 Pangu 格式化，在中英文之间加入空格。",
+                    "homepage": null,
                     "id": 886056395,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-17T06:04:39Z",
+                    "open_issues": 0,
                     "owner": "Aziteee",
                     "repo": "halo-plugin-pangu",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2378,12 +3352,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 984083606,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-16T09:16:55Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-IndexNow",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2394,12 +3373,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "投票插件",
+                    "homepage": null,
                     "id": 1038681971,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-15T17:28:17Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-vote",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2410,12 +3394,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你 halo2 提供数据图表统计功能",
+                    "homepage": "https://www.xhhao.com",
                     "id": 1091102341,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-26T06:19:05Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-data-statistics",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2426,12 +3415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1097123678,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-11T02:25:19Z",
+                    "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "plugin-timeline",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2442,12 +3436,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。",
+                    "homepage": null,
                     "id": 1119978924,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-08T07:26:39Z",
+                    "open_issues": 1,
                     "owner": "SwaggyMacro",
                     "repo": "plugin-cdn-cache",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2458,12 +3457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "替换Halo博客评论组件中的头像，为匿名用户和未上传头像用户提供一个评论区头像",
+                    "homepage": "https://shifeiyu.cn",
                     "id": 1123485580,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-28T03:05:39Z",
+                    "open_issues": 3,
                     "owner": "YunJian101",
                     "repo": "Halo-Plugin-Dicebear-Avatar",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2474,12 +3478,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private encrypted posts plugin for Halo",
+                    "homepage": null,
                     "id": 1218886933,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T05:47:33Z",
+                    "open_issues": 0,
                     "owner": "BairongLuo",
                     "repo": "halo-private-posts",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2490,12 +3501,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 574632153,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-12-13T03:53:14Z",
+                    "open_issues": 0,
                     "owner": "microhalo",
                     "repo": "plugin-pixabay",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2506,12 +3522,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "提供对 RSS 链接的订阅功能，支持获取其订阅内容",
+                    "homepage": null,
                     "id": 853342341,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-22T10:11:21Z",
+                    "open_issues": 4,
                     "owner": "chengzhongxue",
                     "repo": "plugin-friends",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2522,12 +3543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 963645124,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-19T01:20:05Z",
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "halo-plugin-bingeWatching",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2538,12 +3564,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight plugin providing extra data for Halo CMS",
+                    "homepage": "https://www.halo.run/store/apps/app-di1jh8gd",
                     "id": 1060646577,
                     "language": "Java",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T07:10:50Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "halo-plugin-extra-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2554,12 +3589,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "这是一个基于DPlayer实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放",
+                    "homepage": null,
                     "id": 1100450259,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-02T14:04:50Z",
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "plugin-dplayer",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2570,12 +3610,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为默认编辑器和文章渲染提供 Typst 支持",
+                    "homepage": null,
                     "id": 1114850042,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-30T11:13:13Z",
+                    "open_issues": 0,
                     "owner": "sqwfly",
                     "repo": "halo-plugin-typst",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2586,12 +3631,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1130391387,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-20T09:31:39Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-aimodel-hub",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2602,12 +3652,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "steamview",
+                    "homepage": null,
                     "id": 1135719409,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-19T14:55:58Z",
+                    "open_issues": 1,
                     "owner": "sailtrack410",
                     "repo": "plugin-steamview",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2618,12 +3673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于halo提供的家庭点菜插件",
+                    "homepage": "https://avrinbai.cn/archives/0s2W1qce",
                     "id": 1210862012,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-02T16:24:05Z",
+                    "open_issues": 2,
                     "owner": "Avrinbai",
                     "repo": "halo-plugin-dishes",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2634,12 +3694,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1206577913,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-11T16:15:33Z",
+                    "open_issues": 0,
                     "owner": "bi1kbu",
                     "repo": "qsl-management",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2650,12 +3715,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PostChat的Halo博客系统插件，站点AI增强工具，实现文章摘要与知识库对话",
+                    "homepage": "https://postchat.zhheo.com",
                     "id": 816219152,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-30T03:07:28Z",
+                    "open_issues": 2,
                     "owner": "zhheo",
                     "repo": "halo-plugin-postchat",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2666,12 +3739,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 914649705,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-21T09:47:04Z",
+                    "open_issues": 0,
                     "owner": "chengzhongxue",
                     "repo": "plugin-thyuu-embed",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2682,12 +3760,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你的halo2提供一个文章播放功能",
+                    "homepage": "https://www.lik.cc",
                     "id": 987788180,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-24T15:05:18Z",
+                    "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "plugin-postSpeech",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2698,12 +3781,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.0 的装备管理插件",
+                    "homepage": null,
                     "id": 997215002,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-09T07:34:54Z",
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "plugin-equipment",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2714,12 +3802,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "编辑主题页面",
+                    "homepage": null,
                     "id": 1029536189,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-15T11:07:58Z",
+                    "open_issues": 0,
                     "owner": "chengzhongxue",
                     "repo": "plugin-editor-theme-page",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2730,12 +3823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo的胶囊公告栏插件",
+                    "homepage": null,
                     "id": 1074210850,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-24T06:50:36Z",
+                    "open_issues": 1,
                     "owner": "PpKoK",
                     "repo": "halo-plugin-jyfac",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2746,12 +3844,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为你 halo2 提供一个评论引用和屏幕弹幕功能",
+                    "homepage": null,
                     "id": 1102868703,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-24T11:17:25Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-comment-interact",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2762,12 +3865,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 2.x 提供 Excalidraw 绘图功能的插件。",
+                    "homepage": null,
                     "id": 1121556403,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-24T03:07:51Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-excalidraw",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2778,12 +3886,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "开启维护模式进入站点维护页面",
+                    "homepage": null,
                     "id": 1188103336,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-18T15:23:15Z",
+                    "open_issues": 0,
                     "owner": "chengzhongxue",
                     "repo": "plugin-maintenance",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2794,12 +3907,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo博客系统 安全跳转助手",
+                    "homepage": null,
                     "id": 1196060575,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-29T05:39:00Z",
+                    "open_issues": 2,
                     "owner": "nieshilin",
                     "repo": "plugin-safe-redirect",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2810,12 +3928,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "通过 Bark 应用实时推送 Halo 博客的新评论和注册用户通知。",
+                    "homepage": null,
                     "id": 1238596484,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-15T06:18:19Z",
+                    "open_issues": 0,
                     "owner": "pig-gua",
                     "repo": "halo-plugin-bark",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2826,12 +3949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "halo全局私密访问控制：未登录访问任意页面自动跳转登录页，登录后回到原始访问页，支持账号白名单，仅允许指定用户访问。",
+                    "homepage": null,
                     "id": 1245902693,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-28T11:31:29Z",
+                    "open_issues": 0,
                     "owner": "Frost-leafleaf",
                     "repo": "global-private",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2842,12 +3970,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 853097548,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-12T06:40:40Z",
+                    "open_issues": 0,
                     "owner": "yss930819",
                     "repo": "halo-plugin-import-hw-doc",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2858,12 +3991,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo插件PWA",
+                    "homepage": null,
                     "id": 961082640,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-06-23T16:35:56Z",
+                    "open_issues": 0,
                     "owner": "chengzhongxue",
                     "repo": "plugin-pwa",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2874,12 +4012,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于 Halo 的 HTML 代码注入插件",
+                    "homepage": null,
                     "id": 1027547678,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T11:15:20Z",
+                    "open_issues": 0,
                     "owner": "Erzbir",
                     "repo": "halo-plugin-injector",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "halo",
+                      "injection",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2890,12 +4037,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1022426634,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-12T08:19:20Z",
+                    "open_issues": 0,
                     "owner": "kyo-tom",
                     "repo": "plugin-immich-picture-bed",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2906,12 +4058,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 插件 - 为云盘链接提供下载链接卡片",
+                    "homepage": null,
                     "id": 1117374483,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-17T03:45:16Z",
+                    "open_issues": 2,
                     "owner": "liuyiwuqing",
                     "repo": "halo-plugin-download-links",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2922,12 +4079,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1126411021,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-23T04:59:21Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-lottery",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2938,12 +4100,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为默认编辑器和文章页渲染提供 TikZ 支持",
+                    "homepage": null,
                     "id": 1136228630,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-30T14:22:04Z",
+                    "open_issues": 0,
                     "owner": "sqwfly",
                     "repo": "halo-plugin-tikz",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2954,12 +4121,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Halo 2.x Redis 连接器插件，为其他插件提供统一的 Redis 操作能力",
+                    "homepage": null,
                     "id": 1145708764,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-30T09:29:18Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-redis-connector",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2970,12 +4142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1171296151,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-06-05T11:28:56Z",
+                    "open_issues": 1,
                     "owner": "Leezj9671",
                     "repo": "halo-redirects",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2986,12 +4163,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1186926312,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-04-02T07:46:21Z",
+                    "open_issues": 1,
                     "owner": "iszkq",
                     "repo": "halo-plugin-register",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -3002,12 +4184,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "适用于 Halo 的页面转换器插件，按规则改写指定页面内容",
+                    "homepage": null,
                     "id": 1201769334,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T07:09:32Z",
+                    "open_issues": 4,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "halo-plugin-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -3018,12 +4209,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为默认编辑器和文章渲染提供 数学公式 支持。",
+                    "homepage": "https://halo.run/store/apps/app-ISCsX",
                     "id": 1221363266,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-01T13:26:48Z",
+                    "open_issues": 0,
                     "owner": "Akvicor",
                     "repo": "plugin-kmath",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -3034,12 +4230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "为 Halo 编辑器提供常用自定义标签支持",
+                    "homepage": null,
                     "id": 1283231099,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-14T15:40:05Z",
+                    "open_issues": 0,
                     "owner": "Akvicor",
                     "repo": "plugin-shortcode",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 }
@@ -3062,12 +4263,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)",
+                "homepage": "https://elog.1874.cool",
                 "id": 572827827,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-10T06:59:38Z",
+                "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1877
+                "stars": 1877,
+                "topics": [
+                  "blog",
+                  "confluence",
+                  "docusaurus",
+                  "docz",
+                  "feishu",
+                  "flowus",
+                  "hexo",
+                  "hugo",
+                  "markdown",
+                  "notion",
+                  "vitepress",
+                  "wordpress",
+                  "yuque"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3078,12 +4298,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "V2 is on the way✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 2.0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新",
+                "homepage": "https://siyuan.wiki/s/20230810132040-nn4q7vs",
                 "id": 518482967,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T10:58:44Z",
+                "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "blog",
+                  "chrome-extension",
+                  "confluence",
+                  "edge-extension",
+                  "firefox-addon",
+                  "jvue",
+                  "metaweblog",
+                  "metaweblog-api",
+                  "publish",
+                  "siyuan",
+                  "siyuan-note",
+                  "typescript",
+                  "vue",
+                  "vue3",
+                  "vuepress",
+                  "widget",
+                  "wordpress"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3094,12 +4337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Publish your Obsidian documents to Halo.",
+                "homepage": null,
                 "id": 648588132,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-24T07:10:01Z",
+                "open_issues": 9,
                 "owner": "halo-sigs",
                 "repo": "obsidian-halo",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "halo",
+                  "obsidian",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3110,12 +4362,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Publish posts by VSCode~",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=halo-dev.halo",
                 "id": 672508649,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-23T10:31:22Z",
+                "open_issues": 6,
                 "owner": "halo-sigs",
                 "repo": "vscode-extension-halo",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "halo",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3126,12 +4387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A chrome plugin to upload image to yout Halo attachment",
+                "homepage": null,
                 "id": 724105857,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-07T06:51:21Z",
+                "open_issues": 0,
                 "owner": "hilaliu",
                 "repo": "Halo-Image-Plugin",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3142,12 +4408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Publish Telegram Channel Post To Halo Moment",
+                "homepage": null,
                 "id": 710689197,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-13T15:25:38Z",
+                "open_issues": 0,
                 "owner": "Mystery00",
                 "repo": "telegram-channel-publisher",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3158,12 +4429,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "为 uni-halo v2.0 多端应用提供特定的配置的插件。",
+                "homepage": "https://uni-halo.925i.cn",
                 "id": 817686762,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-24T14:49:54Z",
+                "open_issues": 0,
                 "owner": "ialley-workshop-open",
                 "repo": "plugin-uni-halo",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "halo",
+                  "halo-api",
+                  "halo-platform",
+                  "halo-plugin",
+                  "halo-plugin-starter",
+                  "plugin-halo",
+                  "plugin-uni-halo",
+                  "uni-halo"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             },
@@ -3174,12 +4459,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attachment Upload CLI - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。",
+                "homepage": null,
                 "id": 643234776,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-05-19T07:22:21Z",
+                "open_issues": 0,
                 "owner": "halo-sigs",
                 "repo": "attachment-upload-cli",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cli",
+                  "halo",
+                  "node-cli",
+                  "typora"
+                ]
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
             }
@@ -3193,15 +4488,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:35:24.646Z",
+    "last_updated": "2026-08-29T04:43:09.378Z",
     "original_repository_info": {
       "archived": false,
+      "description": "与 Halo 相关的周边生态资源列表",
+      "homepage": null,
       "id": 522516845,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-06T06:44:39Z",
+      "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 630
+      "stars": 630,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "halo"
+      ]
     },
     "original_repository_sha": "53d3826c0afff7f85eb7a2a9452321536f439087",
     "enhanced_repository": "enhansome/enhansome-halo",

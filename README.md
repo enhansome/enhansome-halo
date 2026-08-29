@@ -21,19 +21,19 @@
 * [theme-earth](https://github.com/halo-dev/theme-earth) ⭐ 63 | 🐛 22 | 🌐 HTML | 📅 2026-08-25 - Halo 2.0 的默认主题
 * [halo-theme-anatole](https://github.com/halo-dev/halo-theme-anatole) ⭐ 51 | 🐛 2 | 🌐 CSS | 📅 2026-07-27 - 适用于 Halo 2.0 的 Anatole 主题
 * [theme-modern-starter](https://github.com/halo-sigs/theme-modern-starter) ⚠️ Archived - 集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
-* [theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) ⭐ 18 | 🐛 0 | 🌐 Astro | 📅 2026-04-09 - 与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。
-* [theme-vite-starter](https://github.com/halo-sigs/theme-vite-starter) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-04-27 - 与 Vite 集成的主题模板，由 Vite 负责资源构建。
+* [theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) ⭐ 19 | 🐛 0 | 🌐 Astro | 📅 2026-04-09 - 与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。
+* [theme-vite-starter](https://github.com/halo-sigs/theme-vite-starter) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-08-29 - 与 Vite 集成的主题模板，由 Vite 负责资源构建。
 * [theme-starter](https://github.com/halo-sigs/theme-starter) ⭐ 12 | 🐛 1 | 🌐 HTML | 📅 2026-01-14 - 最基础的主题模板，包含了主题的基本目录结构。
 
 #### 社区
 
 * [theme-sakura](https://github.com/LIlGG/halo-theme-sakura/tree/next) ⭐ 967 | 🐛 32 | 🌐 CSS | 📅 2026-08-21 - 适用于 Halo 2.0 的 Sakura 主题
-* [theme-hao](https://github.com/liuzhihang/halo-theme-hao) ⭐ 833 | 🐛 0 | 🌐 CSS | 📅 2026-07-16 - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,354 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 的魔改
+* [theme-hao](https://github.com/liuzhihang/halo-theme-hao) ⭐ 834 | 🐛 1 | 🌐 CSS | 📅 2026-07-16 - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,354 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 的魔改
 * [theme-xue](https://github.com/xzhuz/halo-theme-xue/tree/next) ⭐ 515 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-02 - 适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）
 * [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) ⭐ 449 | 🐛 36 | 🌐 CSS | 📅 2025-03-30 - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,354 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 - 适用于 Halo 2.0 的 Butterfly 主题
-* [halo-theme-joe3.0](https://github.com/jiewenhuang/halo-theme-joe3.0) ⭐ 339 | 🐛 76 | 🌐 JavaScript | 📅 2026-01-06 - 一款 Halo 2.0 的博客主题，由 [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) ⭐ 748 | 🐛 43 | 🌐 JavaScript | 📅 2023-06-26 适配而来
+* [halo-theme-joe3.0](https://github.com/jiewenhuang/halo-theme-joe3.0) ⭐ 340 | 🐛 76 | 🌐 JavaScript | 📅 2026-01-06 - 一款 Halo 2.0 的博客主题，由 [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) ⭐ 748 | 🐛 43 | 🌐 JavaScript | 📅 2023-06-26 适配而来
 * [theme-higan](https://github.com/guqing/halo-theme-higan) ⭐ 146 | 🐛 7 | 🌐 CSS | 📅 2025-03-17 - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git) ⭐ 3,518 | 🐛 33 | 🌐 Stylus | 📅 2024-08-13
-* [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) ⭐ 141 | 🐛 18 | 🌐 HTML | 📅 2026-06-17 - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,246 | 🐛 34 | 🌐 HTML | 📅 2026-07-30
+* [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) ⭐ 141 | 🐛 18 | 🌐 HTML | 📅 2026-06-17 - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,248 | 🐛 34 | 🌐 HTML | 📅 2026-07-30
 * [theme-stack](https://github.com/jiewenhuang/halo-theme-stack) ⭐ 134 | 🐛 4 | 🌐 HTML | 📅 2025-09-07 - 移植于 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) ⭐ 6,468 | 🐛 7 | 🌐 HTML | 📅 2026-05-25 的个人博客主题
 * [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) ⭐ 107 | 🐛 3 | 🌐 HTML | 📅 2025-06-13 - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
 * [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) ⭐ 107 | 🐛 1 | 🌐 HTML | 📅 2026-04-03 - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so) ⭐ 2,025 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-24
@@ -49,7 +49,7 @@
 * [theme-terminal](https://github.com/wan92hen/theme-terminal) ⭐ 44 | 🐛 2 | 🌐 HTML | 📅 2025-06-30 - 一款 Terminal 风格的 Halo 2.0 主题
 * [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) ⭐ 41 | 🐛 3 | 🌐 HTML | 📅 2026-08-01 - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
 * [theme-ocean](https://github.com/f2ccloud/theme-ocean) ⭐ 40 | 🐛 6 | 🌐 HTML | 📅 2026-04-13 - 适用于 Halo 2.0 的 知识库类型主题
-* [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) ⭐ 38 | 🐛 3 | 🌐 Astro | 📅 2026-07-31 - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari) ⭐ 4,957 | 🐛 173 | 🌐 Astro | 📅 2026-03-10。
+* [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) ⭐ 38 | 🐛 3 | 🌐 Astro | 📅 2026-07-31 - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari) ⭐ 4,961 | 🐛 173 | 🌐 Astro | 📅 2026-03-10。
 * [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) ⭐ 36 | 🐛 2 | 🌐 CSS | 📅 2023-03-13 - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges) ⭐ 580 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-10
 * [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) ⭐ 27 | 🐛 7 | 🌐 HTML | 📅 2026-08-14 - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/) ⭐ 8,068 | 🐛 108 | 🌐 HTML | 📅 2025-06-12。
 * [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) ⭐ 25 | 🐛 13 | 🌐 CSS | 📅 2025-05-22 - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) ⭐ 40 | 🐛 0 | 🌐 CSS | 📅 2024-11-22 二次修改开发的 Halo 主题。
@@ -57,7 +57,7 @@
 * [halo-theme-Mego](https://github.com/w-flac/theme-mego) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2026-03-25 - 一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。
 * [theme-next](https://github.com/AeroWang/theme-next) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-04 - 一个简洁的 Halo 博客主题 Next，技术栈 Next.js
 * [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) ⭐ 18 | 🐛 14 | 🌐 CSS | 📅 2026-01-26 - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) ⭐ 2,020 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-27。
-* [halo-theme-next](https://github.com/bit15k/halo-theme-next) ⭐ 17 | 🐛 5 | 🌐 CSS | 📅 2024-07-24 - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/) ⭐ 2,778 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-26。
+* [halo-theme-next](https://github.com/bit15k/halo-theme-next) ⭐ 17 | 🐛 5 | 🌐 CSS | 📅 2024-07-24 - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/) ⭐ 2,777 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-26。
 * [halo-theme-terminal-ez](https://github.com/Erzbir/halo-theme-terminal) ⭐ 16 | 🐛 0 | 🌐 SCSS | 📅 2026-08-22 - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) ⭐ 44 | 🐛 2 | 🌐 HTML | 📅 2025-06-30 修改
 * [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) ⭐ 16 | 🐛 1 | 🌐 HTML | 📅 2026-08-27 - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 * [halo-theme-material](https://github.com/chengzhongxue/halo-theme-material) ⭐ 14 | 🐛 2 | 🌐 CSS | 📅 2026-01-26 - 一个简洁的 Halo 2.0 博客主题， 移植于 [hexo-theme-material](https://github.com/iblh/hexo-theme-material) ⭐ 4,034 | 🐛 104 | 🌐 CSS | 📅 2022-05-18
@@ -233,4 +233,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
