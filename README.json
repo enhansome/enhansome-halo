@@ -214,7 +214,7 @@
                     "language": "CSS",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-16T09:10:00Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
                     "stars": 834,
@@ -921,7 +921,7 @@
                     "id": 1013500429,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-27T09:59:12Z",
+                    "last_commit": "2026-08-29T21:43:32Z",
                     "open_issues": 1,
                     "owner": "dengxiwang",
                     "repo": "go-halo-theme",
@@ -2175,7 +2175,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2480,7 +2480,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-10T02:52:03Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "carolcoral",
                     "repo": "plugin-afdian",
                     "stars": 10,
@@ -4434,7 +4434,7 @@
                 "id": 817686762,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-05-24T14:49:54Z",
+                "last_commit": "2026-08-30T05:08:24Z",
                 "open_issues": 0,
                 "owner": "ialley-workshop-open",
                 "repo": "plugin-uni-halo",
@@ -4488,7 +4488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:01:19.554Z",
+    "last_updated": "2026-08-30T09:54:50.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4497,7 +4497,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-06T06:44:39Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
       "stars": 630,
