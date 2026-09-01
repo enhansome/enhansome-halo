@@ -125,7 +125,7 @@
                     "id": 555837900,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T02:21:05Z",
+                    "last_commit": "2026-09-01T08:36:45Z",
                     "open_issues": 0,
                     "owner": "halo-dev",
                     "repo": "theme-vite-starter",
@@ -152,7 +152,7 @@
                     "id": 522400930,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-01-14T10:04:47Z",
+                    "last_commit": "2026-09-01T08:38:44Z",
                     "open_issues": 1,
                     "owner": "halo-dev",
                     "repo": "theme-starter",
@@ -512,8 +512,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T20:35:53Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-01T00:22:21Z",
+                    "open_issues": 15,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61,
@@ -1073,7 +1073,7 @@
                     "id": 1130124039,
                     "language": "CSS",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-02-22T09:50:52Z",
+                    "last_commit": "2026-08-31T17:57:46Z",
                     "open_issues": 0,
                     "owner": "PpKoK",
                     "repo": "theme-jyf",
@@ -2175,7 +2175,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -3569,8 +3569,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-08-30T20:34:02Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-01T00:10:59Z",
+                    "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -3965,6 +3965,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-01T07:01:04Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-import-hw-doc",
                   "description": "为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入",
                   "children": [],
@@ -4189,8 +4210,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T20:34:00Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-01T00:08:53Z",
+                    "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4243,27 +4264,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T07:10:21Z",
-                    "open_issues": 0,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 }
               ],
               "description": null,
@@ -4509,7 +4509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:48:22.431Z",
+    "last_updated": "2026-09-01T09:22:24.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
