@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 834,
+                    "stars": 835,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -380,7 +380,7 @@
                     "open_issues": 3,
                     "owner": "zhheo",
                     "repo": "halo-theme-heolink",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -512,8 +512,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T00:22:21Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-01T21:42:30Z",
+                    "open_issues": 12,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61,
@@ -648,8 +648,8 @@
                     "id": 1019186661,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-01T10:56:26Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-01T10:59:14Z",
+                    "open_issues": 4,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
                     "stars": 41,
@@ -1527,9 +1527,9 @@
                     "description": "适用于 Halo 2.0 的瞬间插件",
                     "homepage": "https://www.halo.run/store/apps/app-SnwWD",
                     "id": 507791331,
-                    "language": "TypeScript",
+                    "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T03:15:08Z",
+                    "last_commit": "2026-09-01T14:24:44Z",
                     "open_issues": 16,
                     "owner": "halo-sigs",
                     "repo": "plugin-moments",
@@ -3238,6 +3238,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-02T07:36:00Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-navidrome-player",
                   "description": "一款为 Halo 博客集成 Navidrome（Subsonic API）前台音乐播放器的插件，支持歌单播放、悬浮控制与多歌单切换。",
                   "children": [],
@@ -3569,8 +3590,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-01T00:10:59Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-01T21:46:38Z",
+                    "open_issues": 9,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -3962,27 +3983,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T07:01:04Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -4509,7 +4509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:22:24.872Z",
+    "last_updated": "2026-09-02T08:44:59.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
