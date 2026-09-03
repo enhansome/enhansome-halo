@@ -471,7 +471,7 @@
                     "open_issues": 11,
                     "owner": "YunyuVv",
                     "repo": "theme-Ideaflow",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -512,8 +512,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T21:42:30Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-09-03T06:05:22Z",
+                    "open_issues": 10,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61,
@@ -610,7 +610,7 @@
                     "open_issues": 8,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
-                    "stars": 47,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2371,7 +2371,7 @@
                     "language": "Java",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-07-08T15:46:45Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "atangccc",
                     "repo": "Astrahub",
                     "stars": 13,
@@ -2569,7 +2569,7 @@
                     "language": "Vue",
                     "license": "GPL-3.0",
                     "last_commit": "2025-10-10T14:12:28Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "plugin-mail-template",
                     "stars": 8,
@@ -3045,6 +3045,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Vue",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-03T00:32:34Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-waline",
                   "description": "集成 waline 评论系统至 halo 站点",
                   "children": [],
@@ -3235,27 +3256,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-02T07:36:00Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -3590,8 +3590,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-01T21:46:38Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-03T01:34:39Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4210,8 +4210,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T00:08:53Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-09-03T01:34:42Z",
+                    "open_issues": 4,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4509,7 +4509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:44:59.439Z",
+    "last_updated": "2026-09-03T08:54:03.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4518,7 +4518,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-31T02:07:13Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
       "stars": 630,
