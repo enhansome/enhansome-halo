@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 835,
+                    "stars": 834,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -285,7 +285,7 @@
                     "open_issues": 76,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 340,
+                    "stars": 339,
                     "topics": [
                       "halo",
                       "joe",
@@ -451,7 +451,34 @@
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
                     "stars": 80,
-                    "topics": []
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-theme-sora",
+                  "description": "Sora「穹」，一个简约的主题。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A blog theme for Halo",
+                    "homepage": null,
+                    "id": 955957434,
+                    "language": "CSS",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-07-09T14:58:38Z",
+                    "open_issues": 4,
+                    "owner": "Liksium",
+                    "repo": "halo-theme-sora",
+                    "stars": 64,
+                    "topics": [
+                      "halo",
+                      "halo-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -473,30 +500,6 @@
                     "repo": "theme-Ideaflow",
                     "stars": 64,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-sora",
-                  "description": "Sora「穹」，一个简约的主题。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A blog theme for Halo",
-                    "homepage": null,
-                    "id": 955957434,
-                    "language": "CSS",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-07-09T14:58:38Z",
-                    "open_issues": 4,
-                    "owner": "Liksium",
-                    "repo": "halo-theme-sora",
-                    "stars": 63,
-                    "topics": [
-                      "halo",
-                      "halo-theme"
-                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1529,8 +1532,8 @@
                     "id": 507791331,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T14:15:48Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-09-05T07:43:31Z",
+                    "open_issues": 17,
                     "owner": "halo-sigs",
                     "repo": "plugin-moments",
                     "stars": 55,
@@ -3505,7 +3508,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-15T05:47:33Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "BairongLuo",
                     "repo": "halo-private-posts",
                     "stars": 3,
@@ -4509,7 +4512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:49:04.782Z",
+    "last_updated": "2026-09-05T08:19:22.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4518,7 +4521,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-31T02:07:13Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
       "stars": 630,
