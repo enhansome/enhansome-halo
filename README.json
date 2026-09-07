@@ -515,8 +515,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T22:37:59Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-06T22:11:57Z",
+                    "open_issues": 12,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61,
@@ -588,11 +588,11 @@
                     "id": 1148684826,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-06T15:00:55Z",
+                    "last_commit": "2026-09-06T09:19:08Z",
                     "open_issues": 2,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1610,7 +1610,7 @@
                     "open_issues": 13,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": [
                       "halo",
                       "halo-plugin"
@@ -2237,6 +2237,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-plugin-schedule-calendar",
+                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
+                    "id": 1188432251,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-30T12:22:09Z",
+                    "open_issues": 0,
+                    "owner": "sunnyhmz7010",
+                    "repo": "halo-plugin-schedule-calendar",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-sitepush",
                   "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
                   "children": [],
@@ -2572,7 +2593,7 @@
                     "language": "Vue",
                     "license": "GPL-3.0",
                     "last_commit": "2025-10-10T14:12:28Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-mail-template",
                     "stars": 8,
@@ -3006,27 +3027,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-schedule-calendar",
-                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                    "homepage": null,
-                    "id": 1188432251,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T12:22:09Z",
-                    "open_issues": 0,
-                    "owner": "sunnyhmz7010",
-                    "repo": "halo-plugin-schedule-calendar",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-wechat-share",
                   "description": "基于Halo自定义微信分享卡片的标题、描述、封面、、链接，优化微信内分享展示效果。",
                   "children": [],
@@ -3059,7 +3059,7 @@
                     "language": "Vue",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-03T00:32:34Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "SwaggyMacro",
                     "repo": "plugin-lottie",
                     "stars": 5,
@@ -3508,7 +3508,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-15T05:47:33Z",
-                    "open_issues": 1,
+                    "open_issues": 4,
                     "owner": "BairongLuo",
                     "repo": "halo-private-posts",
                     "stars": 3,
@@ -3593,8 +3593,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-05T22:28:21Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-09-06T20:34:14Z",
+                    "open_issues": 15,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -3989,6 +3989,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-wechat-official-sync",
+                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
+                    "id": 1357908687,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-07T08:10:53Z",
+                    "open_issues": 0,
+                    "owner": "hcjike",
+                    "repo": "plugin-wechat-official-sync",
+                    "stars": 1,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-09-07T09:17:07.254Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-import-hw-doc",
                   "description": "为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入",
                   "children": [],
@@ -4213,7 +4237,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T22:22:53Z",
+                    "last_commit": "2026-09-06T20:34:05Z",
                     "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4327,7 +4351,7 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:34:10Z",
+                "last_commit": "2026-09-07T07:35:28Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
@@ -4512,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:38:06.760Z",
+    "last_updated": "2026-09-07T09:17:07.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4520,8 +4544,8 @@
       "id": 522516845,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-31T02:07:13Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-07T04:45:44Z",
+      "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
       "stars": 630,
@@ -4531,7 +4555,7 @@
         "halo"
       ]
     },
-    "original_repository_sha": "d54249d3829f797b897c9deb17e4dc51834af8a3",
+    "original_repository_sha": "02a0d330c9fc8e22016f29e56ff5bb5a90d48262",
     "enhanced_repository": "enhansome/enhansome-halo",
     "enhanced_repository_description": null,
     "title": "Awesome halo with stars"
