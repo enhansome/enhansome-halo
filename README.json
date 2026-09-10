@@ -50,7 +50,7 @@
                     "open_issues": 2,
                     "owner": "halo-dev",
                     "repo": "halo-theme-anatole",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -446,7 +446,7 @@
                     "id": 776599631,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T02:39:42Z",
+                    "last_commit": "2026-09-10T04:51:09Z",
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
@@ -515,7 +515,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T01:35:43Z",
+                    "last_commit": "2026-09-09T19:08:40Z",
                     "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -592,7 +592,7 @@
                     "open_issues": 2,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-20T13:37:29Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-09-10T07:22:23Z",
+                    "open_issues": 43,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -2237,27 +2237,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-schedule-calendar",
-                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                    "homepage": null,
-                    "id": 1188432251,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T12:22:09Z",
-                    "open_issues": 0,
-                    "owner": "sunnyhmz7010",
-                    "repo": "halo-plugin-schedule-calendar",
-                    "stars": 25,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-sitepush",
                   "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
                   "children": [],
@@ -2273,6 +2252,27 @@
                     "owner": "Stonewuu",
                     "repo": "halo-plugin-sitepush",
                     "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-schedule-calendar",
+                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
+                    "id": 1188432251,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-30T12:22:09Z",
+                    "open_issues": 0,
+                    "owner": "sunnyhmz7010",
+                    "repo": "halo-plugin-schedule-calendar",
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2342,27 +2342,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-picture-bed",
-                  "description": "对接多种图床服务，实现图片上传、删除等功能。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "图床插件",
-                    "homepage": null,
-                    "id": 786321957,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-18T02:29:14Z",
-                    "open_issues": 9,
-                    "owner": "liuyiwuqing",
-                    "repo": "halo-plugin-picture-bed",
-                    "stars": 13,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-storage-toolkit",
                   "description": "存储增强插件：支持图片处理、格式转换、水印添加等功能",
                   "children": [],
@@ -2377,6 +2356,27 @@
                     "open_issues": 3,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-storage-toolkit",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-picture-bed",
+                  "description": "对接多种图床服务，实现图片上传、删除等功能。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "图床插件",
+                    "homepage": null,
+                    "id": 786321957,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-18T02:29:14Z",
+                    "open_issues": 9,
+                    "owner": "liuyiwuqing",
+                    "repo": "halo-plugin-picture-bed",
                     "stars": 13,
                     "topics": []
                   },
@@ -2869,7 +2869,7 @@
                     "id": 1229381599,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-07-09T05:18:22Z",
+                    "last_commit": "2026-09-10T03:11:27Z",
                     "open_issues": 2,
                     "owner": "yeora26",
                     "repo": "halo-weread-plugin",
@@ -3593,7 +3593,7 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-07T10:58:32Z",
+                    "last_commit": "2026-09-10T03:28:29Z",
                     "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
@@ -3999,7 +3999,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-07T09:57:38Z",
+                    "last_commit": "2026-09-10T08:31:02Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -4351,7 +4351,7 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T16:23:18Z",
+                "last_commit": "2026-09-09T15:55:04Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:56:57.680Z",
+    "last_updated": "2026-09-10T08:55:27.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
