@@ -498,7 +498,7 @@
                     "open_issues": 11,
                     "owner": "YunyuVv",
                     "repo": "theme-Ideaflow",
-                    "stars": 64,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -762,10 +762,10 @@
                     "language": "CSS",
                     "license": "MIT",
                     "last_commit": "2025-05-22T02:01:52Z",
-                    "open_issues": 13,
+                    "open_issues": 12,
                     "owner": "MagicBreeze",
                     "repo": "halo-theme-Ying",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1655,7 +1655,7 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-12T08:20:20Z",
+                    "last_commit": "2026-09-12T15:57:24Z",
                     "open_issues": 28,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
@@ -4351,7 +4351,7 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:55:04Z",
+                "last_commit": "2026-09-13T07:59:51Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
@@ -4482,7 +4482,7 @@
                 "id": 817686762,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T17:48:34Z",
+                "last_commit": "2026-09-13T09:19:04Z",
                 "open_issues": 0,
                 "owner": "ialley-workshop-open",
                 "repo": "plugin-uni-halo",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:36:23.539Z",
+    "last_updated": "2026-09-13T09:30:09.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
