@@ -446,7 +446,7 @@
                     "id": 776599631,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T04:51:09Z",
+                    "last_commit": "2026-09-13T10:34:47Z",
                     "open_issues": 2,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
@@ -474,7 +474,7 @@
                     "open_issues": 4,
                     "owner": "Liksium",
                     "repo": "halo-theme-sora",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-12T15:57:24Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-09-14T09:06:35Z",
+                    "open_issues": 27,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -3999,7 +3999,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-11T08:32:51Z",
+                    "last_commit": "2026-09-14T09:37:36Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -4351,11 +4351,11 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T07:59:51Z",
+                "last_commit": "2026-09-13T13:48:08Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:30:09.426Z",
+    "last_updated": "2026-09-14T09:48:15.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
