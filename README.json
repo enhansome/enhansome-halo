@@ -19,7 +19,7 @@
                     "id": 515923608,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-25T07:37:17Z",
+                    "last_commit": "2026-09-17T03:47:52Z",
                     "open_issues": 22,
                     "owner": "halo-dev",
                     "repo": "theme-earth",
@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -536,8 +536,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T20:36:49Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-16T23:32:16Z",
+                    "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 61,
@@ -592,7 +592,7 @@
                     "open_issues": 2,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -961,6 +961,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "theme-mainroad",
+                  "description": "移植于 Hugo 主题 Vimux Mainroad，适用于 Halo 2.0 的 Mainroad 主题",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "hugo mainroad theme to halo",
+                    "homepage": null,
+                    "id": 736175230,
+                    "language": "HTML",
+                    "license": "GPL-2.0",
+                    "last_commit": "2024-03-19T03:41:58Z",
+                    "open_issues": 2,
+                    "owner": "Arch4AI",
+                    "repo": "theme-mainroad",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-theme-aircloud",
                   "description": "一个简洁轻量的 Halo 2.0 博客主题，旨在将中心放在博文本身, 移植于 Hexo-Theme-AirCloud",
                   "children": [],
@@ -976,27 +997,6 @@
                     "owner": "bit15k",
                     "repo": "halo-theme-aircloud",
                     "stars": 13,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "theme-mainroad",
-                  "description": "移植于 Hugo 主题 Vimux Mainroad，适用于 Halo 2.0 的 Mainroad 主题",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "hugo mainroad theme to halo",
-                    "homepage": null,
-                    "id": 736175230,
-                    "language": "HTML",
-                    "license": "GPL-2.0",
-                    "last_commit": "2024-03-19T03:41:58Z",
-                    "open_issues": 2,
-                    "owner": "Arch4AI",
-                    "repo": "theme-mainroad",
-                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T09:13:39Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-09-17T09:10:00Z",
+                    "open_issues": 30,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -1703,7 +1703,7 @@
                     "id": 575740682,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-15T11:33:45Z",
+                    "last_commit": "2026-09-17T03:26:36Z",
                     "open_issues": 8,
                     "owner": "halo-sigs",
                     "repo": "plugin-bytemd",
@@ -2880,6 +2880,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Vue",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-03T00:32:34Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-wangEditor",
                   "description": "Halo 2.0 对 wangEditor 的集成，可以像使用 Word 文档那样编辑文章",
                   "children": [],
@@ -3045,27 +3066,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Vue",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T00:32:34Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -3252,7 +3252,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-11T16:31:14Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
                     "stars": 4,
@@ -3593,7 +3593,7 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-15T20:36:04Z",
+                    "last_commit": "2026-09-16T23:23:04Z",
                     "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
@@ -3999,7 +3999,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T03:57:30Z",
+                    "last_commit": "2026-09-16T11:56:32Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -4237,7 +4237,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-15T20:36:34Z",
+                    "last_commit": "2026-09-16T23:17:39Z",
                     "open_issues": 9,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4320,7 +4320,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1877,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:15:50.960Z",
+    "last_updated": "2026-09-17T09:24:37.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
