@@ -1656,7 +1656,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-17T10:29:29Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -1679,7 +1679,7 @@
                     "id": 810236700,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-06-10T07:56:10Z",
+                    "last_commit": "2026-09-18T15:16:39Z",
                     "open_issues": 2,
                     "owner": "halo-sigs",
                     "repo": "plugin-editor-hyperlink-card",
@@ -1687,6 +1687,32 @@
                     "topics": [
                       "halo",
                       "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "plugin-hybrid-edit-block",
+                  "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
+                    "homepage": "https://www.halo.run/store/apps/app-NgHnY",
+                    "id": 708626395,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-18T07:46:00Z",
+                    "open_issues": 5,
+                    "owner": "halo-sigs",
+                    "repo": "plugin-hybrid-edit-block",
+                    "stars": 17,
+                    "topics": [
+                      "halo",
+                      "halo-plugin",
+                      "plugin",
+                      "tiptap"
                     ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1714,32 +1740,6 @@
                       "halo-plugin",
                       "markdown",
                       "markdown-editor"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-hybrid-edit-block",
-                  "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
-                    "homepage": "https://www.halo.run/store/apps/app-NgHnY",
-                    "id": 708626395,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-18T07:46:00Z",
-                    "open_issues": 5,
-                    "owner": "halo-sigs",
-                    "repo": "plugin-hybrid-edit-block",
-                    "stars": 16,
-                    "topics": [
-                      "halo",
-                      "halo-plugin",
-                      "plugin",
-                      "tiptap"
                     ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -3059,7 +3059,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-24T23:15:44Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "Avrinbai",
                     "repo": "halo-plugin-wechat-share",
                     "stars": 5,
@@ -3251,7 +3251,7 @@
                     "id": 1220989686,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-18T01:11:37Z",
+                    "last_commit": "2026-09-18T12:37:48Z",
                     "open_issues": 1,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
@@ -4320,7 +4320,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1876,
+                "stars": 1877,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:58:57.963Z",
+    "last_updated": "2026-09-19T08:46:11.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
