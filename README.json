@@ -536,7 +536,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T23:32:16Z",
+                    "last_commit": "2026-09-19T18:16:41Z",
                     "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -609,8 +609,8 @@
                     "id": 1105181944,
                     "language": "SCSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-23T07:16:14Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-20T07:16:19Z",
+                    "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
                     "stars": 46,
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T10:29:29Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-09-20T09:01:52Z",
+                    "open_issues": 29,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -1679,7 +1679,7 @@
                     "id": 810236700,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-18T15:16:39Z",
+                    "last_commit": "2026-09-19T14:10:52Z",
                     "open_issues": 2,
                     "owner": "halo-sigs",
                     "repo": "plugin-editor-hyperlink-card",
@@ -2592,7 +2592,7 @@
                     "id": 962628438,
                     "language": "Vue",
                     "license": "GPL-3.0",
-                    "last_commit": "2025-10-10T14:12:28Z",
+                    "last_commit": "2026-09-19T15:08:28Z",
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-mail-template",
@@ -3734,6 +3734,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-wechat-official-sync",
+                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
+                    "id": 1357908687,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-16T11:56:32Z",
+                    "open_issues": 0,
+                    "owner": "hcjike",
+                    "repo": "plugin-wechat-official-sync",
+                    "stars": 2,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-09-07T09:17:07.254Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-postchat",
                   "description": "集成 PostChat AI增强工具至 Halo 2.0 站点。",
                   "children": [],
@@ -3986,30 +4010,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-wechat-official-sync",
-                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
-                    "id": 1357908687,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T11:56:32Z",
-                    "open_issues": 0,
-                    "owner": "hcjike",
-                    "repo": "plugin-wechat-official-sync",
-                    "stars": 1,
-                    "topics": [
-                      "halo",
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-09-07T09:17:07.254Z"
                 },
                 {
                   "node_type": "item",
@@ -4320,7 +4320,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1877,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4351,7 +4351,7 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T16:07:25Z",
+                "last_commit": "2026-09-20T08:05:55Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:46:11.079Z",
+    "last_updated": "2026-09-20T09:15:08.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
