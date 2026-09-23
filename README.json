@@ -264,7 +264,7 @@
                     "open_issues": 36,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 449,
+                    "stars": 450,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -446,7 +446,7 @@
                     "id": 776599631,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T07:22:51Z",
+                    "last_commit": "2026-09-23T07:39:47Z",
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
@@ -505,6 +505,37 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-theme-higan-hz",
+                  "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a responsive, clean, and refreshing personal website theme designed for Halo CMS | 一款响应式、简洁清爽的个人网站 Halo CMS 主题",
+                    "homepage": "https://howiehz.top/halo-theme-higan-haozi",
+                    "id": 778325296,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2026-09-23T08:36:17Z",
+                    "open_issues": 7,
+                    "owner": "HowieHz",
+                    "repo": "halo-theme-higan-hz",
+                    "stars": 62,
+                    "topics": [
+                      "blog",
+                      "blog-engine",
+                      "cms",
+                      "content-management-system",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-higan-haozi",
+                      "halocms",
+                      "website-builder"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-theme-fluid",
                   "description": "🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 hexo-theme-fluid",
                   "children": [],
@@ -521,37 +552,6 @@
                     "repo": "halo-theme-fluid",
                     "stars": 61,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-higan-hz",
-                  "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "a responsive, clean, and refreshing personal website theme designed for Halo CMS | 一款响应式、简洁清爽的个人网站 Halo CMS 主题",
-                    "homepage": "https://howiehz.top/halo-theme-higan-haozi",
-                    "id": 778325296,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2026-09-20T22:58:21Z",
-                    "open_issues": 15,
-                    "owner": "HowieHz",
-                    "repo": "halo-theme-higan-hz",
-                    "stars": 61,
-                    "topics": [
-                      "blog",
-                      "blog-engine",
-                      "cms",
-                      "content-management-system",
-                      "halo",
-                      "halo-theme",
-                      "halo-theme-higan-haozi",
-                      "halocms",
-                      "website-builder"
-                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1656,7 +1656,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-20T09:34:51Z",
-                    "open_issues": 27,
+                    "open_issues": 26,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -2516,6 +2516,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-plugin-footprint",
+                  "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+                    "homepage": "https://www.lik.cc",
+                    "id": 952323590,
+                    "language": "CSS",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-09-23T08:29:04Z",
+                    "open_issues": 3,
+                    "owner": "acanyo",
+                    "repo": "halo-plugin-footprint",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-content-tools",
                   "description": "为 Halo 添加内容格式转换、文章导入导出等功能。",
                   "children": [],
@@ -2554,27 +2575,6 @@
                     "open_issues": 5,
                     "owner": "monyuan",
                     "repo": "notify-me",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-plugin-footprint",
-                  "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
-                    "homepage": "https://www.lik.cc",
-                    "id": 952323590,
-                    "language": "CSS",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-09-23T08:29:04Z",
-                    "open_issues": 3,
-                    "owner": "acanyo",
-                    "repo": "halo-plugin-footprint",
                     "stars": 8,
                     "topics": []
                   },
@@ -3530,7 +3530,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T07:41:28Z",
+                    "last_commit": "2026-09-23T08:10:31Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -3617,8 +3617,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-21T20:33:51Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-22T20:33:43Z",
+                    "open_issues": 16,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4237,8 +4237,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-20T22:44:46Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-22T20:33:37Z",
+                    "open_issues": 10,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4320,7 +4320,7 @@
                 "open_issues": 20,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4351,7 +4351,7 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T01:46:38Z",
+                "last_commit": "2026-09-22T15:52:34Z",
                 "open_issues": 95,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:16:10.750Z",
+    "last_updated": "2026-09-23T09:16:31.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
