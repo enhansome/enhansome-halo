@@ -19,7 +19,7 @@
                     "id": 515923608,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T03:47:52Z",
+                    "last_commit": "2026-09-25T15:16:20Z",
                     "open_issues": 22,
                     "owner": "halo-dev",
                     "repo": "theme-earth",
@@ -189,7 +189,7 @@
                     "open_issues": 32,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 965,
+                    "stars": 964,
                     "topics": [
                       "blog",
                       "freemarker",
@@ -264,7 +264,7 @@
                     "open_issues": 36,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 450,
+                    "stars": 449,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -515,8 +515,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T20:34:24Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-25T19:40:49Z",
+                    "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 62,
@@ -609,8 +609,8 @@
                     "id": 1105181944,
                     "language": "SCSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-20T07:16:19Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-25T18:34:59Z",
+                    "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
                     "stars": 46,
@@ -1246,7 +1246,7 @@
                     "id": 1136735525,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-07-19T04:28:44Z",
+                    "last_commit": "2026-09-26T09:11:08Z",
                     "open_issues": 0,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-2",
@@ -4355,7 +4355,7 @@
                 "open_issues": 92,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:34:13.157Z",
+    "last_updated": "2026-09-26T09:18:56.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
