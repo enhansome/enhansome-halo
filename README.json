@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 836,
+                    "stars": 835,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -652,10 +652,10 @@
                     "language": "HTML",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-25T00:47:18Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
-                    "stars": 41,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-24T15:58:58Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-09-27T09:52:14Z",
+                    "open_issues": 24,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 25,
@@ -2152,7 +2152,7 @@
                     "open_issues": 12,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -4320,7 +4320,7 @@
                 "open_issues": 20,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:18:56.063Z",
+    "last_updated": "2026-09-27T09:58:12.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
