@@ -450,7 +450,7 @@
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -515,7 +515,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T19:40:49Z",
+                    "last_commit": "2026-09-27T20:34:42Z",
                     "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -613,7 +613,7 @@
                     "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1533,7 +1533,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-10T14:14:11Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "halo-sigs",
                     "repo": "plugin-moments",
                     "stars": 55,
@@ -1655,7 +1655,7 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-27T09:52:14Z",
+                    "last_commit": "2026-09-28T04:19:15Z",
                     "open_issues": 24,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
@@ -1679,7 +1679,7 @@
                     "id": 810236700,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-24T07:49:12Z",
+                    "last_commit": "2026-09-28T09:28:45Z",
                     "open_issues": 3,
                     "owner": "halo-sigs",
                     "repo": "plugin-editor-hyperlink-card",
@@ -2331,8 +2331,8 @@
                     "id": 750746673,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-22T14:48:18Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-28T10:42:14Z",
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-douban",
                     "stars": 15,
@@ -3497,29 +3497,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-private-posts",
-                  "description": "为 Halo 提供加密正文、浏览器本地解密和自动重锁的私密文章插件。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Private encrypted posts plugin for Halo",
-                    "homepage": null,
-                    "id": 1218886933,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-09T08:24:48Z",
-                    "open_issues": 0,
-                    "owner": "BairongLuo",
-                    "repo": "halo-private-posts",
-                    "stars": 3,
-                    "topics": [
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-wechat-official-sync",
                   "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
                   "children": [],
@@ -3530,7 +3507,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-23T08:10:31Z",
+                    "last_commit": "2026-09-28T03:41:33Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -3617,8 +3594,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-23T23:19:24Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-09-27T20:32:46Z",
+                    "open_issues": 17,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -3732,6 +3709,29 @@
                     "repo": "halo-plugin-dishes",
                     "stars": 2,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-private-posts",
+                  "description": "为 Halo 提供加密正文、浏览器本地解密和自动重锁的私密文章插件。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Private encrypted posts plugin for Halo",
+                    "homepage": null,
+                    "id": 1218886933,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-09T08:24:48Z",
+                    "open_issues": 0,
+                    "owner": "BairongLuo",
+                    "repo": "halo-private-posts",
+                    "stars": 2,
+                    "topics": [
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -4237,8 +4237,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-23T23:14:41Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-27T20:32:48Z",
+                    "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:58:12.136Z",
+    "last_updated": "2026-09-28T10:49:47.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
