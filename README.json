@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -450,7 +450,7 @@
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
-                    "stars": 81,
+                    "stars": 80,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -515,7 +515,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T20:34:42Z",
+                    "last_commit": "2026-09-28T20:36:18Z",
                     "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -655,7 +655,7 @@
                     "open_issues": 1,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1097,7 +1097,7 @@
                     "id": 1192361711,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-03T05:46:45Z",
+                    "last_commit": "2026-09-29T02:12:08Z",
                     "open_issues": 3,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-3",
@@ -1431,7 +1431,7 @@
                     "id": 1221426307,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-17T09:23:48Z",
+                    "last_commit": "2026-09-29T09:25:32Z",
                     "open_issues": 2,
                     "owner": "CirillaQL",
                     "repo": "halo-theme-gui",
@@ -2148,8 +2148,8 @@
                     "id": 571447073,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-07-28T04:17:13Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-09-29T07:29:33Z",
+                    "open_issues": 10,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
                     "stars": 250,
@@ -2733,6 +2733,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Vue",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-03T00:32:34Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-colorless",
                   "description": "支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。",
                   "children": [],
@@ -2877,27 +2898,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Vue",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T00:32:34Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -3507,7 +3507,7 @@
                     "id": 1357908687,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-28T03:41:33Z",
+                    "last_commit": "2026-09-29T05:05:23Z",
                     "open_issues": 0,
                     "owner": "hcjike",
                     "repo": "plugin-wechat-official-sync",
@@ -4320,7 +4320,7 @@
                 "open_issues": 20,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4355,7 +4355,7 @@
                 "open_issues": 92,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 210,
+                "stars": 209,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4476,13 +4476,13 @@
               "description": "为 uni-halo v2.0 小程序提供单独的配置功能。",
               "children": [],
               "repo_info": {
-                "archived": false,
-                "description": "为 uni-halo v2.0 多端应用提供特定的配置的插件。",
-                "homepage": "https://uni-halo.925i.cn",
+                "archived": true,
+                "description": "UniHalo v3.x 新版：https://github.com/uni-halo/uni-halo-plugin",
+                "homepage": null,
                 "id": 817686762,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T09:19:04Z",
+                "last_commit": "2026-09-29T09:45:08Z",
                 "open_issues": 0,
                 "owner": "ialley-workshop-open",
                 "repo": "plugin-uni-halo",
@@ -4536,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:49:47.574Z",
+    "last_updated": "2026-09-29T10:37:55.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
