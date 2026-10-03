@@ -4354,7 +4354,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T05:39:51Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 209,
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:06.090Z",
+    "last_updated": "2026-10-03T09:49:42.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
