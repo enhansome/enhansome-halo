@@ -401,7 +401,7 @@
                     "open_issues": 1,
                     "owner": "iscottt",
                     "repo": "halo-theme-vapor",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -901,7 +901,7 @@
                     "language": "SCSS",
                     "license": "MIT",
                     "last_commit": "2026-08-22T14:40:26Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Erzbir",
                     "repo": "halo-theme-terminal",
                     "stars": 16,
@@ -1097,7 +1097,7 @@
                     "id": 1192361711,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T15:42:59Z",
+                    "last_commit": "2026-10-02T13:18:39Z",
                     "open_issues": 3,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-3",
@@ -3845,6 +3845,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-injector",
+                  "description": "HTML 代码注入插件, 用于将 HTML 代码注入到指定页面",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "适用于 Halo 的 HTML 代码注入插件",
+                    "homepage": null,
+                    "id": 1027547678,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-10T11:15:20Z",
+                    "open_issues": 1,
+                    "owner": "Erzbir",
+                    "repo": "halo-plugin-injector",
+                    "stars": 1,
+                    "topics": [
+                      "halo",
+                      "injection",
+                      "plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-editor-theme-page",
                   "description": "主题编辑器, 可编辑主题文件",
                   "children": [],
@@ -4055,31 +4080,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-injector",
-                  "description": "HTML 代码注入插件, 用于将 HTML 代码注入到指定页面",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "适用于 Halo 的 HTML 代码注入插件",
-                    "homepage": null,
-                    "id": 1027547678,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-08-10T11:15:20Z",
-                    "open_issues": 0,
-                    "owner": "Erzbir",
-                    "repo": "halo-plugin-injector",
-                    "stars": 0,
-                    "topics": [
-                      "halo",
-                      "injection",
-                      "plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-immich-picture-bed",
                   "description": "集成 immich 作为 Halo 2.x 的图片、视频存储后端。",
                   "children": [],
@@ -4190,7 +4190,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "A free redirects manager for Halo 2.x",
                     "homepage": null,
                     "id": 1171296151,
                     "language": "Java",
@@ -4200,7 +4200,9 @@
                     "owner": "Leezj9671",
                     "repo": "halo-redirects",
                     "stars": 0,
-                    "topics": []
+                    "topics": [
+                      "halo-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -4316,11 +4318,11 @@
                 "id": 572827827,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:19:19Z",
+                "last_commit": "2026-10-02T21:41:06Z",
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1874,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4536,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:27:55.716Z",
+    "last_updated": "2026-10-03T04:51:06.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4548,7 +4550,7 @@
       "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "awesome",
         "awesome-list",
