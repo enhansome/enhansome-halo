@@ -186,7 +186,7 @@
                     "language": "CSS",
                     "license": "MIT",
                     "last_commit": "2026-08-21T04:36:23Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
                     "stars": 963,
@@ -484,6 +484,37 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-theme-higan-hz",
+                  "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a responsive, clean, and refreshing personal website theme designed for Halo CMS | 一款响应式、简洁清爽的个人网站 Halo CMS 主题",
+                    "homepage": "https://howiehz.top/halo-theme-higan-haozi",
+                    "id": 778325296,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2026-10-04T23:49:12Z",
+                    "open_issues": 11,
+                    "owner": "HowieHz",
+                    "repo": "halo-theme-higan-hz",
+                    "stars": 63,
+                    "topics": [
+                      "blog",
+                      "blog-engine",
+                      "cms",
+                      "content-management-system",
+                      "halo",
+                      "halo-theme",
+                      "halo-theme-higan-haozi",
+                      "halocms",
+                      "website-builder"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-theme-Ideaflow",
                   "description": "一个精致美观的主题,现代化的UI设计,多种主题自由搭配",
                   "children": [],
@@ -500,37 +531,6 @@
                     "repo": "theme-Ideaflow",
                     "stars": 63,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-higan-hz",
-                  "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "a responsive, clean, and refreshing personal website theme designed for Halo CMS | 一款响应式、简洁清爽的个人网站 Halo CMS 主题",
-                    "homepage": "https://howiehz.top/halo-theme-higan-haozi",
-                    "id": 778325296,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2026-10-03T19:58:46Z",
-                    "open_issues": 7,
-                    "owner": "HowieHz",
-                    "repo": "halo-theme-higan-hz",
-                    "stars": 62,
-                    "topics": [
-                      "blog",
-                      "blog-engine",
-                      "cms",
-                      "content-management-system",
-                      "halo",
-                      "halo-theme",
-                      "halo-theme-higan-haozi",
-                      "halocms",
-                      "website-builder"
-                    ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2645,6 +2645,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Vue",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-03T00:32:34Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-prismjs",
                   "description": "Halo 2.0 的代码高亮 Prism.js 插件",
                   "children": [],
@@ -2751,27 +2772,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Vue",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T00:32:34Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -3594,8 +3594,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-03T19:56:03Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-04T23:42:03Z",
+                    "open_issues": 15,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4239,7 +4239,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T23:58:55Z",
+                    "last_commit": "2026-10-04T23:38:08Z",
                     "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4357,7 +4357,7 @@
                 "open_issues": 93,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 209,
+                "stars": 208,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:32:36.431Z",
+    "last_updated": "2026-10-05T11:24:00.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
