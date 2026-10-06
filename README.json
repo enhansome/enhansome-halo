@@ -1607,7 +1607,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-31T03:15:12Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 38,
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:04.202Z",
+    "last_updated": "2026-10-06T11:13:21.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",

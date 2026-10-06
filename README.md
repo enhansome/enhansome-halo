@@ -42,7 +42,7 @@
 * [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) ⭐ 65 | 🐛 4 | 🌐 CSS | 📅 2025-07-09 - Sora「穹」，一个简约的主题。
 * [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) ⭐ 63 | 🐛 11 | 🌐 HTML | 📅 2026-10-04 - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan) ⭐ 146 | 🐛 7 | 🌐 CSS | 📅 2025-03-17，侧重于更高的配置自由度与更激进的修改。
 * [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) ⭐ 63 | 🐛 11 | 🌐 HTML | 📅 2025-08-11 - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
-* [halo-theme-fluid](https://github.com/chengzhongxue/halo-theme-fluid) ⭐ 61 | 🐛 8 | 🌐 HTML | 📅 2026-08-17 - 🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) ⭐ 8,172 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-24
+* [halo-theme-fluid](https://github.com/chengzhongxue/halo-theme-fluid) ⭐ 61 | 🐛 8 | 🌐 HTML | 📅 2026-08-17 - 🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) ⭐ 8,173 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-24
 * [theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) ⭐ 56 | 🐛 6 | 🌐 HTML | 📅 2024-01-22 - 基于 [bootstrapmade Moderna](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/) 的 Halo 2.0 主题
 * [theme-Serenity-Grace](https://github.com/atangccc/Serenity-Grace) ⭐ 54 | 🐛 1 | 🌐 CSS | 📅 2026-09-06 - 简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。
 * [theme-clarity](https://github.com/acanyo/theme-clarity) ⭐ 47 | 🐛 3 | 🌐 SCSS | 📅 2026-09-25 - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
@@ -96,7 +96,7 @@
 * [plugin-moments](https://github.com/halo-sigs/plugin-moments) ⭐ 55 | 🐛 16 | 🌐 Java | 📅 2026-09-10 - Halo 2.0 的瞬间管理插件
 * [plugin-starter](https://github.com/halo-dev/plugin-starter) ⭐ 53 | 🐛 4 | 🌐 Vue | 📅 2026-03-11 - Halo 2.0 的插件快速开始脚手架
 * [plugin-s3](https://github.com/halo-dev/plugin-s3) ⭐ 42 | 🐛 19 | 🌐 Java | 📅 2026-06-29 - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
-* [plugin-links](https://github.com/halo-sigs/plugin-links) ⭐ 38 | 🐛 14 | 🌐 Java | 📅 2026-08-31 - Halo 2.0 的链接管理插件
+* [plugin-links](https://github.com/halo-sigs/plugin-links) ⭐ 38 | 🐛 15 | 🌐 Java | 📅 2026-08-31 - Halo 2.0 的链接管理插件
 * [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) ⭐ 31 | 🐛 13 | 🌐 Java | 📅 2026-01-20 - Halo 2.0 的 OAuth2 第三方登录插件
 * [plugin-comment-widget](https://github.com/halo-dev/plugin-comment-widget) ⭐ 25 | 🐛 24 | 🌐 Java | 📅 2026-09-28 - Halo 2.0 的前台评论组件插件
 * [plugin-editor-hyperlink-card](https://github.com/halo-sigs/plugin-editor-hyperlink-card) ⭐ 22 | 🐛 3 | 🌐 Java | 📅 2026-09-28 - Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。
