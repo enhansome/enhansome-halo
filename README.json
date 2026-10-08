@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -494,7 +494,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T20:38:21Z",
+                    "last_commit": "2026-10-08T00:42:28Z",
                     "open_issues": 12,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -1080,7 +1080,7 @@
                     "open_issues": 0,
                     "owner": "PpKoK",
                     "repo": "theme-jyf",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1330,6 +1330,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Wing",
+                  "description": "一款简洁流畅、数据驱动的响应式主题。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": " 一款简洁流畅、数据驱动，响应式halo主题，移植自WordPress主题Wring",
+                    "homepage": "https://blog.waistu.com",
+                    "id": 1186185021,
+                    "language": "HTML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-04-13T05:59:04Z",
+                    "open_issues": 1,
+                    "owner": "waistu",
+                    "repo": "halo-theme-Wing",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-theme-kui-niu",
                   "description": "夔牛，一款暖色调 Halo 主题。",
                   "children": [],
@@ -1395,27 +1416,6 @@
                     "topics": [
                       "halo-theme"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Wing",
-                  "description": "一款简洁流畅、数据驱动的响应式主题。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": " 一款简洁流畅、数据驱动，响应式halo主题，移植自WordPress主题Wring",
-                    "homepage": "https://blog.waistu.com",
-                    "id": 1186185021,
-                    "language": "HTML",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-04-13T05:59:04Z",
-                    "open_issues": 1,
-                    "owner": "waistu",
-                    "repo": "halo-theme-Wing",
-                    "stars": 2,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -1606,8 +1606,8 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-06T14:42:19Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-07T11:21:05Z",
+                    "open_issues": 14,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 38,
@@ -1828,8 +1828,8 @@
                     "id": 558275000,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2025-11-20T03:27:29Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-08T09:54:31Z",
+                    "open_issues": 4,
                     "owner": "halo-dev",
                     "repo": "plugin-search-widget",
                     "stars": 13,
@@ -3251,7 +3251,7 @@
                     "id": 1220989686,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-18T12:37:48Z",
+                    "last_commit": "2026-10-07T15:20:27Z",
                     "open_issues": 1,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
@@ -3259,6 +3259,30 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "plugin-wechat-official-sync",
+                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
+                    "id": 1357908687,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-08T06:30:56Z",
+                    "open_issues": 0,
+                    "owner": "hcjike",
+                    "repo": "plugin-wechat-official-sync",
+                    "stars": 4,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-09-07T09:17:07.254Z"
                 },
                 {
                   "node_type": "item",
@@ -3497,30 +3521,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-wechat-official-sync",
-                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
-                    "id": 1357908687,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T05:05:23Z",
-                    "open_issues": 0,
-                    "owner": "hcjike",
-                    "repo": "plugin-wechat-official-sync",
-                    "stars": 3,
-                    "topics": [
-                      "halo",
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-09-07T09:17:07.254Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-pixabay",
                   "description": "Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片",
                   "children": [],
@@ -3594,7 +3594,7 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-06T20:33:29Z",
+                    "last_commit": "2026-10-08T00:33:48Z",
                     "open_issues": 16,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
@@ -4239,7 +4239,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-06T20:34:01Z",
+                    "last_commit": "2026-10-08T00:28:46Z",
                     "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4322,7 +4322,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:01:25.748Z",
+    "last_updated": "2026-10-08T11:18:59.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
