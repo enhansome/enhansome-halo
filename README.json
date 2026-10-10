@@ -103,7 +103,7 @@
                     "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "theme-astro-starter",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "astro",
                       "halo",
@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 836,
+                    "stars": 835,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -401,7 +401,7 @@
                     "open_issues": 1,
                     "owner": "iscottt",
                     "repo": "halo-theme-vapor",
-                    "stars": 108,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T20:35:25Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-10T01:20:43Z",
+                    "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -1097,7 +1097,7 @@
                     "id": 1192361711,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T10:57:45Z",
+                    "last_commit": "2026-10-10T09:10:12Z",
                     "open_issues": 3,
                     "owner": "sky121666",
                     "repo": "theme-sky-blog-3",
@@ -1606,8 +1606,8 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-07T11:21:05Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-10T10:19:55Z",
+                    "open_issues": 15,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 38,
@@ -3048,27 +3048,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-wechat-share",
-                  "description": "基于Halo自定义微信分享卡片的标题、描述、封面、、链接，优化微信内分享展示效果。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "基于halo支持将网址、图片、音乐、视频、文件封装为卡片样式分享至微信，并提供数据看板功能。",
-                    "homepage": "https://avrinbai.cn/archives/QXuapZl4",
-                    "id": 1229227835,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-05-24T23:15:44Z",
-                    "open_issues": 3,
-                    "owner": "Avrinbai",
-                    "repo": "halo-plugin-wechat-share",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-waline",
                   "description": "集成 waline 评论系统至 halo 站点",
                   "children": [],
@@ -3251,10 +3230,31 @@
                     "id": 1220989686,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T15:46:09Z",
+                    "last_commit": "2026-10-09T15:03:27Z",
                     "open_issues": 1,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-wechat-share",
+                  "description": "基于Halo自定义微信分享卡片的标题、描述、封面、、链接，优化微信内分享展示效果。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "基于halo支持将网址、图片、音乐、视频、文件封装为卡片样式分享至微信，并提供数据看板功能。",
+                    "homepage": "https://avrinbai.cn/archives/QXuapZl4",
+                    "id": 1229227835,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-05-24T23:15:44Z",
+                    "open_issues": 3,
+                    "owner": "Avrinbai",
+                    "repo": "halo-plugin-wechat-share",
                     "stars": 4,
                     "topics": []
                   },
@@ -4322,7 +4322,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:17:17.071Z",
+    "last_updated": "2026-10-10T10:33:59.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
