@@ -282,7 +282,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-01-06T15:19:14Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
                     "stars": 340,
@@ -450,7 +450,7 @@
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T01:20:43Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-10T19:50:43Z",
+                    "open_issues": 12,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -613,7 +613,7 @@
                     "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
-                    "stars": 47,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1024,27 +1024,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-theme-hellopage",
-                  "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。",
-                    "homepage": null,
-                    "id": 808160434,
-                    "language": "HTML",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-02-23T02:22:47Z",
-                    "open_issues": 4,
-                    "owner": "Anyexyz",
-                    "repo": "theme-hellopage",
-                    "stars": 12,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-theme-lapis",
                   "description": "一款简洁、以蓝色为主色调的 Halo 主题，基于 typora-theme-lapis 二次开发。",
                   "children": [],
@@ -1060,6 +1039,27 @@
                     "owner": "Aziteee",
                     "repo": "halo-theme-lapis",
                     "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-theme-hellopage",
+                  "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。",
+                    "homepage": null,
+                    "id": 808160434,
+                    "language": "HTML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-02-23T02:22:47Z",
+                    "open_issues": 4,
+                    "owner": "Anyexyz",
+                    "repo": "theme-hellopage",
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1606,11 +1606,11 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-10T10:19:55Z",
+                    "last_commit": "2026-10-10T14:48:25Z",
                     "open_issues": 15,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
-                    "stars": 38,
+                    "stars": 37,
                     "topics": [
                       "halo",
                       "halo-plugin"
@@ -2353,7 +2353,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-17T16:19:33Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-storage-toolkit",
                     "stars": 15,
@@ -2760,7 +2760,7 @@
                     "id": 1125739051,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-01-27T05:24:23Z",
+                    "last_commit": "2026-10-11T00:34:30Z",
                     "open_issues": 0,
                     "owner": "iLay1678",
                     "repo": "halo-plugin-auth-passkey",
@@ -3594,7 +3594,7 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-08T20:35:31Z",
+                    "last_commit": "2026-10-10T23:57:46Z",
                     "open_issues": 17,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
@@ -4239,7 +4239,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T20:34:54Z",
+                    "last_commit": "2026-10-10T23:55:13Z",
                     "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:33:59.321Z",
+    "last_updated": "2026-10-11T10:46:41.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4550,7 +4550,7 @@
       "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 629,
+      "stars": 628,
       "topics": [
         "awesome",
         "awesome-list",
