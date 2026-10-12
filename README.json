@@ -23,7 +23,7 @@
                     "open_issues": 22,
                     "owner": "halo-dev",
                     "repo": "theme-earth",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "halo",
                       "halo-theme",
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T19:50:43Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-12T10:19:03Z",
+                    "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -1606,8 +1606,8 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-10T14:48:25Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-12T04:09:44Z",
+                    "open_issues": 14,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 37,
@@ -2178,7 +2178,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 54,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2237,6 +2237,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-plugin-schedule-calendar",
+                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
+                    "id": 1188432251,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-04T03:14:37Z",
+                    "open_issues": 0,
+                    "owner": "sunnyhmz7010",
+                    "repo": "halo-plugin-schedule-calendar",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-sitepush",
                   "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
                   "children": [],
@@ -2252,27 +2273,6 @@
                     "owner": "Stonewuu",
                     "repo": "halo-plugin-sitepush",
                     "stars": 23,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-plugin-schedule-calendar",
-                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                    "homepage": null,
-                    "id": 1188432251,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-04T03:14:37Z",
-                    "open_issues": 0,
-                    "owner": "sunnyhmz7010",
-                    "repo": "halo-plugin-schedule-calendar",
-                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2761,7 +2761,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-11T00:34:30Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "iLay1678",
                     "repo": "halo-plugin-auth-passkey",
                     "stars": 7,
@@ -3594,8 +3594,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-10T23:57:46Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-10-11T20:35:07Z",
+                    "open_issues": 18,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:46:41.275Z",
+    "last_updated": "2026-10-12T11:53:12.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
