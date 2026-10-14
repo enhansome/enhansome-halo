@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T22:47:03Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-14T03:52:08Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -589,7 +589,7 @@
                     "language": "CSS",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-06T09:19:08Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
                     "stars": 54,
@@ -697,7 +697,7 @@
                     "open_issues": 3,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-fuwari",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1607,7 +1607,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-12T04:09:44Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 37,
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-13T07:41:29Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-14T03:07:42Z",
+                    "open_issues": 23,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 26,
@@ -3747,7 +3747,7 @@
                     "id": 1206577913,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-11T16:15:33Z",
+                    "last_commit": "2026-10-13T13:09:18Z",
                     "open_issues": 0,
                     "owner": "bi1kbu",
                     "repo": "qsl-management",
@@ -4322,7 +4322,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4538,7 +4538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:42:26.742Z",
+    "last_updated": "2026-10-14T09:28:18.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
