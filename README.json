@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 836,
+                    "stars": 838,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T03:52:08Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-14T21:52:22Z",
+                    "open_issues": 12,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -588,8 +588,8 @@
                     "id": 1148684826,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-06T09:19:08Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-14T16:10:53Z",
+                    "open_issues": 1,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
                     "stars": 54,
@@ -1607,7 +1607,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-12T04:09:44Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 37,
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T03:07:42Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-10-14T10:07:13Z",
+                    "open_issues": 24,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 26,
@@ -2237,27 +2237,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-schedule-calendar",
-                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                    "homepage": null,
-                    "id": 1188432251,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-04T03:14:37Z",
-                    "open_issues": 0,
-                    "owner": "sunnyhmz7010",
-                    "repo": "halo-plugin-schedule-calendar",
-                    "stars": 25,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-sitepush",
                   "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
                   "children": [],
@@ -2356,6 +2335,27 @@
                     "open_issues": 3,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-storage-toolkit",
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-schedule-calendar",
+                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
+                    "id": 1188432251,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-04T03:14:37Z",
+                    "open_issues": 0,
+                    "owner": "sunnyhmz7010",
+                    "repo": "halo-plugin-schedule-calendar",
                     "stars": 15,
                     "topics": []
                   },
@@ -4293,6 +4293,52 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-site-notifications",
+                  "description": "为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知",
+                    "homepage": "https://www.halo.run/store/apps/app-km5nhvbw",
+                    "id": 1411555322,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-15T00:52:58Z",
+                    "open_issues": 0,
+                    "owner": "iLay1678",
+                    "repo": "halo-plugin-site-notifications",
+                    "stars": 0,
+                    "topics": [
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-10-15T09:06:28.670Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-oidc-server",
+                  "description": "为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用",
+                    "homepage": "https://www.halo.run/store/apps/app-idb2tedm",
+                    "id": 1412928285,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-13T11:09:41Z",
+                    "open_issues": 0,
+                    "owner": "iLay1678",
+                    "repo": "halo-plugin-oidc-server",
+                    "stars": 0,
+                    "topics": [
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-10-15T09:06:28.670Z"
                 }
               ],
               "description": null,
@@ -4322,7 +4368,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4538,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:28:18.744Z",
+    "last_updated": "2026-10-15T09:06:28.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4546,7 +4592,7 @@
       "id": 522516845,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-07T04:45:44Z",
+      "last_commit": "2026-10-15T09:05:45Z",
       "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
@@ -4557,7 +4603,7 @@
         "halo"
       ]
     },
-    "original_repository_sha": "02a0d330c9fc8e22016f29e56ff5bb5a90d48262",
+    "original_repository_sha": "b6c30bc680ccadeaa615c35ed396f2810fc52a0a",
     "enhanced_repository": "enhansome/enhansome-halo",
     "enhanced_repository_description": null,
     "title": "Awesome halo with stars"
