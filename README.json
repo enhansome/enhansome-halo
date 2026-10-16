@@ -19,7 +19,7 @@
                     "id": 515923608,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T15:16:20Z",
+                    "last_commit": "2026-10-15T14:09:50Z",
                     "open_issues": 22,
                     "owner": "halo-dev",
                     "repo": "theme-earth",
@@ -103,7 +103,7 @@
                     "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "theme-astro-starter",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": [
                       "astro",
                       "halo",
@@ -494,8 +494,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T21:52:22Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-15T20:34:34Z",
+                    "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -1659,7 +1659,7 @@
                     "open_issues": 24,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "halo",
                       "halo-plugin"
@@ -2152,7 +2152,7 @@
                     "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
-                    "stars": 251,
+                    "stars": 250,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -3594,7 +3594,7 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-11T20:35:07Z",
+                    "last_commit": "2026-10-15T20:35:08Z",
                     "open_issues": 18,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
@@ -4239,7 +4239,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-10T23:55:13Z",
+                    "last_commit": "2026-10-15T20:36:33Z",
                     "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4306,7 +4306,7 @@
                     "id": 1411555322,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-15T00:52:58Z",
+                    "last_commit": "2026-10-15T13:51:00Z",
                     "open_issues": 0,
                     "owner": "iLay1678",
                     "repo": "halo-plugin-site-notifications",
@@ -4368,7 +4368,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:06:28.670Z",
+    "last_updated": "2026-10-16T08:58:44.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
