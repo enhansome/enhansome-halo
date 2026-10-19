@@ -285,7 +285,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 340,
+                    "stars": 339,
                     "topics": [
                       "halo",
                       "joe",
@@ -494,7 +494,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T23:14:24Z",
+                    "last_commit": "2026-10-18T20:35:36Z",
                     "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -613,7 +613,7 @@
                     "open_issues": 1,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -628,10 +628,10 @@
                     "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
                     "homepage": "https://www.xhhao.com",
                     "id": 1105181944,
-                    "language": "SCSS",
+                    "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T18:34:59Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-19T07:32:41Z",
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
                     "stars": 45,
@@ -3048,6 +3048,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-wechat-official-sync",
+                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
+                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
+                    "id": 1357908687,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-09T09:40:46Z",
+                    "open_issues": 0,
+                    "owner": "hcjike",
+                    "repo": "plugin-wechat-official-sync",
+                    "stars": 5,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-09-07T09:17:07.254Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-waline",
                   "description": "集成 waline 评论系统至 halo 站点",
                   "children": [],
@@ -3259,30 +3283,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-wechat-official-sync",
-                  "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "一款Halo插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
-                    "homepage": "https://www.halo.run/store/apps/app-nahksfoe",
-                    "id": 1357908687,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-09T09:40:46Z",
-                    "open_issues": 0,
-                    "owner": "hcjike",
-                    "repo": "plugin-wechat-official-sync",
-                    "stars": 4,
-                    "topics": [
-                      "halo",
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-09-07T09:17:07.254Z"
                 },
                 {
                   "node_type": "item",
@@ -3594,8 +3594,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-16T23:07:12Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-10-18T20:32:37Z",
+                    "open_issues": 19,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4239,8 +4239,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-16T23:03:51Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-18T20:32:24Z",
+                    "open_issues": 15,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:49:00.821Z",
+    "last_updated": "2026-10-19T09:49:35.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
