@@ -2006,30 +2006,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-meilisearch",
-                  "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
-                    "homepage": "https://www.halo.run/store/apps/app-7mb5szjt",
-                    "id": 513444154,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-05-20T10:54:00Z",
-                    "open_issues": 1,
-                    "owner": "halo-sigs",
-                    "repo": "plugin-meilisearch",
-                    "stars": 6,
-                    "topics": [
-                      "halo",
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-shiki",
                   "description": "适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。",
                   "children": [],
@@ -2068,6 +2044,30 @@
                     "open_issues": 9,
                     "owner": "halo-sigs",
                     "repo": "plugin-lightgallery",
+                    "stars": 5,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "plugin-meilisearch",
+                  "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
+                    "homepage": "https://www.halo.run/store/apps/app-7mb5szjt",
+                    "id": 513444154,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-05-20T10:54:00Z",
+                    "open_issues": 1,
+                    "owner": "halo-sigs",
+                    "repo": "plugin-meilisearch",
                     "stars": 5,
                     "topics": [
                       "halo",
@@ -2537,6 +2537,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-mail-template",
+                  "description": "邮件模板管理，查看、编辑邮件模板。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "编辑查看邮件模板",
+                    "homepage": null,
+                    "id": 962628438,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-21T14:47:13Z",
+                    "open_issues": 1,
+                    "owner": "chengzhongxue",
+                    "repo": "plugin-mail-template",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-content-tools",
                   "description": "为 Halo 添加内容格式转换、文章导入导出等功能。",
                   "children": [],
@@ -2575,27 +2596,6 @@
                     "open_issues": 5,
                     "owner": "monyuan",
                     "repo": "notify-me",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-mail-template",
-                  "description": "邮件模板管理，查看、编辑邮件模板。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "编辑查看邮件模板",
-                    "homepage": null,
-                    "id": 962628438,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-21T14:47:13Z",
-                    "open_issues": 0,
-                    "owner": "chengzhongxue",
-                    "repo": "plugin-mail-template",
                     "stars": 8,
                     "topics": []
                   },
@@ -4400,10 +4400,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T09:08:38Z",
-                "open_issues": 92,
+                "open_issues": 90,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4464,7 +4464,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-23T10:31:22Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "halo-sigs",
                 "repo": "vscode-extension-halo",
                 "stars": 26,
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:49:35.300Z",
+    "last_updated": "2026-10-20T09:22:38.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
