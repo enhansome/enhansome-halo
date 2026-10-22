@@ -103,7 +103,7 @@
                     "open_issues": 0,
                     "owner": "halo-sigs",
                     "repo": "theme-astro-starter",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "astro",
                       "halo",
@@ -185,11 +185,11 @@
                     "id": 268254752,
                     "language": "CSS",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T09:41:12Z",
+                    "last_commit": "2026-10-22T04:29:15Z",
                     "open_issues": 34,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 963,
+                    "stars": 964,
                     "topics": [
                       "blog",
                       "freemarker",
@@ -217,7 +217,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 837,
+                    "stars": 838,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -238,7 +238,7 @@
                     "open_issues": 26,
                     "owner": "xzhuz",
                     "repo": "halo-theme-xue",
-                    "stars": 515,
+                    "stars": 516,
                     "topics": [
                       "halo",
                       "halo-theme",
@@ -264,7 +264,7 @@
                     "open_issues": 36,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 449,
+                    "stars": 450,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -285,7 +285,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 339,
+                    "stars": 340,
                     "topics": [
                       "halo",
                       "joe",
@@ -310,7 +310,7 @@
                     "open_issues": 7,
                     "owner": "guqing",
                     "repo": "halo-theme-higan",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -334,7 +334,7 @@
                     "open_issues": 18,
                     "owner": "AirboZH",
                     "repo": "halo-theme-chirpy",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": [
                       "halo",
                       "halo-theme",
@@ -359,7 +359,7 @@
                     "open_issues": 4,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-stack",
-                    "stars": 134,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -380,7 +380,7 @@
                     "open_issues": 3,
                     "owner": "zhheo",
                     "repo": "halo-theme-heolink",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -422,7 +422,7 @@
                     "open_issues": 6,
                     "owner": "Roozenlz",
                     "repo": "halo-theme-aurora",
-                    "stars": 102,
+                    "stars": 104,
                     "topics": [
                       "blog",
                       "halo",
@@ -474,7 +474,7 @@
                     "open_issues": 4,
                     "owner": "Liksium",
                     "repo": "halo-theme-sora",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -550,7 +550,7 @@
                     "open_issues": 8,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-fluid",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -676,7 +676,7 @@
                     "open_issues": 6,
                     "owner": "lxware-dev",
                     "repo": "theme-ocean",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -818,6 +818,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-theme-stellar",
+                  "description": "Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 Stellar。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "内置文档系统的简约商务风Halo主题，支持大量的标签组件和动态数据组件。",
+                    "homepage": null,
+                    "id": 875119795,
+                    "language": "CSS",
+                    "license": "MIT",
+                    "last_commit": "2026-01-26T13:05:27Z",
+                    "open_issues": 14,
+                    "owner": "chengzhongxue",
+                    "repo": "halo-theme-stellar",
+                    "stars": 19,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "theme-next",
                   "description": "一个简洁的 Halo 博客主题 Next，技术栈 Next.js",
                   "children": [],
@@ -848,27 +869,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-theme-stellar",
-                  "description": "Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 Stellar。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "内置文档系统的简约商务风Halo主题，支持大量的标签组件和动态数据组件。",
-                    "homepage": null,
-                    "id": 875119795,
-                    "language": "CSS",
-                    "license": "MIT",
-                    "last_commit": "2026-01-26T13:05:27Z",
-                    "open_issues": 14,
-                    "owner": "chengzhongxue",
-                    "repo": "halo-theme-stellar",
-                    "stars": 18,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-theme-next",
                   "description": "适用于 Halo 2.0 的 Next 主题，该主题移植于 Hexo-Theme-Next。",
                   "children": [],
@@ -883,7 +883,7 @@
                     "open_issues": 5,
                     "owner": "bit15k",
                     "repo": "halo-theme-next",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -954,7 +954,7 @@
                     "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-material",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1017,6 +1017,27 @@
                     "open_issues": 5,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-farallon",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-theme-hellopage",
+                  "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。",
+                    "homepage": null,
+                    "id": 808160434,
+                    "language": "HTML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-02-23T02:22:47Z",
+                    "open_issues": 4,
+                    "owner": "Anyexyz",
+                    "repo": "theme-hellopage",
                     "stars": 12,
                     "topics": []
                   },
@@ -1039,27 +1060,6 @@
                     "owner": "Aziteee",
                     "repo": "halo-theme-lapis",
                     "stars": 12,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-hellopage",
-                  "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。",
-                    "homepage": null,
-                    "id": 808160434,
-                    "language": "HTML",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-02-23T02:22:47Z",
-                    "open_issues": 4,
-                    "owner": "Anyexyz",
-                    "repo": "theme-hellopage",
-                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1150,6 +1150,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-theme-hingle2.0",
+                  "description": "适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 Hexo Themes Hingle 主题的 Halo 移植版",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 809068904,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2024-07-31T16:05:17Z",
+                    "open_issues": 0,
+                    "owner": "Pedro-null",
+                    "repo": "halo-theme-hingle2.0",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-theme-word",
                   "description": "一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。",
                   "children": [],
@@ -1208,27 +1229,6 @@
                     "open_issues": 2,
                     "owner": "Meayair",
                     "repo": "Halo-Theme-MeaWord",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-hingle2.0",
-                  "description": "适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 Hexo Themes Hingle 主题的 Halo 移植版",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 809068904,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2024-07-31T16:05:17Z",
-                    "open_issues": 0,
-                    "owner": "Pedro-null",
-                    "repo": "halo-theme-hingle2.0",
                     "stars": 4,
                     "topics": []
                   },
@@ -1607,7 +1607,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-21T08:42:20Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
                     "stars": 37,
@@ -2017,7 +2017,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-20T10:03:26Z",
-                    "open_issues": 3,
+                    "open_issues": 5,
                     "owner": "halo-sigs",
                     "repo": "plugin-shiki",
                     "stars": 6,
@@ -2148,8 +2148,8 @@
                     "id": 571447073,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T10:15:08Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-22T09:20:26Z",
+                    "open_issues": 11,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
                     "stars": 251,
@@ -2342,27 +2342,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-plugin-schedule-calendar",
-                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
-                    "homepage": null,
-                    "id": 1188432251,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-04T03:14:37Z",
-                    "open_issues": 0,
-                    "owner": "sunnyhmz7010",
-                    "repo": "halo-plugin-schedule-calendar",
-                    "stars": 14,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-picture-bed",
                   "description": "对接多种图床服务，实现图片上传、删除等功能。",
                   "children": [],
@@ -2524,9 +2503,9 @@
                     "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
                     "homepage": "https://www.lik.cc",
                     "id": 952323590,
-                    "language": "CSS",
+                    "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2025-09-23T08:29:04Z",
+                    "last_commit": "2026-10-22T03:32:15Z",
                     "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
@@ -3041,6 +3020,27 @@
                     "open_issues": 0,
                     "owner": "SwaggyMacro",
                     "repo": "plugin-editor-sticker",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-schedule-calendar",
+                  "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件",
+                    "homepage": null,
+                    "id": 1188432251,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-04T03:14:37Z",
+                    "open_issues": 0,
+                    "owner": "sunnyhmz7010",
+                    "repo": "halo-plugin-schedule-calendar",
                     "stars": 5,
                     "topics": []
                   },
@@ -4368,7 +4368,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1874,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:19:23.380Z",
+    "last_updated": "2026-10-22T09:22:02.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4596,7 +4596,7 @@
       "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "awesome",
         "awesome-list",
