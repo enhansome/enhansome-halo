@@ -285,7 +285,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 340,
+                    "stars": 339,
                     "topics": [
                       "halo",
                       "joe",
@@ -446,7 +446,7 @@
                     "id": 776599631,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T06:24:38Z",
+                    "last_commit": "2026-10-24T03:10:55Z",
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
@@ -1630,8 +1630,8 @@
                     "id": 613189809,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-01-20T03:47:05Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-24T02:26:50Z",
+                    "open_issues": 14,
                     "owner": "halo-sigs",
                     "repo": "plugin-oauth2",
                     "stars": 31,
@@ -1655,8 +1655,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T08:53:23Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-23T10:50:52Z",
+                    "open_issues": 23,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 28,
@@ -2505,7 +2505,7 @@
                     "id": 952323590,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-22T03:32:15Z",
+                    "last_commit": "2026-10-24T07:32:08Z",
                     "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
@@ -2558,6 +2558,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "plugin-lottie",
+                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
+                    "homepage": null,
+                    "id": 1350638482,
+                    "language": "Vue",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-03T00:32:34Z",
+                    "open_issues": 1,
+                    "owner": "SwaggyMacro",
+                    "repo": "plugin-lottie",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-31T10:48:22.431Z"
                 },
                 {
                   "node_type": "item",
@@ -2649,27 +2670,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-lottie",
-                  "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。",
-                    "homepage": null,
-                    "id": 1350638482,
-                    "language": "Vue",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T00:32:34Z",
-                    "open_issues": 1,
-                    "owner": "SwaggyMacro",
-                    "repo": "plugin-lottie",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-31T10:48:22.431Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-prismjs",
                   "description": "Halo 2.0 的代码高亮 Prism.js 插件",
                   "children": [],
@@ -2744,7 +2744,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-23T06:32:23Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "plugin-coverImage",
                     "stars": 7,
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:18:08.440Z",
+    "last_updated": "2026-10-24T08:50:15.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
