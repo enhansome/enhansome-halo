@@ -494,7 +494,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T23:52:52Z",
+                    "last_commit": "2026-10-24T18:26:24Z",
                     "open_issues": 14,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -571,7 +571,7 @@
                     "open_issues": 6,
                     "owner": "Arch4AI",
                     "repo": "theme-moderna",
-                    "stars": 56,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -631,7 +631,7 @@
                     "language": "HTML",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-19T07:32:41Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
                     "stars": 45,
@@ -1630,8 +1630,8 @@
                     "id": 613189809,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-24T02:26:50Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-24T13:01:03Z",
+                    "open_issues": 13,
                     "owner": "halo-sigs",
                     "repo": "plugin-oauth2",
                     "stars": 31,
@@ -2609,7 +2609,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "halo2.0的issue插件，可以用于留言，反馈，QA",
-                    "homepage": "https://www.webjing.cn",
+                    "homepage": "https://auth.webjing.com",
                     "id": 965150445,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
@@ -2964,27 +2964,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "flow-post",
-                  "description": "文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "订阅文章",
-                    "homepage": null,
-                    "id": 959094473,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-12-15T18:14:26Z",
-                    "open_issues": 5,
-                    "owner": "chengzhongxue",
-                    "repo": "flow-post",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "plugin-time-factor",
                   "description": "时间因子SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!",
                   "children": [],
@@ -3107,6 +3086,27 @@
                     "open_issues": 4,
                     "owner": "Aziteee",
                     "repo": "halo-plugin-aplayer",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "flow-post",
+                  "description": "文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "订阅文章",
+                    "homepage": null,
+                    "id": 959094473,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-12-15T18:14:26Z",
+                    "open_issues": 5,
+                    "owner": "chengzhongxue",
+                    "repo": "flow-post",
                     "stars": 4,
                     "topics": []
                   },
@@ -4584,7 +4584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:50:15.074Z",
+    "last_updated": "2026-10-25T09:06:35.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
