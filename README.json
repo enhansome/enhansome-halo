@@ -185,18 +185,19 @@
                     "id": 268254752,
                     "language": "CSS",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T09:38:17Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-29T04:36:13Z",
+                    "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
                     "stars": 965,
                     "topics": [
                       "blog",
-                      "freemarker",
                       "halo",
                       "halo-theme",
                       "halo-theme-sakura",
-                      "sakura"
+                      "sakura",
+                      "theme",
+                      "thymeleaf"
                     ]
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -285,7 +286,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 338,
+                    "stars": 337,
                     "topics": [
                       "halo",
                       "joe",
@@ -334,7 +335,7 @@
                     "open_issues": 18,
                     "owner": "AirboZH",
                     "repo": "halo-theme-chirpy",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": [
                       "halo",
                       "halo-theme",
@@ -474,7 +475,7 @@
                     "open_issues": 4,
                     "owner": "Liksium",
                     "repo": "halo-theme-sora",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -494,7 +495,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T04:11:42Z",
+                    "last_commit": "2026-10-29T04:37:38Z",
                     "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -628,9 +629,9 @@
                     "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
                     "homepage": "https://www.xhhao.com",
                     "id": 1105181944,
-                    "language": "HTML",
+                    "language": "SCSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-28T09:27:09Z",
+                    "last_commit": "2026-10-29T02:24:17Z",
                     "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
@@ -1729,7 +1730,7 @@
                     "id": 575740682,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T03:26:36Z",
+                    "last_commit": "2026-10-29T03:36:45Z",
                     "open_issues": 8,
                     "owner": "halo-sigs",
                     "repo": "plugin-bytemd",
@@ -2331,7 +2332,7 @@
                     "id": 1122198535,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T16:19:33Z",
+                    "last_commit": "2026-10-29T09:10:37Z",
                     "open_issues": 3,
                     "owner": "Tim0x0",
                     "repo": "halo-plugin-storage-toolkit",
@@ -3027,6 +3028,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-hitokoto-hub",
+                  "description": "为你的网站注入\"一句话\"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "专为 Halo 2.x 打造的一言（Hitokoto）句子管理插件。支持分类归档、随机获取、搜索点赞，并提供丰富的公开 REST API 便于主题集成。",
+                    "homepage": "https://www.puresky.top",
+                    "id": 1220989686,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-29T08:29:51Z",
+                    "open_issues": 1,
+                    "owner": "imorisun",
+                    "repo": "plugin-hitokoto-hub",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-wechat-official-sync",
                   "description": "一款 Halo 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的草稿箱，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。",
                   "children": [],
@@ -3239,27 +3261,6 @@
                     "topics": [
                       "halo-plugin"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-hitokoto-hub",
-                  "description": "为你的网站注入\"一句话\"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "专为 Halo 2.x 打造的一言（Hitokoto）句子管理插件。支持分类归档、随机获取、搜索点赞，并提供丰富的公开 REST API 便于主题集成。",
-                    "homepage": "https://www.puresky.top",
-                    "id": 1220989686,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-09T15:03:27Z",
-                    "open_issues": 1,
-                    "owner": "imorisun",
-                    "repo": "plugin-hitokoto-hub",
-                    "stars": 4,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -3594,8 +3595,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-28T04:13:26Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-29T00:30:48Z",
+                    "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4239,8 +4240,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-28T04:14:59Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-29T00:27:34Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4368,7 +4369,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4584,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:31:29.902Z",
+    "last_updated": "2026-10-29T10:51:15.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
