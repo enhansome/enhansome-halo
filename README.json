@@ -189,7 +189,7 @@
                     "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 965,
+                    "stars": 966,
                     "topics": [
                       "blog",
                       "halo",
@@ -265,7 +265,7 @@
                     "open_issues": 36,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 450,
+                    "stars": 451,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -451,7 +451,7 @@
                     "open_issues": 1,
                     "owner": "hcjike",
                     "repo": "halo-theme-dream2.0-plus",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -495,8 +495,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T04:37:38Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-30T03:39:43Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -663,6 +663,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-theme-fuwari",
+                  "description": "一款个人博客主题，移植自 同名静态博客模板Fuwari。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "✨A Halo template",
+                    "homepage": null,
+                    "id": 1022710029,
+                    "language": "Astro",
+                    "license": "MIT",
+                    "last_commit": "2026-07-31T15:16:44Z",
+                    "open_issues": 3,
+                    "owner": "jiewenhuang",
+                    "repo": "halo-theme-fuwari",
+                    "stars": 42,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "theme-ocean",
                   "description": "适用于 Halo 2.0 的 知识库类型主题",
                   "children": [],
@@ -678,27 +699,6 @@
                     "owner": "lxware-dev",
                     "repo": "theme-ocean",
                     "stars": 41,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-theme-fuwari",
-                  "description": "一款个人博客主题，移植自 同名静态博客模板Fuwari。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "✨A Halo template",
-                    "homepage": null,
-                    "id": 1022710029,
-                    "language": "Astro",
-                    "license": "MIT",
-                    "last_commit": "2026-07-31T15:16:44Z",
-                    "open_issues": 3,
-                    "owner": "jiewenhuang",
-                    "repo": "halo-theme-fuwari",
-                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1607,7 +1607,7 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T08:42:20Z",
+                    "last_commit": "2026-10-30T03:32:49Z",
                     "open_issues": 17,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
@@ -1656,8 +1656,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T10:50:52Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-10-30T09:10:34Z",
+                    "open_issues": 24,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 28,
@@ -2179,7 +2179,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2224,7 +2224,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-14T01:41:12Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "justice2001",
                     "repo": "halo-plugin-vditor",
                     "stars": 35,
@@ -2744,7 +2744,7 @@
                     "id": 985779780,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T06:32:23Z",
+                    "last_commit": "2026-10-30T05:53:02Z",
                     "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "plugin-coverImage",
@@ -3038,7 +3038,7 @@
                     "id": 1220989686,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-29T08:29:51Z",
+                    "last_commit": "2026-10-29T11:16:45Z",
                     "open_issues": 1,
                     "owner": "imorisun",
                     "repo": "plugin-hitokoto-hub",
@@ -3595,8 +3595,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-29T00:30:48Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-30T03:19:01Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4240,8 +4240,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-29T00:27:34Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-30T03:13:42Z",
+                    "open_issues": 4,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4365,11 +4365,11 @@
                 "id": 572827827,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:58:49Z",
+                "last_commit": "2026-10-29T11:56:07Z",
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:51:15.777Z",
+    "last_updated": "2026-10-30T10:49:50.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4597,7 +4597,7 @@
       "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "awesome",
         "awesome-list",
