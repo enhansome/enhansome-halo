@@ -286,7 +286,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 337,
+                    "stars": 338,
                     "topics": [
                       "halo",
                       "joe",
@@ -495,7 +495,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T03:39:43Z",
+                    "last_commit": "2026-10-30T20:28:46Z",
                     "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -600,27 +600,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "halo-theme-sky-blog-1",
-                  "description": "一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "基于现代前端技术栈的 Halo 2.0 主题 - Sky Theme",
-                    "homepage": null,
-                    "id": 1019186661,
-                    "language": "HTML",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T00:47:18Z",
-                    "open_issues": 1,
-                    "owner": "sky121666",
-                    "repo": "halo-theme-sky-blog-1",
-                    "stars": 46,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "theme-clarity",
                   "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
                   "children": [],
@@ -635,6 +614,27 @@
                     "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
+                    "stars": 47,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-theme-sky-blog-1",
+                  "description": "一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "基于现代前端技术栈的 Halo 2.0 主题 - Sky Theme",
+                    "homepage": null,
+                    "id": 1019186661,
+                    "language": "HTML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-25T00:47:18Z",
+                    "open_issues": 1,
+                    "owner": "sky121666",
+                    "repo": "halo-theme-sky-blog-1",
                     "stars": 46,
                     "topics": []
                   },
@@ -1771,6 +1771,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-search-widget",
+                  "description": "为 Halo 2.0 提供统一的搜索组件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Halo 搜索组件的插件",
+                    "homepage": "https://halo.run/store/apps/app-DlacW",
+                    "id": 558275000,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-08T09:54:31Z",
+                    "open_issues": 4,
+                    "owner": "halo-dev",
+                    "repo": "plugin-search-widget",
+                    "stars": 14,
+                    "topics": [
+                      "halo",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-katex",
                   "description": "为默认编辑器和文章渲染提供 KaTeX 支持",
                   "children": [],
@@ -1809,30 +1833,6 @@
                     "open_issues": 3,
                     "owner": "halo-dev",
                     "repo": "plugin-app-store",
-                    "stars": 13,
-                    "topics": [
-                      "halo",
-                      "halo-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-search-widget",
-                  "description": "为 Halo 2.0 提供统一的搜索组件",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Halo 搜索组件的插件",
-                    "homepage": "https://halo.run/store/apps/app-DlacW",
-                    "id": 558275000,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T09:54:31Z",
-                    "open_issues": 4,
-                    "owner": "halo-dev",
-                    "repo": "plugin-search-widget",
                     "stars": 13,
                     "topics": [
                       "halo",
@@ -2506,8 +2506,8 @@
                     "id": 952323590,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-24T07:32:08Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-31T08:22:57Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
                     "stars": 10,
@@ -4369,7 +4369,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:49:50.189Z",
+    "last_updated": "2026-10-31T10:20:19.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4597,7 +4597,7 @@
       "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 631,
+      "stars": 630,
       "topics": [
         "awesome",
         "awesome-list",
