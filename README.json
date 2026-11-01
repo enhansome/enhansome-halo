@@ -189,7 +189,7 @@
                     "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 966,
+                    "stars": 965,
                     "topics": [
                       "blog",
                       "halo",
@@ -262,7 +262,7 @@
                     "language": "CSS",
                     "license": "GPL-3.0",
                     "last_commit": "2025-03-30T11:03:12Z",
-                    "open_issues": 36,
+                    "open_issues": 35,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
                     "stars": 451,
@@ -286,7 +286,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 338,
+                    "stars": 339,
                     "topics": [
                       "halo",
                       "joe",
@@ -611,7 +611,7 @@
                     "language": "SCSS",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-29T02:24:17Z",
-                    "open_issues": 2,
+                    "open_issues": 13,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
                     "stars": 47,
@@ -631,8 +631,8 @@
                     "id": 1019186661,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T00:47:18Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-01T10:56:33Z",
+                    "open_issues": 4,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
                     "stars": 46,
@@ -1561,7 +1561,7 @@
                     "open_issues": 4,
                     "owner": "halo-dev",
                     "repo": "plugin-starter",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -2270,7 +2270,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-20T11:33:51Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "halo-plugin-summaraidGPT",
                     "stars": 17,
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:20:19.683Z",
+    "last_updated": "2026-11-01T11:13:36.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
