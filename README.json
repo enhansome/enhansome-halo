@@ -218,7 +218,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 839,
+                    "stars": 840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -423,7 +423,7 @@
                     "open_issues": 6,
                     "owner": "Roozenlz",
                     "repo": "halo-theme-aurora",
-                    "stars": 104,
+                    "stars": 103,
                     "topics": [
                       "blog",
                       "halo",
@@ -495,7 +495,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T04:52:17Z",
+                    "last_commit": "2026-11-02T23:21:59Z",
                     "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -1341,7 +1341,7 @@
                     "id": 1186185021,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-04-13T05:59:04Z",
+                    "last_commit": "2026-11-03T09:21:00Z",
                     "open_issues": 1,
                     "owner": "waistu",
                     "repo": "halo-theme-Wing",
@@ -1586,7 +1586,7 @@
                     "open_issues": 19,
                     "owner": "halo-dev",
                     "repo": "plugin-s3",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -2153,7 +2153,7 @@
                     "open_issues": 11,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
-                    "stars": 252,
+                    "stars": 251,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -4401,7 +4401,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T09:08:38Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 210,
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:17:23.178Z",
+    "last_updated": "2026-11-03T11:52:30.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
