@@ -218,7 +218,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 840,
+                    "stars": 841,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -402,7 +402,7 @@
                     "open_issues": 1,
                     "owner": "iscottt",
                     "repo": "halo-theme-vapor",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -1341,7 +1341,7 @@
                     "id": 1186185021,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-03T09:21:00Z",
+                    "last_commit": "2026-11-04T08:41:50Z",
                     "open_issues": 1,
                     "owner": "waistu",
                     "repo": "halo-theme-Wing",
@@ -1611,7 +1611,7 @@
                     "open_issues": 17,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": [
                       "halo",
                       "halo-plugin"
@@ -3017,7 +3017,7 @@
                     "id": 1188432251,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-04T03:14:37Z",
+                    "last_commit": "2026-11-04T12:00:35Z",
                     "open_issues": 0,
                     "owner": "sunnyhmz7010",
                     "repo": "halo-plugin-schedule-calendar",
@@ -3595,8 +3595,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-01T20:35:26Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-03T20:33:58Z",
+                    "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4240,8 +4240,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T04:50:52Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-03T20:35:03Z",
+                    "open_issues": 6,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:52:30.278Z",
+    "last_updated": "2026-11-04T12:02:13.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
