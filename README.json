@@ -50,7 +50,7 @@
                     "open_issues": 2,
                     "owner": "halo-dev",
                     "repo": "halo-theme-anatole",
-                    "stars": 52,
+                    "stars": 51,
                     "topics": [
                       "halo",
                       "halo-theme"
@@ -335,7 +335,7 @@
                     "open_issues": 18,
                     "owner": "AirboZH",
                     "repo": "halo-theme-chirpy",
-                    "stars": 144,
+                    "stars": 143,
                     "topics": [
                       "halo",
                       "halo-theme",
@@ -516,7 +516,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T21:19:38Z",
+                    "last_commit": "2026-11-07T19:43:16Z",
                     "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -1656,8 +1656,8 @@
                     "id": 522400070,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T10:37:40Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-11-07T14:55:04Z",
+                    "open_issues": 20,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
                     "stars": 28,
@@ -2227,7 +2227,7 @@
                     "open_issues": 1,
                     "owner": "justice2001",
                     "repo": "halo-plugin-vditor",
-                    "stars": 35,
+                    "stars": 34,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -3017,7 +3017,7 @@
                     "id": 1188432251,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-04T17:42:32Z",
+                    "last_commit": "2026-11-08T09:08:37Z",
                     "open_issues": 0,
                     "owner": "sunnyhmz7010",
                     "repo": "halo-plugin-schedule-calendar",
@@ -3997,6 +3997,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-plugin-register",
+                  "description": "Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1186926312,
+                    "language": "Java",
+                    "license": null,
+                    "last_commit": "2026-04-02T07:46:21Z",
+                    "open_issues": 2,
+                    "owner": "iszkq",
+                    "repo": "halo-plugin-register",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-bark",
                   "description": "为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。",
                   "children": [],
@@ -4204,27 +4225,6 @@
                     "topics": [
                       "halo-plugin"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-plugin-register",
-                  "description": "Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1186926312,
-                    "language": "Java",
-                    "license": null,
-                    "last_commit": "2026-04-02T07:46:21Z",
-                    "open_issues": 1,
-                    "owner": "iszkq",
-                    "repo": "halo-plugin-register",
-                    "stars": 0,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:00:15.140Z",
+    "last_updated": "2026-11-08T11:14:11.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4597,7 +4597,7 @@
       "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 629,
+      "stars": 630,
       "topics": [
         "awesome",
         "awesome-list",
