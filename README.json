@@ -381,7 +381,7 @@
                     "open_issues": 3,
                     "owner": "zhheo",
                     "repo": "halo-theme-heolink",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -516,8 +516,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T20:35:31Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-11T02:15:32Z",
+                    "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -4240,8 +4240,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-09T20:35:56Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-10T20:35:04Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:32:40.375Z",
+    "last_updated": "2026-11-11T11:49:25.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4597,7 +4597,7 @@
       "open_issues": 1,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "awesome",
         "awesome-list",
