@@ -218,7 +218,7 @@
                     "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 840,
+                    "stars": 839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -265,7 +265,7 @@
                     "open_issues": 35,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 450,
+                    "stars": 449,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -286,7 +286,7 @@
                     "open_issues": 78,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
-                    "stars": 342,
+                    "stars": 341,
                     "topics": [
                       "halo",
                       "joe",
@@ -516,7 +516,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T02:15:32Z",
+                    "last_commit": "2026-11-11T22:32:58Z",
                     "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -610,7 +610,7 @@
                     "id": 1105181944,
                     "language": "SCSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-05T02:09:45Z",
+                    "last_commit": "2026-11-12T09:41:16Z",
                     "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
@@ -2269,8 +2269,8 @@
                     "id": 938098054,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-20T11:33:51Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-12T08:41:15Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "halo-plugin-summaraidGPT",
                     "stars": 17,
@@ -3522,6 +3522,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-steamview",
+                  "description": "为 Halo 提供 steam 游戏的前台及编辑器展示",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "steamview",
+                    "homepage": null,
+                    "id": 1135719409,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-03-19T14:55:58Z",
+                    "open_issues": 1,
+                    "owner": "sailtrack410",
+                    "repo": "plugin-steamview",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-pixabay",
                   "description": "Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片",
                   "children": [],
@@ -3673,27 +3694,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "plugin-steamview",
-                  "description": "为 Halo 提供 steam 游戏的前台及编辑器展示",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "steamview",
-                    "homepage": null,
-                    "id": 1135719409,
-                    "language": "JavaScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-03-19T14:55:58Z",
-                    "open_issues": 1,
-                    "owner": "sailtrack410",
-                    "repo": "plugin-steamview",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "halo-plugin-dishes",
                   "description": "一个家庭点菜插件，支持菜品管理、分类管理、点餐记录等功能，适用于家庭或小型场景。",
                   "children": [],
@@ -3727,7 +3727,7 @@
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-09T08:24:48Z",
                     "open_issues": 0,
-                    "owner": "BairongLuo",
+                    "owner": "miaochong",
                     "repo": "halo-private-posts",
                     "stars": 2,
                     "topics": [
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:49:25.850Z",
+    "last_updated": "2026-11-12T12:36:16.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
