@@ -516,8 +516,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T22:32:58Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-12T20:34:27Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -1432,7 +1432,7 @@
                     "id": 1221426307,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T09:25:32Z",
+                    "last_commit": "2026-11-12T22:27:40Z",
                     "open_issues": 2,
                     "owner": "CirillaQL",
                     "repo": "halo-theme-gui",
@@ -1853,7 +1853,7 @@
                     "id": 556216832,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-08T15:11:05Z",
+                    "last_commit": "2026-11-13T08:19:59Z",
                     "open_issues": 6,
                     "owner": "halo-sigs",
                     "repo": "plugin-highlightjs",
@@ -2017,7 +2017,7 @@
                     "id": 835629777,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T03:50:29Z",
+                    "last_commit": "2026-11-13T03:19:53Z",
                     "open_issues": 3,
                     "owner": "halo-sigs",
                     "repo": "plugin-shiki",
@@ -2153,7 +2153,7 @@
                     "open_issues": 11,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
-                    "stars": 250,
+                    "stars": 249,
                     "topics": [
                       "halo",
                       "halo-plugin",
@@ -2528,7 +2528,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T14:47:13Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "chengzhongxue",
                     "repo": "plugin-mail-template",
                     "stars": 9,
@@ -3543,6 +3543,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "qsl-management",
+                  "description": "业余无线电系列插件(1)：业余无线电QSL卡片管理系统，用于QSO记录、QSL收发卡、线上EYEBALL收发卡、线下EYEBALL收发卡等场景",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1206577913,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-17T05:14:40Z",
+                    "open_issues": 0,
+                    "owner": "bi1kbu",
+                    "repo": "qsl-management",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-pixabay",
                   "description": "Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片",
                   "children": [],
@@ -3616,8 +3637,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-09T20:35:22Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-12T20:33:56Z",
+                    "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -3719,7 +3740,7 @@
                   "description": "为 Halo 提供加密正文、浏览器本地解密和自动重锁的私密文章插件。",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Private encrypted posts plugin for Halo",
                     "homepage": null,
                     "id": 1218886933,
@@ -3733,27 +3754,6 @@
                     "topics": [
                       "halo-plugin"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "qsl-management",
-                  "description": "业余无线电系列插件(1)：业余无线电QSL卡片管理系统，用于QSO记录、QSL收发卡、线上EYEBALL收发卡、线下EYEBALL收发卡等场景",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1206577913,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-17T05:14:40Z",
-                    "open_issues": 0,
-                    "owner": "bi1kbu",
-                    "repo": "qsl-management",
-                    "stars": 2,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -4240,8 +4240,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T20:35:04Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-11-12T20:35:19Z",
+                    "open_issues": 9,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4404,7 +4404,7 @@
                 "open_issues": 91,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "blog",
                   "chrome-extension",
@@ -4585,7 +4585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:36:16.532Z",
+    "last_updated": "2026-11-13T12:07:20.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
