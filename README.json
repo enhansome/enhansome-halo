@@ -218,7 +218,7 @@
                     "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 839,
+                    "stars": 838,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -558,6 +558,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "theme-Serenity-Grace",
+                  "description": "简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "「Serenity」，简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式自由切换。",
+                    "homepage": null,
+                    "id": 1148684826,
+                    "language": "CSS",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-14T16:10:53Z",
+                    "open_issues": 3,
+                    "owner": "atangccc",
+                    "repo": "Serenity-Grace",
+                    "stars": 55,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "theme-moderna",
                   "description": "基于 bootstrapmade Moderna 的 Halo 2.0 主题",
                   "children": [],
@@ -572,27 +593,6 @@
                     "open_issues": 6,
                     "owner": "Arch4AI",
                     "repo": "theme-moderna",
-                    "stars": 54,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "theme-Serenity-Grace",
-                  "description": "简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "「Serenity」，简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式自由切换。",
-                    "homepage": null,
-                    "id": 1148684826,
-                    "language": "CSS",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T16:10:53Z",
-                    "open_issues": 1,
-                    "owner": "atangccc",
-                    "repo": "Serenity-Grace",
                     "stars": 54,
                     "topics": []
                   },
@@ -1607,7 +1607,7 @@
                     "id": 505368615,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-30T03:32:49Z",
+                    "last_commit": "2026-11-20T09:50:56Z",
                     "open_issues": 17,
                     "owner": "halo-sigs",
                     "repo": "plugin-links",
@@ -2506,7 +2506,7 @@
                     "id": 952323590,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-05T02:07:03Z",
+                    "last_commit": "2026-11-19T16:55:05Z",
                     "open_issues": 1,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
@@ -3017,7 +3017,7 @@
                     "id": 1188432251,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-19T05:27:38Z",
+                    "last_commit": "2026-11-20T06:56:26Z",
                     "open_issues": 0,
                     "owner": "hyrchen",
                     "repo": "halo-plugin-schedule-calendar",
@@ -3637,8 +3637,8 @@
                     "id": 1060646577,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-18T20:34:01Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-11-19T20:33:52Z",
+                    "open_issues": 13,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-extra-api",
                     "stars": 2,
@@ -4240,7 +4240,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T20:36:47Z",
+                    "last_commit": "2026-11-19T20:36:03Z",
                     "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4340,6 +4340,58 @@
                     ]
                   },
                   "first_seen": "2026-10-15T09:06:28.670Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-ai-chatbot",
+                  "description": "Asyntai AI 智能客服：为网站的每个页面添加 AI 智能客服（AI Chatbot），根据网站内容用访客的语言回答问题，支持 80 多种语言。一键连接，无需修改主题。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Asyntai AI 智能客服 (AI Chatbot) for Halo: an AI chatbot on every page of your Halo website. 为 Halo 网站添加 AI 智能客服。",
+                    "homepage": "https://asyntai.com/documentation/integrations/halo/",
+                    "id": 1423418499,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-20T05:06:27Z",
+                    "open_issues": 0,
+                    "owner": "asyntai",
+                    "repo": "halo-ai-chatbot",
+                    "stars": 0,
+                    "topics": [
+                      "ai-chatbot",
+                      "ai-customer-service",
+                      "asyntai",
+                      "chat-widget",
+                      "chatbot",
+                      "customer-support",
+                      "halo",
+                      "halo-cms",
+                      "halo-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-11-20T12:47:47.504Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-simnook",
+                  "description": "在 Halo 中管理号卡与消费记录，并提供公开的 SIM/eSIM 收藏展示墙",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "在 Halo 中管理号卡与消费记录，并提供公开的 SIM/eSIM 收藏展示墙",
+                    "homepage": null,
+                    "id": 1449293807,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-19T05:19:56Z",
+                    "open_issues": 0,
+                    "owner": "hyrchen",
+                    "repo": "halo-plugin-simnook",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-20T12:47:47.504Z"
                 }
               ],
               "description": null,
@@ -4400,8 +4452,8 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T04:25:00Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-20T10:14:31Z",
+                "open_issues": 67,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 212,
@@ -4585,7 +4637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:56:10.048Z",
+    "last_updated": "2026-11-20T12:47:47.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4593,8 +4645,8 @@
       "id": 522516845,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-15T09:05:45Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-20T08:00:20Z",
+      "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
       "stars": 631,
@@ -4604,7 +4656,7 @@
         "halo"
       ]
     },
-    "original_repository_sha": "b6c30bc680ccadeaa615c35ed396f2810fc52a0a",
+    "original_repository_sha": "86b188f933098c234e988c6631bfae36d77b02c5",
     "enhanced_repository": "enhansome/enhansome-halo",
     "enhanced_repository_description": null,
     "title": "Awesome halo with stars"
