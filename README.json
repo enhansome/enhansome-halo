@@ -568,8 +568,8 @@
                     "id": 1148684826,
                     "language": "CSS",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T16:10:53Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-21T08:50:52Z",
+                    "open_issues": 2,
                     "owner": "atangccc",
                     "repo": "Serenity-Grace",
                     "stars": 55,
@@ -1660,7 +1660,7 @@
                     "open_issues": 20,
                     "owner": "halo-dev",
                     "repo": "plugin-comment-widget",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": [
                       "halo",
                       "halo-plugin"
@@ -2179,7 +2179,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -4452,8 +4452,8 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T10:14:31Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-21T04:35:42Z",
+                "open_issues": 66,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 212,
@@ -4637,7 +4637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:47:47.504Z",
+    "last_updated": "2026-11-21T12:33:29.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
