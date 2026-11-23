@@ -189,7 +189,7 @@
                     "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 963,
+                    "stars": 962,
                     "topics": [
                       "blog",
                       "halo",
@@ -283,7 +283,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-01-06T15:19:14Z",
-                    "open_issues": 78,
+                    "open_issues": 77,
                     "owner": "jiewenhuang",
                     "repo": "halo-theme-joe3.0",
                     "stars": 341,
@@ -402,7 +402,7 @@
                     "open_issues": 1,
                     "owner": "iscottt",
                     "repo": "halo-theme-vapor",
-                    "stars": 105,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -516,8 +516,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T22:54:09Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-11-22T21:23:44Z",
+                    "open_issues": 9,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -614,7 +614,7 @@
                     "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "theme-clarity",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -4240,7 +4240,7 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-19T20:36:03Z",
+                    "last_commit": "2026-11-22T20:34:46Z",
                     "open_issues": 11,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
@@ -4452,8 +4452,8 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T04:35:42Z",
-                "open_issues": 66,
+                "last_commit": "2026-11-23T00:06:08Z",
+                "open_issues": 73,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 212,
@@ -4566,7 +4566,7 @@
                 "open_issues": 0,
                 "owner": "Mystery00",
                 "repo": "telegram-channel-publisher",
-                "stars": 16,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:24.646Z"
@@ -4637,7 +4637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:30:36.258Z",
+    "last_updated": "2026-11-23T14:29:48.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
