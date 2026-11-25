@@ -189,7 +189,7 @@
                     "open_issues": 13,
                     "owner": "LIlGG",
                     "repo": "halo-theme-sakura",
-                    "stars": 962,
+                    "stars": 961,
                     "topics": [
                       "blog",
                       "halo",
@@ -265,7 +265,7 @@
                     "open_issues": 35,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 449,
+                    "stars": 448,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -516,7 +516,7 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-24T05:07:35Z",
+                    "last_commit": "2026-11-25T00:12:57Z",
                     "open_issues": 10,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
@@ -631,7 +631,7 @@
                     "id": 1019186661,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-24T12:26:06Z",
+                    "last_commit": "2026-11-25T00:16:51Z",
                     "open_issues": 1,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
@@ -2149,8 +2149,8 @@
                     "id": 571447073,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T09:20:26Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-11-25T11:02:26Z",
+                    "open_issues": 8,
                     "owner": "LIlGG",
                     "repo": "plugin-live2d",
                     "stars": 249,
@@ -2179,7 +2179,7 @@
                     "open_issues": 0,
                     "owner": "Lentinel",
                     "repo": "plugin-Sakana-widget-Halo",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2507,7 +2507,7 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T12:11:38Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "halo-plugin-footprint",
                     "stars": 10,
@@ -4392,6 +4392,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-11-20T12:47:47.504Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "halo-plugin-ncm",
+                  "description": "网抑云，为 Halo 提供独立音乐页、网易云账号绑定、个人曲库和站点小播放器。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Halo 的网易云音乐插件，提供 Folia 音乐页、个人曲库和 Java API 适配。",
+                    "homepage": null,
+                    "id": 1468467412,
+                    "language": "Java",
+                    "license": "MIT",
+                    "last_commit": "2026-11-25T05:02:28Z",
+                    "open_issues": 0,
+                    "owner": "sky121666",
+                    "repo": "halo-plugin-ncm",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-25T14:13:44.060Z"
                 }
               ],
               "description": null,
@@ -4637,7 +4658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:47:18.342Z",
+    "last_updated": "2026-11-25T14:13:44.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
@@ -4645,7 +4666,7 @@
       "id": 522516845,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-20T08:00:20Z",
+      "last_commit": "2026-11-25T07:38:42Z",
       "open_issues": 0,
       "owner": "halo-sigs",
       "repo": "awesome-halo",
@@ -4656,7 +4677,7 @@
         "halo"
       ]
     },
-    "original_repository_sha": "86b188f933098c234e988c6631bfae36d77b02c5",
+    "original_repository_sha": "d15770ca6098e249c97503e4cf93a345d3b657e3",
     "enhanced_repository": "enhansome/enhansome-halo",
     "enhanced_repository_description": null,
     "title": "Awesome halo with stars"
