@@ -28,13 +28,13 @@
 #### 社区
 
 * [theme-sakura](https://github.com/LIlGG/halo-theme-sakura/tree/next) ⭐ 961 | 🐛 13 | 🌐 CSS | 📅 2026-10-29 - 适用于 Halo 2.0 的 Sakura 主题
-* [theme-hao](https://github.com/liuzhihang/halo-theme-hao) ⭐ 838 | 🐛 2 | 🌐 CSS | 📅 2026-07-16 - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,375 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 的魔改
+* [theme-hao](https://github.com/liuzhihang/halo-theme-hao) ⭐ 838 | 🐛 2 | 🌐 CSS | 📅 2026-07-16 - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,374 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 的魔改
 * [theme-xue](https://github.com/xzhuz/halo-theme-xue/tree/next) ⭐ 514 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-02 - 适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）
-* [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) ⭐ 448 | 🐛 35 | 🌐 CSS | 📅 2025-03-30 - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,375 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - 适用于 Halo 2.0 的 Butterfly 主题
+* [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) ⭐ 449 | 🐛 35 | 🌐 CSS | 📅 2025-03-30 - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) ⭐ 8,374 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - 适用于 Halo 2.0 的 Butterfly 主题
 * [halo-theme-joe3.0](https://github.com/jiewenhuang/halo-theme-joe3.0) ⭐ 341 | 🐛 77 | 🌐 JavaScript | 📅 2026-01-06 - 一款 Halo 2.0 的博客主题，由 [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) ⚠️ Archived 适配而来
 * [theme-higan](https://github.com/guqing/halo-theme-higan) ⭐ 147 | 🐛 7 | 🌐 CSS | 📅 2025-03-17 - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git) ⭐ 3,512 | 🐛 33 | 🌐 Stylus | 📅 2024-08-13
 * [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) ⭐ 143 | 🐛 18 | 🌐 HTML | 📅 2026-06-17 - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,341 | 🐛 41 | 🌐 HTML | 📅 2026-09-10
-* [theme-stack](https://github.com/jiewenhuang/halo-theme-stack) ⭐ 135 | 🐛 4 | 🌐 HTML | 📅 2025-09-07 - 移植于 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) ⭐ 6,493 | 🐛 15 | 🌐 HTML | 📅 2026-05-25 的个人博客主题
+* [theme-stack](https://github.com/jiewenhuang/halo-theme-stack) ⭐ 135 | 🐛 4 | 🌐 HTML | 📅 2025-09-07 - 移植于 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) ⭐ 6,491 | 🐛 15 | 🌐 HTML | 📅 2026-05-25 的个人博客主题
 * [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) ⭐ 110 | 🐛 3 | 🌐 HTML | 📅 2025-06-13 - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
 * [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) ⭐ 104 | 🐛 1 | 🌐 HTML | 📅 2026-04-03 - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so) ⭐ 2,035 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-09
 * [halo-theme-aurora](https://github.com/Roozenlz/halo-theme-aurora) ⭐ 103 | 🐛 6 | 🌐 CSS | 📅 2024-10-23 - 移植自 [hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) ⭐ 1,554 | 🐛 43 | 🌐 Vue | 📅 2024-10-30 适配 Halo2.x 的 Aurora 主题
@@ -46,16 +46,16 @@
 * [theme-Serenity-Grace](https://github.com/atangccc/Serenity-Grace) ⭐ 55 | 🐛 1 | 🌐 CSS | 📅 2026-11-21 - 简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。
 * [theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) ⭐ 54 | 🐛 6 | 🌐 HTML | 📅 2024-01-22 - 基于 [bootstrapmade Moderna](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/) 的 Halo 2.0 主题
 * [theme-clarity](https://github.com/acanyo/theme-clarity) ⭐ 48 | 🐛 2 | 🌐 SCSS | 📅 2026-11-21 - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
-* [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25 - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
+* [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25 - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
 * [theme-terminal](https://github.com/wan92hen/theme-terminal) ⭐ 44 | 🐛 2 | 🌐 HTML | 📅 2025-06-30 - 一款 Terminal 风格的 Halo 2.0 主题
 * [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) ⭐ 42 | 🐛 3 | 🌐 Astro | 📅 2026-07-31 - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari) ⭐ 5,197 | 🐛 177 | 🌐 Astro | 📅 2026-03-10。
 * [theme-ocean](https://github.com/f2ccloud/theme-ocean) ⭐ 41 | 🐛 6 | 🌐 HTML | 📅 2026-04-13 - 适用于 Halo 2.0 的 知识库类型主题
 * [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) ⭐ 36 | 🐛 2 | 🌐 CSS | 📅 2023-03-13 - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges) ⭐ 578 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-10
-* [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) ⭐ 27 | 🐛 7 | 🌐 HTML | 📅 2026-08-14 - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/) ⭐ 8,178 | 🐛 115 | 🌐 HTML | 📅 2025-06-12。
+* [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) ⭐ 27 | 🐛 7 | 🌐 HTML | 📅 2026-08-14 - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/) ⭐ 8,179 | 🐛 115 | 🌐 HTML | 📅 2025-06-12。
 * [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) ⭐ 26 | 🐛 12 | 🌐 CSS | 📅 2025-05-22 - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) ⭐ 40 | 🐛 0 | 🌐 CSS | 📅 2024-11-22 二次修改开发的 Halo 主题。
 * [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) ⭐ 20 | 🐛 11 | 🌐 HTML | 📅 2026-01-26 - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo) ⭐ 86 | 🐛 0 | 🌐 PHP | 📅 2023-08-23
 * [halo-theme-Mego](https://github.com/w-flac/theme-mego) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2026-03-25 - 一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。
-* [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) ⭐ 19 | 🐛 14 | 🌐 CSS | 📅 2026-01-26 - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) ⭐ 2,072 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-19。
+* [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) ⭐ 19 | 🐛 14 | 🌐 CSS | 📅 2026-01-26 - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) ⭐ 2,073 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-19。
 * [theme-next](https://github.com/AeroWang/theme-next) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-04 - 一个简洁的 Halo 博客主题 Next，技术栈 Next.js
 * [halo-theme-next](https://github.com/bit15k/halo-theme-next) ⭐ 18 | 🐛 5 | 🌐 CSS | 📅 2024-07-24 - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/) ⭐ 2,778 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-20。
 * [halo-theme-terminal-ez](https://github.com/Erzbir/halo-theme-terminal) ⭐ 17 | 🐛 1 | 🌐 SCSS | 📅 2026-08-22 - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) ⭐ 44 | 🐛 2 | 🌐 HTML | 📅 2025-06-30 修改
@@ -65,7 +65,7 @@
 * [halo-theme-aircloud](https://github.com/bit15k/halo-theme-aircloud) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-10 - 一个简洁轻量的 Halo 2.0 博客主题，旨在将中心放在博文本身, 移植于 [Hexo-Theme-AirCloud](https://github.com/aircloud/hexo-theme-aircloud) ⭐ 537 | 🐛 13 | 🌐 JavaScript | 📅 2023-05-15
 * [halo-theme-farallon](https://github.com/chengzhongxue/halo-theme-farallon) ⭐ 13 | 🐛 5 | 🌐 SCSS | 📅 2025-08-29 - Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 [Farallon](https://github.com/bigfa/Farallon) ⭐ 246 | 🐛 0 | 🌐 PHP | 📅 2025-08-05
 * [halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) ⭐ 12 | 🐛 4 | 🌐 HTML | 📅 2026-02-23 - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 [5iux搜索](https://sou.5iux.cn/)
-* [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) ⭐ 12 | 🐛 4 | 🌐 HTML | 📅 2025-06-21 - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) ⭐ 568 | 🐛 8 | 🌐 CSS | 📅 2025-04-01 二次开发。
+* [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) ⭐ 12 | 🐛 4 | 🌐 HTML | 📅 2025-06-21 - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) ⭐ 569 | 🐛 8 | 🌐 CSS | 📅 2025-04-01 二次开发。
 * [theme-Jyf](https://github.com/PpKoK/theme-jyf) ⭐ 11 | 🐛 0 | 🌐 CSS | 📅 2026-08-31 - Halo 极简纯文字博客主题
 * [theme-sky-blog-3(macos)](https://github.com/sky121666/theme-sky-blog-3) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-17 - Apple-like macOS 桌面壳层博客主题
 * [theme-geek](https://github.com/mytianya/halo-theme-geek) ⭐ 8 | 🐛 1 | 🌐 CSS | 📅 2023-02-14 - 基于 Octopress 移植的一款简约极客的 Halo 2.0 主题
@@ -75,7 +75,7 @@
 * [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-01-29 - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer) ⭐ 1,580 | 🐛 22 | 🌐 SCSS | 📅 2024-12-25,使用 halo 特性实现
 * [halo-theme-meaword](https://github.com/Meayair/Halo-Theme-MeaWord) ⭐ 4 | 🐛 2 | 🌐 CSS | 📅 2024-01-22 - 适用于 Halo 2.0 的 MeaWord 主题
 * [theme-sky blog 2](https://github.com/sky121666/theme-sky-blog-2) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24 - 复古终端风格主题，支持全键盘操作与 Vim 快捷键
-* [halo-theme-halorum](https://github.com/xzyone/halo-theme-halorum) ⭐ 4 | 🐛 1 | 🌐 CSS | 📅 2026-11-10 - Halorum 是一款面向 Halo 的轻论坛风格主题，基于 [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) ⭐ 481 | 🐛 1 | 🌐 CSS | 📅 2026-11-25 的视觉语言移植并重构。
+* [halo-theme-halorum](https://github.com/xzyone/halo-theme-halorum) ⭐ 4 | 🐛 1 | 🌐 CSS | 📅 2026-11-10 - Halorum 是一款面向 Halo 的轻论坛风格主题，基于 [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) ⭐ 481 | 🐛 1 | 🌐 CSS | 📅 2026-11-26 的视觉语言移植并重构。
 * [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-26 - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian) ⭐ 138 | 🐛 1 | 🌐 PHP | 📅 2025-09-21
 * [theme-sky-weather](https://github.com/huohuo-huo/-theme-sky-weather) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2026-08-21 - Huohuo Weather Glass，基于 Sky Blog Theme 二次开发的动态天气玻璃风 Halo 主题，支持白天动态云层、黄昏火烧云、夜间雨景视频背景与全站玻璃卡片。
 * [Wing](https://github.com/waistu/halo-theme-Wing) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2026-11-05 - 一款简洁流畅、数据驱动的响应式主题。
@@ -106,7 +106,7 @@
 * [plugin-search-widget](https://github.com/halo-dev/plugin-search-widget) ⭐ 14 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - 为 Halo 2.0 提供统一的搜索组件
 * [plugin-katex](https://github.com/halo-sigs/plugin-katex) ⭐ 14 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-02 - 为默认编辑器和文章渲染提供 KaTeX 支持
 * [plugin-app-store](https://github.com/halo-dev/plugin-app-store) ⭐ 13 | 🐛 3 | 🌐 Vue | 📅 2024-01-24 - 集成 Halo 官方应用市场到 Console
-* [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) ⭐ 11 | 🐛 6 | 🌐 CSS | 📅 2026-11-13 - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 25,020 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-11 的集成，支持在内容页高亮显示代码块
+* [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) ⭐ 11 | 🐛 6 | 🌐 CSS | 📅 2026-11-13 - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 25,019 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-11 的集成，支持在内容页高亮显示代码块
 * [plugin-umami](https://github.com/halo-sigs/plugin-umami) ⭐ 11 | 🐛 8 | 🌐 Java | 📅 2025-01-02 - Halo 2.0 对 Umami 的集成
 * [plugin-feed](https://github.com/halo-dev/plugin-feed) ⭐ 11 | 🐛 7 | 🌐 Java | 📅 2025-09-13 - Halo 2.0 的 RSS 订阅链接生成插件
 * [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) ⚠️ Archived - Halo 2.0 的阿里云 OSS 存储策略插件
@@ -136,8 +136,8 @@
 * [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2025-11-16 - Halo 2.x 的 GitHub OSS 存储插件
 * [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) ⭐ 11 | 🐛 1 | 📅 2025-08-16 - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
 * [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2024-12-02 让你的博客变得更好！功能相见仓库README文档。
+* [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-26 - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
 * [plugin-afdian](https://github.com/carolcoral/plugin-afdian) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2026-08-10 - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
-* [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-22 - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
 * [plugin-mail-template](https://github.com/chengzhongxue/plugin-mail-template) ⭐ 9 | 🐛 1 | 🌐 Java | 📅 2026-09-21 - 邮件模板管理，查看、编辑邮件模板。
 * [plugin-content-tools](https://github.com/ruibaby/plugin-content-tools) ⭐ 9 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 - 为 Halo 添加内容格式转换、文章导入导出等功能。
 * [plugin-lottie](https://github.com/SwaggyMacro/plugin-lottie) ⭐ 9 | 🐛 1 | 🌐 Vue | 📅 2026-09-03 - 让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。
@@ -145,10 +145,10 @@
 * [plugin-issues](https://github.com/wenjing-xin/plugin-issues) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-25 - 言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流
 * [auth-passkey](https://github.com/iLay1678/halo-plugin-auth-passkey) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2026-10-11 - 为 Halo 提供 Passkey (WebAuthn) 无密码认证支持
 * [plugin-steam](https://github.com/Tim0x0/halo-plugin-steam) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-09-04 - Halo Steam展示插件: 展示 Steam 用户资料、游戏库和最近游玩记录
-* [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-12 - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) ⭐ 13,079 | 🐛 469 | 🌐 JavaScript | 📅 2026-11-19 插件
+* [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-12 - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) ⭐ 13,080 | 🐛 469 | 🌐 JavaScript | 📅 2026-11-19 插件
 * [plugin-webhook](https://github.com/wxyShine/plugin-webhook) ⭐ 7 | 🐛 5 | 🌐 Java | 📅 2025-04-25 - 为 Halo 2.0 提供 Webhook 支持，该插件允许用户在特定事件发生时（如文章发布、新评论、回复评论等事件）发送通知到指定的 Webhook URL。
 * [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) ⭐ 7 | 🐛 1 | 🌐 Java | 📅 2024-07-02 - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。（已停止维护，可以使用 [plugin-meilisearch](https://github.com/halo-sigs/plugin-meilisearch) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-20 代替）
-* [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) ⭐ 7 | 🐛 1 | 🌐 Java | 📅 2026-10-30 - 封面图 可以帮您自动生成一个文章封面图!
+* [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-11-27 - 封面图 可以帮您自动生成一个文章封面图!
 * [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2024-07-31 - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 * [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-03-24 - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 * [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2026-03-16 - Halo自动备份插件
@@ -181,7 +181,7 @@
 * [halo-plugin-pangu](https://github.com/Aziteee/halo-plugin-pangu) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2024-11-17 - 自动对文章内容执行 [Pangu](https://github.com/vinta/pangu.js) ⭐ 4,863 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-24 格式化，在中英文之间加入空格。
 * [plugin-IndexNow](https://github.com/acanyo/plugin-IndexNow) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-16 - IndexNow 能让你的 URL 更快被收录.
 * [plugin-vote](https://github.com/chengzhongxue/plugin-vote) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-15 - 投票插件, 创建管理投票
-* [plugin-data-statistics](https://github.com/acanyo/plugin-data-statistics) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-26 - 为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入
+* [plugin-data-statistics](https://github.com/acanyo/plugin-data-statistics) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-27 - 为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入
 * [plugin-timeline](https://github.com/acanyo/plugin-timeline) ⭐ 3 | 🐛 1 | 🌐 Vue | 📅 2026-02-11 - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
 * [plugin-cdn-cache](https://github.com/SwaggyMacro/plugin-cdn-cache) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2026-05-08 - 一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。
 * [Halo-Plugin-Dicebear-Avatar](https://github.com/YunJian101/Halo-Plugin-Dicebear-Avatar) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2026-11-14 - 利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。
@@ -208,6 +208,7 @@
 * [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-04-18 - 开启维护模式进入站点维护页面
 * [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-10-06 - 为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
 * [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) ⭐ 1 | 🐛 2 | 🌐 Java | 📅 2026-04-02 - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
+* [plugin-kmath](https://github.com/Akvicor/plugin-kmath) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-07-01 - 为默认编辑器和文章渲染提供 KaTeX/MathJax 支持
 * [halo-plugin-bark](https://github.com/pig-gua/halo-plugin-bark) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-05-15 - 为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。
 * [global-private](https://github.com/Frost-leafleaf/global-private) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-05-28 - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
 * [plugin-import-hw-doc](https://github.com/yss930819/halo-plugin-import-hw-doc) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2024-09-12 - 为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入
@@ -218,8 +219,7 @@
 * [plugin-tikz](https://github.com/sqwfly/halo-plugin-tikz) ⭐ 0 | 🐛 0 | 🌐 Vue | 📅 2026-01-30 - 为默认编辑器和文章渲染提供 TikZ 支持
 * [plugin-redis-connector](https://github.com/acanyo/plugin-redis-connector) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-01-30 - 为其他插件提供统一的 Redis 操作能力
 * [plugin-redirects](https://github.com/Leezj9671/halo-redirects) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-02 - 管理 SEO 和页面 URL变动时的重定向能力
-* [halo-plugin-transformer](https://github.com/HowieHz/halo-plugin-transformer) ⭐ 0 | 🐛 4 | 🌐 Java | 📅 2026-11-26 - 适用于 Halo 的页面转换器插件，按规则改写指定页面内容。
-* [plugin-kmath](https://github.com/Akvicor/plugin-kmath) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-07-01 - 为默认编辑器和文章渲染提供 KaTeX/MathJax 支持
+* [halo-plugin-transformer](https://github.com/HowieHz/halo-plugin-transformer) ⭐ 0 | 🐛 7 | 🌐 Java | 📅 2026-11-26 - 适用于 Halo 的页面转换器插件，按规则改写指定页面内容。
 * [plugin-shortcode](https://github.com/Akvicor/plugin-shortcode) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - 为 Halo 编辑器提供特殊功能标签支持
 * [halo-plugin-site-notifications](https://github.com/iLay1678/halo-plugin-site-notifications) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-15 - 为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知
 * [halo-plugin-oidc-server](https://github.com/iLay1678/halo-plugin-oidc-server) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-13 - 为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用
@@ -230,7 +230,7 @@
 ### 其他
 
 * [elog](https://github.com/LetTTGACO/elog) ⭐ 1,875 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-29 - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-* [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) ⭐ 213 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-26 - 支持将思源笔记的文章发布到 Halo。
+* [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) ⭐ 213 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-27 - 支持将思源笔记的文章发布到 Halo。
 * [obsidian-halo](https://github.com/halo-sigs/obsidian-halo) ⭐ 54 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-24 - Obsidian 发布插件，支持发布、更新文档到 Halo。
 * [vscode-extension-halo](https://github.com/halo-sigs/vscode-extension-halo) ⭐ 26 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-23 - VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。
 * [Halo Image Plugin](https://github.com/GodlessLiu/Halo-Image-Plugin) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-07 - 浏览器插件，一键上传图片到 Halo 附件。
@@ -240,4 +240,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

@@ -265,7 +265,7 @@
                     "open_issues": 35,
                     "owner": "dhjddcn",
                     "repo": "halo-theme-butterfly",
-                    "stars": 448,
+                    "stars": 449,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -635,7 +635,7 @@
                     "open_issues": 1,
                     "owner": "sky121666",
                     "repo": "halo-theme-sky-blog-1",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -2473,6 +2473,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "halo-plugin-footprint",
+                  "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+                    "homepage": "https://www.lik.cc",
+                    "id": 952323590,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-26T16:58:49Z",
+                    "open_issues": 1,
+                    "owner": "acanyo",
+                    "repo": "halo-plugin-footprint",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "plugin-afdian",
                   "description": "Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。",
                   "children": [],
@@ -2491,27 +2512,6 @@
                     "topics": [
                       "afdian"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "halo-plugin-footprint",
-                  "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
-                    "homepage": "https://www.lik.cc",
-                    "id": 952323590,
-                    "language": "JavaScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-22T12:11:38Z",
-                    "open_issues": 2,
-                    "owner": "acanyo",
-                    "repo": "halo-plugin-footprint",
-                    "stars": 10,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -2744,8 +2744,8 @@
                     "id": 985779780,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-30T05:53:02Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-27T07:22:34Z",
+                    "open_issues": 0,
                     "owner": "acanyo",
                     "repo": "plugin-coverImage",
                     "stars": 7,
@@ -3448,8 +3448,8 @@
                     "id": 1091102341,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-03-26T06:19:05Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-27T06:04:23Z",
+                    "open_issues": 2,
                     "owner": "acanyo",
                     "repo": "plugin-data-statistics",
                     "stars": 3,
@@ -4018,6 +4018,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "plugin-kmath",
+                  "description": "为默认编辑器和文章渲染提供 KaTeX/MathJax 支持",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "为默认编辑器和文章渲染提供 数学公式 支持。",
+                    "homepage": "https://halo.run/store/apps/app-ISCsX",
+                    "id": 1221363266,
+                    "language": "Java",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-07-01T13:26:48Z",
+                    "open_issues": 0,
+                    "owner": "Akvicor",
+                    "repo": "plugin-kmath",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:35:24.646Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "halo-plugin-bark",
                   "description": "为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。",
                   "children": [],
@@ -4240,8 +4261,8 @@
                     "id": 1201769334,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-26T09:37:26Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-26T20:34:48Z",
+                    "open_issues": 7,
                     "owner": "HowieHz",
                     "repo": "halo-plugin-transformer",
                     "stars": 0,
@@ -4250,27 +4271,6 @@
                       "halo-plugin",
                       "halo-plugin-transformer"
                     ]
-                  },
-                  "first_seen": "2026-08-28T16:35:24.646Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-kmath",
-                  "description": "为默认编辑器和文章渲染提供 KaTeX/MathJax 支持",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "为默认编辑器和文章渲染提供 数学公式 支持。",
-                    "homepage": "https://halo.run/store/apps/app-ISCsX",
-                    "id": 1221363266,
-                    "language": "Java",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-07-01T13:26:48Z",
-                    "open_issues": 0,
-                    "owner": "Akvicor",
-                    "repo": "plugin-kmath",
-                    "stars": 0,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
                 },
@@ -4473,8 +4473,8 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T01:13:04Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-27T13:15:35Z",
+                "open_issues": 66,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 213,
@@ -4658,7 +4658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:49:45.146Z",
+    "last_updated": "2026-11-27T13:46:49.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
