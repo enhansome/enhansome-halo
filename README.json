@@ -218,7 +218,7 @@
                     "open_issues": 2,
                     "owner": "chengzhongxue",
                     "repo": "halo-theme-hao",
-                    "stars": 838,
+                    "stars": 839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:24.646Z"
@@ -516,8 +516,8 @@
                     "id": 778325296,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T09:30:30Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-27T23:49:06Z",
+                    "open_issues": 8,
                     "owner": "HowieHz",
                     "repo": "halo-theme-higan-hz",
                     "stars": 63,
@@ -1705,7 +1705,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-18T07:46:00Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "halo-sigs",
                     "repo": "plugin-hybrid-edit-block",
                     "stars": 17,
@@ -4442,7 +4442,7 @@
                 "open_issues": 19,
                 "owner": "LetTTGACO",
                 "repo": "elog",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "blog",
                   "confluence",
@@ -4473,8 +4473,8 @@
                 "id": 518482967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-27T13:15:35Z",
-                "open_issues": 66,
+                "last_commit": "2026-11-27T20:01:29Z",
+                "open_issues": 40,
                 "owner": "terwer",
                 "repo": "siyuan-plugin-publisher",
                 "stars": 213,
@@ -4658,7 +4658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:46:49.850Z",
+    "last_updated": "2026-11-28T12:55:00.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "与 Halo 相关的周边生态资源列表",
